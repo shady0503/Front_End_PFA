@@ -1,0 +1,113 @@
+.Login-Container {
+    width: 100%;
+    height: 120vh;
+    margin-top: 0;
+    margin: 0;
+    padding: 0vh;
+    position: relative;
+}
+
+
+.Sign-in-form {
+    max-height: 900px;
+    width: 400px;
+    background-color: rgba(233, 215, 215, 0.055);
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+    padding: 50px 35px;
+}
+
+.Sign-in-form * {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    outline: none;
+    border: none;
+}
+
+.Sign-in-form h3 {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42px;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#username, #password , #new-username, #new-password, #confirm-password{
+    display: block;
+    height: 50px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+    border: solid 1px;
+    box-sizing: border-box;
+    box-shadow: inset;
+}
+
+::placeholder {
+    color: black;
+}
+
+.login-button {
+    margin-top: 50px;
+    width: 100%;
+    border: solid 1px black;
+    color: black;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.social {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social div {
+    width: 150px;
+    border-radius: 3px;
+    padding: 5px 10px 10px 5px;
+    background-color: rgba(255, 255, 255, 0.27);
+    text-align: center;
+    border: solid 1px black;
+}
+
+
+
+.go:hover, .fb:hover, .icon:hover {
+    color: white !important;
+    .icon{
+        color: white;
+    }
+}
+
+.sign-up-btn{
+    display: flex;
+    gap: 2VH;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.log-in{
+    width: 35%;
+    margin: auto;
+}

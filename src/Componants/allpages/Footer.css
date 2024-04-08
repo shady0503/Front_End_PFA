@@ -1,0 +1,86 @@
+.Copy-Right{
+    text-align: center;
+    padding: 20px;
+    background: rgb(54, 50, 50);
+    padding-bottom: 40px;
+    color: white;
+    h1{
+        font-size: 20px;
+    }
+    p{
+        text-align: justify;
+        text-align: center;
+    }
+}
+
+.Contenoir{
+    
+    background: lightgrey;
+    margin: 0;
+    padding: 0;
+    width: 100dvw;
+}
+.Contenoir div:not(:last-child) {
+    border-right: 1px solid #000;
+    border-right: 20px;
+}
+
+.Contenoir div:not(:first-child) {
+    border-left: 1px solid #000;
+    padding-left: 20px;
+}
+.Contenoir div{
+    width: 100%;
+    padding-bottom: 20px;
+    text-align: start;
+    margin: 30px ;
+    h1{
+        font-size: 20px;
+        color: black;
+    }
+}
+
+.Contenoir div .list{
+    list-style: none;
+    width: 20dvw;
+    justify-content: center;
+    padding: 0;
+    .list-element{
+        margin-top: 5px;
+    }
+    .list-link{
+        color: #000;
+        text-decoration: none;
+
+    }
+}
+
+
+
+@media (max-width : 786px) {
+    
+    .Contenoir div{
+        width: 100%;
+        padding-bottom: 20px;
+        text-align: start;
+        h1{
+            align-self:baseline;
+            font-size: 24px;
+            text-decoration: underline;
+            color: black;
+        }
+    }
+    .Contenoir{
+    flex-direction: column;
+    }
+
+    .Contenoir div{
+        border: none !important;
+        margin: 0;
+        justify-content: center !important;
+        align-items: center !important;
+        padding-left: 0 !important;
+        padding: 10px !important;
+        border-bottom: 1px solid black !important;
+    }
+}

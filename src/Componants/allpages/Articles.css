@@ -1,0 +1,126 @@
+
+.article{
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid transparent;
+    padding: 3dvh;
+    width: 30DVW;
+    height: 550px;
+    background: rgba(255, 255, 255, 0.426);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3),
+                0 6px 20px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    scrollbar-width: none;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.img-title-container{
+    align-self: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.article:hover{
+    border-color: #000; /* Now the border is visible */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Shadow appears */}
+
+.article-list{
+    display: grid;
+    justify-content: space-evenly !important;
+    align-items: center;
+    grid-template-columns: auto auto auto;
+    gap: 2px !important;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+
+}
+
+
+
+
+.article img{
+    width: 30dvh;
+    height: 30dvh;
+    display: block;
+    transition: transform 0.5s;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: dashed black 1px;
+    cursor: pointer;
+    
+}
+.ajout{
+    display: flex;
+    color: #000;
+    align-items: baseline;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.title{
+    font-weight: 750;
+    text-decoration: none !important;
+    color: black;
+}
+
+.price{
+    font-size: 28px;
+}
+
+.article-button{
+    white-space: nowrap;
+    margin-left: auto;
+    color: #000;
+    background-color: white;
+    border: 1px solid black;
+}
+.article-button:hover{
+    color: white;
+    background-color: #000;
+}
+
+@media (max-width : 1000px) {
+    .article-list{
+        width: 100dvw;
+        grid-template-columns: auto auto;
+        gap: 10px;
+        place-content: center;
+    }
+    .article-list:last-child{
+        margin-top: 10px  !important;
+    }
+    .article{
+        width: 100%;
+    }
+    
+}
+@media (max-width : 500px) {
+    .article{
+        width: 100%;
+    }
+    
+}
+
+@media (max-width : 600px) {
+    .article-list{
+        width: 500px !important;
+        grid-template-columns: auto;
+        
+    }
+    .article{
+        width: 100% !important;
+        margin-right: 200px !important;
+    }
+    
+}

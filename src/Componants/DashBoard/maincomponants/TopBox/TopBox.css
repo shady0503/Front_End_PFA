@@ -1,0 +1,90 @@
+.topBox {
+    h1 {
+        margin-bottom: 20px;
+    }
+
+    .list {
+
+        .listItem {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 30px;
+            cursor: pointer;
+
+            &:hover {
+                background-color: var(--soft-bg);
+                border-radius: 5px;
+            }
+
+            .user {
+                display: flex;
+                gap: 20px;
+
+
+                img {
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 50%;
+
+                }
+
+                .userTexts {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 5px;
+
+                    .username {
+                        font-size: 14px;
+                        font-weight: 500;
+                    }
+
+                    .email {
+                        font-size: 12px;
+                        font-weight: 500;
+
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media (max-width: 1200px) {
+    .topBox {
+        h1 {
+            font-size: 24px;
+        }
+
+        .list {
+            .listItem {
+                .user {
+                    img {
+                        display: none;
+                    }
+
+                    .userTexts {
+                        .email {
+                            display: none;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width : 1024px) {
+    .topBox {
+        .list {
+            .listItem {
+                .user {
+                    img {
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,45 @@
+:root {
+    --main-bg: #2A3447;
+    --soft-bg: #384256;
+    --dark-bg: #222B3C;
+    --main-color: white;
+    --soft-color: #DDD;
+    --dark-color: #2a3447
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.main {
+    font-family: "Inter", sans-serif;
+    background-color: var(--main-bg);
+    width: 100%;
+    color: var(--main-color);
+}
+
+.admincontainer {
+    display: flex;
+    width: 100%;
+}
+
+.menuContainer {
+    width: 250px;
+    padding: 5px 20px;
+    border-right: 2px solid var(--soft-bg);
+}
+
+.contentContainer {
+    padding: 5px 20px;
+    display: flex;
+    width: 100%;
+}
+
+
+
+@media (max-width: 1024px) {
+    .menuContainer{
+        width: max-content;
+    }
+}

@@ -1,0 +1,44 @@
+:root {
+    --main-bg: #2A3447;
+    --soft-bg: #384256;
+    --dark-bg: #222B3C;
+    --main-color: white;
+    --soft-color: #DDD;
+    --dark-color: #2a3447
+}
+
+.menuItem{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.menuTitle{
+    font-size: small;
+    font-weight: 200;
+    color: var(--soft-color) ;
+    text-transform: uppercase;
+}
+
+.listItem{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+
+    &:hover{
+        background-color: var(--soft-bg);
+        border-radius: 5px ;
+    }
+}
+
+@media (max-width : 1024px) {
+    .menuTitle{
+        display: none;
+    }
+
+    .listItemTitle{
+        display: none;
+    }
+}

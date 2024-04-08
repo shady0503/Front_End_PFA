@@ -1,0 +1,16 @@
+.users{
+    width: 100%;
+}
+
+.info{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 20px;
+
+    button{
+        padding: 5px;
+        cursor: pointer;
+        border-radius: 10px;
+    }
+}
