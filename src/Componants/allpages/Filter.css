@@ -3,6 +3,8 @@
     overflow-y: scroll;
     scrollbar-width: 20px;
     flex-wrap: wrap;
+    position: absolute;
+    width: 100%;
     top: 20vh;
     scrollbar-width: 1px;
     margin-right: 20px;
@@ -148,6 +150,9 @@ input[type="checkbox"]:disabled {
     }
     .Filter{
         width: 100%;
+        margin-top: 0;
+        position: relative;
+        height: 20vh;
     }
 }
 
@@ -159,5 +164,11 @@ input[type="checkbox"]:disabled {
 
     .laptops-page{
         flex-direction: column;
+    }
+
+    .Filter{
+        position: relative;
+        margin-bottom: 150px;
+        height: auto;
     }
 }
