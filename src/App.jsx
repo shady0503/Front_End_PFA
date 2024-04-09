@@ -16,7 +16,7 @@ import DashBoard from './Componants/DashBoard/Dashboard';
 
 function App() {
   const location = useLocation();
-  const showHeaderAndFooter = !location.pathname.startsWith('/Dashboard');
+  const showHeaderAndFooter = !location.pathname.startsWith('/Front_End_PFA/Dashboard');
 
   useScrollToTop()
   return (
@@ -24,16 +24,16 @@ function App() {
       <div className='App-Container d-flex flex-column'>
         {showHeaderAndFooter && <Header />}
         <Routes>
-            <Route path="cart" element={<Cart />} />
-            <Route path="LandingPage" element={<LandingPage />} />
-            <Route path="/" element={<HomePage />} />
-            <Route path="login" element={<LogIn />} />
-            <Route path="laptops" element={<Laptops filter="True" />} />
-            <Route path="Phones" element={<Laptops filter="True" />} />
-            <Route path="Accessories" element={<Laptops filter="True" />} />
-            <Route path="Deals" element={<Laptops filter="false" />} />
-            <Route path="Support" element={<Support />} />
-            <Route path="Dashboard/*" element={<DashBoard/>}></Route>
+            <Route path="/Front_End_PFA/cart" element={<Cart />} />
+            <Route path="/Front_End_PFA/LandingPage" element={<LandingPage />} />
+            <Route path="/Front_End_PFA/" element={<HomePage />} />
+            <Route path="/Front_End_PFA/login" element={<LogIn />} />
+            <Route path="/Front_End_PFA/laptops" element={<Laptops filter="True" />} />
+            <Route path="/Front_End_PFA/Phones" element={<Laptops filter="True" />} />
+            <Route path="/Front_End_PFA/Accessories" element={<Laptops filter="True" />} />
+            <Route path="/Front_End_PFA/Deals" element={<Laptops filter="false" />} />
+            <Route path="/Front_End_PFA/Support" element={<Support />} />
+            <Route path="/Front_End_PFA/Dashboard/*" element={<DashBoard/>}></Route>
           </Routes>
         {showHeaderAndFooter && <Footer />}
       </div>

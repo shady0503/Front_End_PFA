@@ -22,11 +22,11 @@ export default function DataTable(props) {
         renderCell: (params) => {
             return (
                 <div className="action">
-                    <Link to={`/Dashboard/${props.slug}/${params.row.id}`}>
-                        <img src="/view.svg" alt="" />
+                    <Link to={`/Front_End_PFA/Dashboard/${props.slug}/${params.row.id}`}>
+                        <img src="/Front_End_PFA/view.svg" alt="" />
                     </Link>
                     <div className="delete" onClick={() => handleDelete(params.row.id)}>
-                        <img src="/delete.svg" alt="" />
+                        <img src="/Front_End_PFA/delete.svg" alt="" />
                     </div>
                 </div>
             );
@@ -34,7 +34,7 @@ export default function DataTable(props) {
     };
     return (
         <div className='dataTable'>
-            <Box sx={{ height: '99d%', width: '100%' }}>
+            <Box sx={{ height: '99%', width: '100%' }}>
                 <DataGrid className='dataGrid'
                     rows={rows}
                     columns={[...props.columns, actionColumn]}

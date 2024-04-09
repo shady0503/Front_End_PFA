@@ -29,9 +29,10 @@ export default function HomePage() {
             </div>
             <h1 className='heading-title'>Popular Articles: </h1>
             <div className='article-list'>
-                <Articles  ></Articles>
-                <Articles  ></Articles>
-                <Articles  ></Articles>
+                <Articles  key={5} item={items[5]}></Articles>
+                <Articles  key={6} item={items[6]}></Articles>
+                <Articles  key={7} item={items[7]}></Articles>
+
             </div>
             <div className="d-flex justify-content-center align-items-center">
                 <Link to="Deals">

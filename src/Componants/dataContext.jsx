@@ -8,7 +8,7 @@ export const DataProvider = ({ children }) => {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const jsonUrl = '/src/random_data.json';
+                const jsonUrl = '/Front_End_PFA/src/random_data.json';
                 const response = await fetch(jsonUrl);
                 const loadedData = await response.json();
                 setData({

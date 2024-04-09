@@ -30,32 +30,32 @@ export default function Header(props) {
                 <nav>
                     <ul className='main-nav'>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/">Home</Link>
+                            <Link className="nav-link" to="/Front_End_PFA/">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/laptops">Laptops</Link>
+                            <Link className="nav-link" to="/Front_End_PFA/laptops">Laptops</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/phones">Phones</Link>
+                            <Link className="nav-link" to="/Front_End_PFA/phones">Phones</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/accessories">Accessories</Link>
+                            <Link className="nav-link" to="/Front_End_PFA/accessories">Accessories</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/deals">Deals</Link>
+                            <Link className="nav-link" to="/Front_End_PFA/deals">Deals</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/support">Support</Link>
+                            <Link className="nav-link" to="/Front_End_PFA/support">Support</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/login">Log in</Link>
+                            <Link className="nav-link" to="/Front_End_PFA/login">Log in</Link>
                         </li>
                     </ul>
                 </nav>
                 <ul className='user-nav'>
                     <li><Link><FontAwesomeIcon className="icn" icon={faQuestion} /></Link></li>
-                    <li><Link to="Cart"><FontAwesomeIcon className="icn" icon={faCartShopping}></FontAwesomeIcon></Link></li>
-                    <li><Link to="/Dashboard"><FontAwesomeIcon className="icn" icon={faUser} /></Link></li>
+                    <li><Link to="/Front_End_PFA/Cart"><FontAwesomeIcon className="icn" icon={faCartShopping}></FontAwesomeIcon></Link></li>
+                    <li><Link to="/Front_End_PFA/Dashboard"><FontAwesomeIcon className="icn" icon={faUser} /></Link></li>
                 </ul>
             </div>
 

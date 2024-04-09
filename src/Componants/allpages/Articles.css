@@ -36,8 +36,8 @@
     display: grid;
     justify-content: space-evenly !important;
     align-items: center;
-    grid-template-columns: auto auto auto;
-    gap: 2px !important;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px !important;
     margin-top: 50px;
     margin-bottom: 20px;
     word-wrap: break-word;
@@ -93,7 +93,7 @@
 @media (max-width : 1000px) {
     .article-list{
         width: 100dvw;
-        grid-template-columns: auto auto;
+        grid-template-columns: repeat(2, 1fr);
         gap: 10px;
         place-content: center;
     }
@@ -115,7 +115,7 @@
 @media (max-width : 600px) {
     .article-list{
         width: 500px !important;
-        grid-template-columns: auto;
+        grid-template-columns: repeat(1, 1fr);
         
     }
     .article{
