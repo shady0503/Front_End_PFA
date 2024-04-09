@@ -1,16 +1,14 @@
 import React, { createContext, useState, useEffect } from 'react';
 import '../random_data.json'
 export const DataContext = createContext();
+import loadedData from "../random_data.json"
 
 export const DataProvider = ({ children }) => {
     const [data, setData] = useState({ items: [], promotionItems: [], cartItems: [] });
 
     useEffect(() => {
-        const fetchData = async () => {
+        const fetchData =  () => {
             try {
-                const jsonUrl = '/Front_End_PFA/src/random_data.json';
-                const response = await fetch(jsonUrl);
-                const loadedData = await response.json();
                 setData({
                     items: loadedData.items,
                     promotionItems: loadedData.promotion_items,
