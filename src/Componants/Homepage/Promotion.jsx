@@ -43,7 +43,8 @@ export default function Promotion() {
                 <p>{promotionDetails[currentPic].description}</p>
                 <Link to="LandingPage">
                     <button className="fs-4 fw-bold rounded-pill py-1 promotion-btn">Shop</button>
-                </Link>            </div>
+                </Link>
+            </div>
             <div
                 className="image-container"
                 style={{ backgroundImage: `url(${promotionsPicture[currentPic]})` }}

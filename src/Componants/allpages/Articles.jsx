@@ -21,7 +21,7 @@ export default function Articles(props) {
             <div className="img-title-container">
                 <h3 className="title">{item.name}</h3>
 
-                <Link to='/LandingPage' >
+                <Link to='/Front_End_PFA/LandingPage' >
                     <img src={pc} alt="" />
                 </Link>
             </div>

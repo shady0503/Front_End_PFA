@@ -50,7 +50,7 @@ function App() {
     <DataProvider>
       <div className='App-Container d-flex flex-column'>
         {showHeaderAndFooter && (
-              <div className='header-container' style={{width : window.innerWidth > 900 || open ? '100%' : '0%'}}>
+              <div className='header-container' style={{width: "100%"}}>
               {(open && <div className='hamberger-container'  onClick={()=>{setOpen(!open)}}>
                 <div className='hamberger first'></div>
                 <div className='hamberger second'></div>
