@@ -1,0 +1,132 @@
+.navbar{
+    width: 100%;
+}
+.header-container{
+    justify-self: flex-start !important;
+    align-self: flex-start !important;
+    position: sticky !important;
+    top: 0;
+    z-index: 10000;
+    margin-bottom: 20px;
+    padding: 0;
+
+}
+
+.navbar-item{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    color: white;
+
+    transition: all ease 0.3s;
+}
+.navbar-item:hover{
+    transform: scale(1.1) !important;
+    background-color: rgba(23, 22, 22, 0.3) !important;
+    color: white;
+}
+.navbar {
+    background-color: rgba(23, 22, 22);
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    span {
+        display: none;
+    }
+}
+
+.hamberger-container {
+    position: absolute;
+    top: 10px;
+    display: none;
+    left: 10px;
+}
+
+.hamberger {
+    
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 20px;
+}
+.logo{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.navbar-nav {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    flex-direction: row;
+}
+
+@media (max-width:1250px) {
+
+    .navbar, .navbar-nav {
+        display: flex;
+        flex-direction: column !important;
+        align-items: flex-start;
+        width: max-content;
+        border-bottom-right-radius: 10px;
+    }
+    .header-container{
+        height: 50px;
+        background-color: rgba(23, 22, 22);
+    }
+    .hamberger-container {
+        display: block;
+        top: 5px;
+    }
+    .hamberger{
+        background-color: white;
+    }
+
+    .navbar {
+        justify-content: flex-start;
+        gap: 40px;
+        height: 100dvw;
+        span {
+            color: white;
+            display: block;
+            margin-left: auto;
+            cursor: pointer;
+            width: 32px;
+            height: 32px;
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            background-color: rgba(23, 22, 22, 0.937);
+            transition: all ease 0.3s;
+
+            &:hover {
+                filter: brightness(180%);
+                transform: scale(1.1);
+            }
+        }
+    }
+    .second-navbar{
+        display: flex;
+        width: 100%;
+        justify-content: flex-end;
+        ul{
+            flex-direction: row !important;
+            gap: 30px;
+        }
+    }
+}

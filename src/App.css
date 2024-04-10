@@ -8,6 +8,17 @@
 
 
 
+.btn {
+    color: black ;
+    border-color: black;
+    transition: all 0.3s ease;
+    border: solid 1px black !important;
+}
+
+.btn:hover{
+    color: #fff !important;
+    background-color: black !important;
+}
 button{
     transition: transform 0.3s ease;
 }
