@@ -1,125 +1,154 @@
-
-.article{
-    border-radius: 10px;
-    position: relative;
-    overflow: hidden;
+.article {
+    display: flex;
     border: 2px solid transparent;
-    padding: 3dvh;
-    width: 100%;
-    height: 550px;
-    background: rgba(255, 255, 255, 0.426);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3),
-                0 6px 20px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
-    scrollbar-width: none;
-    display: flex;
-    flex-direction: column;
-
+    height: 400px;
+    width: 95dvw;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+        background: rgba(255, 255, 255, 0.426);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3),
+                    0 6px 20px rgba(0, 0, 0, 0.1);
+                    transition: all 0.3s ease;
+        border-radius: 10px;
 
 }
-
-.img-title-container{
-    align-self: center;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    justify-content: center;
-    align-items: center;
-}
-
 .article:hover{
     border-color: #000; /* Now the border is visible */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Shadow appears */}
 
-.article-list{
-    display: grid;
-    justify-content: space-evenly !important;
-    align-items: center;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px !important;
-    margin-top: 50px;
-    margin-bottom: 20px;
-    word-wrap: break-word;
-
-}
-
-
-
-
-.article img{
-    width: 30dvh;
-    height: 30dvh;
-    display: block;
-    transition: transform 0.5s;
-    box-sizing: border-box;
-    margin-bottom: 20px;
-    padding: 20px;
-    border-bottom: dashed black 1px;
-    cursor: pointer;
-    
-}
-.ajout{
+.img-container {
     display: flex;
-    color: #000;
-    align-items: baseline;
+    padding: 0;
     flex-direction: column;
-    gap: 10px;
-}
-
-
-.title{
-    font-weight: 750;
-    text-decoration: none !important;
-    color: black;
-}
-
-.price{
-    font-size: 28px;
-}
-
-.article-button{
-    white-space: nowrap;
-    margin-left: auto;
-    color: #000;
-    background-color: white;
-    border: 1px solid black;
-}
-.article-button:hover{
-    color: white;
-    background-color: #000;
-}
-
-@media (max-width : 1000px) {
-    .article-list{
-        width: 100dvw;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
-        place-content: center;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+    .main-img{
+        width: 200px;
+        height: 200px;
     }
-    .article-list:last-child{
-        margin-top: 10px  !important;
+    .catalogue{
+        display: flex;
+        gap: 20px;
+    }
+    .secondary{
+        border-radius: 10px;
+        cursor: pointer;
+        width: 75px;
+        height: 75px;
+    }
+}
+
+.product-info {
+    margin: 10px;
+    padding: 20px;
+    width: 35%;
+    box-sizing: border-box;
+    border-left: 1px dashed black;
+    border-right: 1px dashed black;
+
+
+    h6{
+        font-weight: 800;
+        font-size: large;
+        margin: 20px 0;
+    }
+
+
+}
+
+
+
+.actions {
+    display: flex;
+    width: 25%;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    span{
+        font-size: 16px;
+    }
+
+    h3{
+        width: max-content;
+        margin: 0;
+    }
+    .controls{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        gap: 20px;
+        width: 100%;
+        button{
+            width: 100%;
+
+        }
+    }
+}
+
+.addToCart{
+    color: white ;
+    background-color: #0000005b ;
+    transition: all 0.3s ease;
+
+    &:hover{
+        color: white !important;
+        filter: brightness(180%);
+
+    }
+}
+.paiement-info{
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+}
+
+.quantity{
+    align-self: flex-start;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.quantity-btn{
+    width: max-content !important;
+}
+
+
+@media (max-width : 900px) {
+    .img-container{
+        padding-top: 10px;
     }
     .article{
+        flex-direction: column;
+        height: auto;
+    }
+    .actions{
+        width: 100%;
+        box-sizing: border-box;
+        padding: 10px;
+        gap: 20px;
+    }
+    .paiement-info{
         width: 100%;
     }
-    
-}
-@media (max-width : 500px) {
-    .article{
-        width: 100%;
-    }
-    
-}
 
-@media (max-width : 600px) {
-    .article-list{
-        width: 100%;        grid-template-columns: repeat(1, 1fr);
-        
+
+    .quantity{
+        margin-left: auto;
+        margin-right: 10px;
     }
-    .article{
-        width: 100% !important;
-        margin-right: 200px !important;
+
+    .controls{
+        box-sizing: border-box;
+        padding: 20px;
+        button{
+            margin-right: 20px !important;
+        }
     }
-    
+
 }
