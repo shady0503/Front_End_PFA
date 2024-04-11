@@ -5,11 +5,12 @@ import { Link } from 'react-router-dom';
 import { DataContext } from "../dataContext";
 
 export default function Articles(props) {
+    const { addToCart } = useContext(DataContext)
+
     const [quantity, setQuantity] = useState(1)
     const [img, setImg] = useState(pc)
     const [secondary, setSecondary] = useState([logo, logo, logo])
     const [open, setOpen] = useState(window.innerWidth <= 900);
-    const { addToCart } = useContext(DataContext)
 
     
     useEffect(() => {
