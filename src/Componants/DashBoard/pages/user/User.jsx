@@ -4,7 +4,6 @@ import "./user.css"
 
 const User = () => {
 
-    //Fetch data and send to Single Component
 
     return (
         <div className="user">

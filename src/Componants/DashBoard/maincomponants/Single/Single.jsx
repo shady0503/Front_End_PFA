@@ -79,7 +79,6 @@ const Single = (props) => {
                 )}
             </div>
             {open && <UpdateUser setOpen={setOpen} columns={props.info} />}
-            {console.log(props.info)} 
         </div>
     );
 };

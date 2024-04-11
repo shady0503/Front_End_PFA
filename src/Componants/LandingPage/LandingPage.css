@@ -1,16 +1,33 @@
 .Container{
     display: flex;
-    flex-direction: row;
     align-items: center;
-    gap: 10vh;
+    gap: 150px;
+    height: 100dvh;
 }
 .img{
     padding: 1.5vh;
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
 }
-.img img{
-    width: 30vw;
-    height: 30vw;
+
+.catalogue{
+    display: flex;
+    gap: 20px;
+}
+.secondary{
+    border-radius: 10px;
+    cursor: pointer;
+    width: 75px;
+    height: 75px;
+    transition: transform ease 0.3s;
+
+}
+.img .main-img{
+    width: 20vw;
+    height: 20vw;
     max-width: 30vw;
     border-radius: 10px;
     transition: transform ease 0.3s;
@@ -52,22 +69,29 @@
 @media (max-width : 1000px) {
     .Container{
         flex-direction: column;
+        height: max-content;
+        gap: 0;
     }
 
     .img{
-        width: 50vh;
-        height: 50vh;
         display: flex;
         justify-content: center;
+        gap: 20px;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        flex-direction: column-reverse;
     }
-
-    .img img{
-        width: 50vh;
+    
+    .main-img{
+        display: block;
+        max-width: 100vw !important;
+        width: 80vw !important;
+        height: 80vw !important;
     }
 
     .description{
-        width: 50vh;
-        ;
+        width: 40vh;
     }
 
     .description:hover{

@@ -12,7 +12,7 @@ export default function Articles(props) {
     const [secondary, setSecondary] = useState([logo, logo, logo])
     const [open, setOpen] = useState(window.innerWidth <= 900);
 
-    
+
     useEffect(() => {
         let previousWidth = window.innerWidth;
         const threshold = 900;
@@ -40,19 +40,20 @@ export default function Articles(props) {
     }
     const handleImgChange = (index) => {
         let main = secondary[index];
-        console.log(main)
         const changedSet = [...secondary]
         changedSet[index] = img
-        console.log(changedSet)
         setImg(main);
         setSecondary(changedSet);
     };
 
 
     const item = props.item
+    const slug = props.slug
 
     const handleClick = (item) => {
-        addToCart(item) * quantity
+        for (let i = 0; i <= quantity; i++) {
+            addToCart(item)
+        }
     }
 
 
@@ -69,7 +70,7 @@ export default function Articles(props) {
                 </div>
             </div>
 
-            <div className="product-info" style={{display: (!open ? "" : "none")}}>
+            <div className="product-info" style={{ display: (!open ? "" : "none") }}>
                 <h6>{item.name}</h6>
                 <p>{item.description} Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis laborum, temporibus magnam odit ad commodi numquam voluptatem fugit delectus recusandae sed sequi, tempora itaque eius dolorem rem molestias debitis!</p>
             </div>
@@ -86,8 +87,9 @@ export default function Articles(props) {
                     <button className="btn quantity-btn" onClick={() => { setQuantity(prev => prev + 1) }}>+</button>
                 </div>
                 <div className="controls">
-                    <button className="btn addToCart">Add to cart</button>
-                    <button className="btn">View Product</button>
+                    <button className="btn addToCart" onClick={() => handleClick(item)}>Add to cart</button>
+                    <Link to={`/Front_End_PFA/${slug}/${item.id}`}><button className="btn">View Product</button>
+                    </Link>
                 </div>
             </div>
         </div>

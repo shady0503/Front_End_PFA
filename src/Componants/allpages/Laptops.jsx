@@ -5,13 +5,14 @@ import "./ProductsList.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
+
 export default function Laptops(props) {
 
     return (
         <div className="laptops-page">
             {props.filter === "True" ? <Filter /> : console.log("none")}
             <div className="product-container container-fluid">
-                <ProductsList deals={props.filter}></ProductsList>
+                <ProductsList slug={props.slug} deals={props.filter}></ProductsList>
             </div>
         </div>
     );

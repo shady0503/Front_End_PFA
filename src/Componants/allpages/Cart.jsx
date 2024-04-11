@@ -8,7 +8,6 @@ export default function Cart() {
     
     const { data, deleteFromCart } = useContext(DataContext)
     const {items, promotionItems, cartItems} = data
-    console.log(cartItems)
 
 
 

@@ -5,13 +5,15 @@
     function ProductsList(props) {
         const { data } = useContext(DataContext)
         const {items, promotionItems, cartItems} = data
-
+        if (!data) {
+            return null;
+        }
         return (
             <div className='container-fluid-Articles'>
                 {
                     props.filter ?
-                        items.map((item, index) => <Articles key={index} item={item} />)
-                        : promotionItems.map((item, index) => <Articles key={index} item={item} />)
+                        items.map((item, index) => <Articles slug="props.slug" key={index} item={item} />)
+                        : promotionItems.map((item, index) => <Articles slug={props.slug} key={index} item={item} />)
 
                 }
             </div>

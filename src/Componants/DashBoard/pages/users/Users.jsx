@@ -10,7 +10,7 @@ export default function Users() {
         <div className="users">
             <div className="info">
                 <h1>Users</h1>
-                <button onClick={() => {setOpen(true) ; console.log(open)}}>Add New User</button>
+                <button onClick={() => {setOpen(true)}}>Add New User</button>
             </div>
             <DataTable slug="Users" columns={usersColumns} rows={usersRows} />
             {open && <Add slug="User" columns={usersColumns} setOpen={setOpen} />}

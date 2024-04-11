@@ -61,14 +61,17 @@ function App() {
         )}
         <Routes>
             <Route path="/Front_End_PFA/cart" element={<Cart />} />
-            <Route path="/Front_End_PFA/LandingPage" element={<LandingPage />} />
+            <Route path="/Front_End_PFA/laptops/:id" element={<LandingPage />} />
+            <Route path="/Front_End_PFA/Phones/:id" element={<LandingPage />} />
+            <Route path="/Front_End_PFA/Accessories/:id" element={<LandingPage />} />
+            <Route path="/Front_End_PFA/Deals/:id" element={<LandingPage />} />
             <Route path="/Front_End_PFA/" element={<HomePage />} />
             <Route path="/Front_End_PFA/home" element={<HomePage />} />
             <Route path="/Front_End_PFA/Login" element={<LogIn />} />
-            <Route path="/Front_End_PFA/laptops" element={<Laptops filter="True" />} />
-            <Route path="/Front_End_PFA/Phones" element={<Laptops filter="True" />} />
-            <Route path="/Front_End_PFA/Accessories" element={<Laptops filter="True" />} />
-            <Route path="/Front_End_PFA/Deals" element={<Laptops filter="false" />} />
+            <Route path="/Front_End_PFA/laptops" element={<Laptops slug="laptops" filter="True" />} />
+            <Route path="/Front_End_PFA/Phones" element={<Laptops slug="Phones" filter="True" />} />
+            <Route path="/Front_End_PFA/Accessories" element={<Laptops slug="Accessories" filter="True" />} />
+            <Route path="/Front_End_PFA/Deals" element={<Laptops slug="Deals" filter="false" />} />
             <Route path="/Front_End_PFA/Support" element={<Support />} />
             <Route path="/Front_End_PFA/Dashboard/*" element={<DashBoard/>}></Route>
           </Routes>
