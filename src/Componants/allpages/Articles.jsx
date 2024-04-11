@@ -8,8 +8,31 @@ export default function Articles(props) {
     const [quantity, setQuantity] = useState(1)
     const [img, setImg] = useState(pc)
     const [secondary, setSecondary] = useState([logo, logo, logo])
-    const { addToCart } = useContext(DataContext)
     const [open, setOpen] = useState(window.innerWidth <= 900);
+    const { addToCart } = useContext(DataContext)
+
+    
+    useEffect(() => {
+        let previousWidth = window.innerWidth;
+        const threshold = 900;
+
+        const handleResize = () => {
+            const currentWidth = window.innerWidth;
+            if (previousWidth > threshold && currentWidth <= threshold) {
+                setOpen(true);
+            }
+            else if (previousWidth <= threshold && currentWidth > threshold) {
+                setOpen(false);
+            }
+            previousWidth = currentWidth;
+        };
+
+        handleResize();
+
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
+
 
     if (!props.item) {
         return null;
@@ -31,27 +54,6 @@ export default function Articles(props) {
         addToCart(item) * quantity
     }
 
-
-    useEffect(() => {
-        let previousWidth = window.innerWidth;
-        const threshold = 900;
-
-        const handleResize = () => {
-            const currentWidth = window.innerWidth;
-            if (previousWidth > threshold && currentWidth <= threshold) {
-                setOpen(true);
-            }
-            else if (previousWidth <= threshold && currentWidth > threshold) {
-                setOpen(false);
-            }
-            previousWidth = currentWidth;
-        };
-
-        handleResize();
-
-        window.addEventListener('resize', handleResize);
-        return () => window.removeEventListener('resize', handleResize);
-    }, []);
 
     return (
         <div className="article">
