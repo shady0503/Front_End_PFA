@@ -1,13 +1,13 @@
 import React, { createContext, useState, useEffect } from 'react';
-import '../random_data.json'
-export const DataContext = createContext();
 import loadedData from "../random_data.json"
+
+export const DataContext = createContext();
 
 export const DataProvider = ({ children }) => {
     const [data, setData] = useState({ items: [], promotionItems: [], cartItems: [] });
 
     useEffect(() => {
-        const fetchData =  () => {
+        const fetchData = () => {
             try {
                 setData({
                     items: loadedData.items,
@@ -21,26 +21,48 @@ export const DataProvider = ({ children }) => {
     
         fetchData();
     }, []);
-    
-    
 
+    const addToCart = (newItem) => {
+        setData((prevData) => {
+            const existingItemIndex = prevData.cartItems.findIndex(item => item.id === newItem.id);
+            if (existingItemIndex >= 0) {
+                // Item already exists in the cart, update the quantity
+                const updatedCartItems = prevData.cartItems.map((item, index) =>
+                    index === existingItemIndex ? { ...item, quantity: item.quantity + 1 } : item
+                );
+                return {
+                    ...prevData,
+                    cartItems: updatedCartItems,
+                };
+            } else {
+                // Item not in the cart, add it with quantity 1
+                const newItemWithQuantity = { ...newItem, quantity: 1 };
+                return {
+                    ...prevData,
+                    cartItems: [newItemWithQuantity, ...prevData.cartItems],
+                };
+            }
+        });
+    };
 
-
-    const addToCart = (item) => {
+    const deleteFromCart = (key) => {
         setData((prevData) => ({
             ...prevData,
-            cartItems: [item, ...prevData.cartItems],
+            cartItems: prevData.cartItems.filter((_, index) => index !== key),
         }));
     };
 
-    const deleteFromCart = (key)=>{
+    const updateQuantity = (name, newQuantity) => {
         setData((prevData) => ({
             ...prevData,
-            cartItems: [...prevData.cartItems.filter(((value, indice) => indice !== key))]
-        }))
-    }
+            cartItems: prevData.cartItems.map((item, _) =>
+                item.name === name ? { ...item, quantity: newQuantity } : item
+            ),
+        }));
+    };
+
     return (
-        <DataContext.Provider value={{data, addToCart, deleteFromCart}}>
+        <DataContext.Provider value={{ data, addToCart, deleteFromCart, updateQuantity }}>
             {children}
         </DataContext.Provider>
     );

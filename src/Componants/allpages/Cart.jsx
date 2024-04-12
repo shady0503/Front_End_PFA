@@ -5,9 +5,9 @@ import { useContext, useEffect, useState } from "react";
 import { DataContext } from "../dataContext";
 
 export default function Cart() {
-    
-    const { data, deleteFromCart } = useContext(DataContext)
-    const {items, promotionItems, cartItems} = data
+
+    const { data, deleteFromCart, updateQuantity } = useContext(DataContext)
+    const { items, promotionItems, cartItems } = data
 
 
 
@@ -24,17 +24,22 @@ export default function Cart() {
             </div>
 
             <div className="items-container">
-                {
-                    cartItems.map((value, index) => <CartItem key={index} item={value} onDeleteItem={() => deleteFromCart(index)}
-                    />)
+                {       cartItems.map((value, index) => (
+                            <CartItem
+                                key={index}
+                                item={value}
+                                onDeleteItem={() => deleteFromCart(index)}
+                                updateQuantity={updateQuantity}
+                            />
+                        ))
                 }
 
             </div>
 
             <h4 className="total">{cartItems.reduce((accumulator, item) => {
-                    const normalizedPrice = item.price.replace(/[^0-9.-]+/g, '');
-                    const price = Number(normalizedPrice)
-                return accumulator + price;
+                const normalizedPrice = item.price.replace(/[^0-9.-]+/g, '');
+                const price = Number(normalizedPrice)
+                return accumulator + price * item.quantity;
             }, 0).toFixed(2)} $</h4>
 
             <button className="btn check-out-btn">Check Out</button>

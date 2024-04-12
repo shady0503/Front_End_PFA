@@ -1125,7 +1125,8 @@
                 "Full HD screen / 144 Hz",
                 "Battery life: Up to 5 hours"
             ],
-            "price": "£1,099.00"
+            "price": "£1,099.00",
+            "quantity": 1
         },
         {
             "id": "1712871834-17",
@@ -1146,7 +1147,8 @@
                 "Quad HD screen / 165 Hz",
                 "Battery life: Up to 8 hours"
             ],
-            "price": "£1,399.00"
+            "price": "£1,399.00",
+            "quantity": 1
         },
         {
             "id": "1712871837-18",
@@ -1167,7 +1169,8 @@
                 "Quad HD screen / 165 Hz",
                 "Battery life: Up to 8 hours"
             ],
-            "price": "£1,499.00"
+            "price": "£1,499.00",
+            "quantity": 1
         },
         {
             "id": "1712871839-19",
@@ -1189,7 +1192,8 @@
                 "Full HD screen / 144 Hz",
                 "Battery life: Up to 5 hours"
             ],
-            "price": "£799.00"
+            "price": "£799.00",
+            "quantity": 1
         },
         {
             "web_scraper_order": "1712871842-20",
@@ -1210,7 +1214,8 @@
                 "Full HD screen / 144 Hz",
                 "Battery life: Up to 5 hours"
             ],
-            "price": "£749.00"
+            "price": "£749.00",
+            "quantity": 1
         }
     ]
 }
