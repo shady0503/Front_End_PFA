@@ -23,8 +23,8 @@
 .item-info .name{
     display: flex;
     align-items: flex-start;
-    width: 15vh;
-    font-size: 20px;
+    width: 30vh;
+    font-size: 14px;
     margin-left: 5vh;
     font-weight: 700;
 }
@@ -70,6 +70,11 @@
     .clear{
         margin-left: 20px;
     }
+
+    .item-info .name{
+        font-size: 12px !important;
+        width: 100px;
+    }
 }
 
 .priceandclear{
@@ -91,6 +96,10 @@
         justify-content: center;
         align-items: center;
         margin-bottom: 20px
+    }
+
+    .item-info .name{
+        font-size: 12px !important;
     }
 
     .quantity-controls{

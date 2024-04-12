@@ -17,7 +17,7 @@ export default function LandingPage(props) {
     const [item] = fetchItem()
 
     const [secondary, setSecondary] = useState([logo, logo, logo])
-    const [mainImg, setMainImg] = useState(pc)
+    const [mainImg, setMainImg] = useState(item.img_src)
 
     const handleChange = (index) => {
         let main = secondary[index];
@@ -45,9 +45,11 @@ export default function LandingPage(props) {
             <div className='description'>
                 <h1 className='article-name'>{item.name} </h1>
                 <div className='details'>
-                    <p>{item.description}Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae placeat, nostrum accusamus,
-                        esse eveniet corrupti illum at nesciunt laboriosam corporis ipsum exercitationem magni sed
-                        aliquid omnis vero sint minus officiis?</p>
+                {item.description.map((d,index)=>((<div key={index}>
+                    <span>{d}</span>
+                <br />
+                </div>)
+))}
                     <h3 className='price'>{item.price}</h3>
                 </div>
                 <button className=' btn Landing-page-btn' onClick={()=>addToCart(item)}>Add To Cart</button>

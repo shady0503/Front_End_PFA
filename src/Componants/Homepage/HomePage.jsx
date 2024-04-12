@@ -19,9 +19,9 @@ export default function HomePage() {
             <Promotion />
             <h1 className='heading-title'>Featured Articles: </h1>
             <div className='article-list'>
-                <Articles  key={1} item={item1}></Articles>
-                <Articles  key={2} item={item2}></Articles>
-                <Articles  key={3} item={item3}></Articles>
+                <Articles slug="laptops" key={1} item={item1}></Articles>
+                <Articles slug="laptops" key={2} item={item2}></Articles>
+                <Articles  slug="laptops" key={3} item={item3}></Articles>
 
             </div>
             <div className="d-flex justify-content-center align-items-center">
@@ -29,9 +29,9 @@ export default function HomePage() {
             </div>
             <h1 className='heading-title'>Popular Articles: </h1>
             <div className='article-list'>
-                <Articles  key={5} item={items[5]}></Articles>
-                <Articles  key={6} item={items[6]}></Articles>
-                <Articles  key={7} item={items[7]}></Articles>
+                <Articles slug="laptops"  key={5} item={items[5]}></Articles>
+                <Articles  slug="laptops" key={6} item={items[6]}></Articles>
+                <Articles  slug="laptops" key={7} item={items[7]}></Articles>
 
             </div>
             <div className="d-flex justify-content-center align-items-center">

@@ -46,7 +46,11 @@
     padding: 5vh;
     transition: all 0.3s ease;
 }
-
+.article-name{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
 
 
 .Landing-page-btn{
@@ -55,6 +59,7 @@
     border: solid 1px black;
 }
 .price{
+    margin-top: 20px;
     border: solid 1px black;
     border-radius: 10px ;
     display: inline-block;

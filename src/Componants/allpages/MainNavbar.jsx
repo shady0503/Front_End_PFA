@@ -19,9 +19,9 @@ export default function MainNavbar({ setOpen }) {
 
             <div className='main-navbar'>
                 <ul className='navbar-nav'>
-                    {menu.map(item => {
+                    {menu.map((item) => {
                         return (
-                            <li className='navbar-item'>
+                            <li className='navbar-item' key={item}>
                                 <Link to={`/Front_End_PFA/${item.replace(/\s+/g, '')}`} className='navbar-link'>{item}</Link>
                             </li>
                         )

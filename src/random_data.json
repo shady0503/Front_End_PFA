@@ -1,158 +1,956 @@
 {
     "items": [
         {
-            "id": "6b29aba4-8b07-40c8-8190-04a9c0222c7d",
-            "name": "Vision Notebook",
-            "description": "Exclusively crafted for the elites, with premium design and performance.",
-            "price": 862.61
+            "id": "1712871792-1",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/gigabyte-aorus-15-15.6-gaming-laptop-intel-core-i5-rtx-4060-512-tb-ssd-10256951.html",
+            "name": "GIGABYTE AORUS 15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 4060, 512 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10256951?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12500H Processor",
+                "RAM: 8 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours",
+                "2 year guarantee"
+            ],
+            "price": "£819.00"
         },
         {
-            "id": "4ac04cd0-d314-428f-95ca-32de4e144fe9",
-            "name": "PowerUser G7",
-            "description": "A perfect balance of performance and portability.",
-            "price": 1182.79
+            "id": "1712871794-2",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/msi-katana-15-15.6-gaming-laptop-intel-core-i7-rtx-4050-1-tb-ssd-10246626.html",
+            "name": "MSI Katana 15 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 4050, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10246626?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-13620H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4050 6 GB",
+                "131 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£999.00"
         },
         {
-            "id": "d0efab4f-02a6-4c77-a89c-5688c28e3acb",
-            "name": "Vision Notebook",
-            "description": "Ultra-slim, lightweight, and powerful for ultimate productivity.",
-            "price": 1767.02
+            "id": "1712871797-3",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/asus-tuf-gaming-f15-15.6-gaming-laptop-intel-core-i5-rtx-3050-512-gb-ssd-10246637.html",
+            "name": "ASUS TUF Gaming F15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10246637?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12500H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "101 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 10 hours"
+            ],
+            "price": "£749.00"
         },
         {
-            "id": "09ed5f38-4b28-44ad-8a6b-1491b8583214",
-            "name": "Gamer Xtreme",
-            "description": "Exclusively crafted for the elites, with premium design and performance.",
-            "price": 693.26
+            "id": "1712871800-4",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/msi-cyborg-15-15.6-gaming-laptop-intel-core-i5-rtx-2050-512-gb-ssd-10253504.html",
+            "name": "MSI Cyborg 15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 2050, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253504?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12450H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 2050 4 GB",
+                "88 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 7 hours"
+            ],
+            "price": "£649.00"
         },
         {
-            "id": "9a3991e7-411a-4432-b933-fae219bfbf0b",
-            "name": "TravelMate X2",
-            "description": "Engineered for creators, with high-resolution display and powerful CPU.",
-            "price": 2159.29
+            "id": "1712871803-5",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/gigabyte-g6-16-gaming-laptop-intel-core-i7-rtx-4060-1-tb-ssd-10257149.html",
+            "name": "GIGABYTE G6 16\" Gaming Laptop - Intel® Core™ i7, RTX 4060, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10257149?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-13620H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "132 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 165 Hz",
+                "Battery life: Up to 4 hours",
+                "2 year guarantee"
+            ],
+            "price": "£999.00"
         },
         {
-            "id": "62e0a9aa-afdd-4212-8468-6c8814a1cf2f",
-            "name": "TravelMate X2",
-            "description": "Reliable and affordable, ideal for everyday work and multitasking.",
-            "price": 2088.42
+            "id": "1712871805-6",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/gigabyte-g5-kf-15.6-gaming-laptop-intel-core-i5-rtx-4060-512-gb-ssd-10258060.html",
+            "name": "GIGABYTE G5 KF 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 4060, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10258060?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-13500H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "130 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 4 hours",
+                "2 year guarantee"
+            ],
+            "price": "£849.00"
         },
         {
-            "id": "911fb452-bef6-40c0-8df1-75b171c9a993",
-            "name": "EliteCraft",
-            "description": "Endless possibilities in the palm of your hands.",
-            "price": 1273.51
+            "id": "1712871808-7",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-15.6-gaming-laptop-intel-core-i7-rtx-3050-1-tb-ssd-10253211.html",
+            "name": "ACER Nitro 5 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 3050, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253211?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-12650H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "100 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£849.00"
         },
         {
-            "id": "af7b9670-25f7-451f-81c3-f65257987950",
-            "name": "InfinityBook",
-            "description": "For the power users, packed with high-end components.",
-            "price": 1649.57
+            "id": "1712871810-8",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/lenovo-ideapad-gaming-3-15.6-gaming-laptop-amd-ryzen-5-rtx-4050-512-gb-ssd-10249561.html",
+            "name": "LENOVO IdeaPad Gaming 3 15.6\" Gaming Laptop - AMD Ryzen 5, RTX 4050, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10249561?$l-large$&fmt=auto",
+            "description": [
+                "AMD Ryzen 5 7535HS Processor",
+                "RAM: 8 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4050 6 GB",
+                "128 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 120 Hz",
+                "Battery life: Up to 7.5 hours"
+            ],
+            "price": "£699.00"
         },
         {
-            "id": "663d6eaa-43ea-411b-bc4f-5ee405c250e1",
-            "name": "WorkMate Pro",
-            "description": "Engineered for creators, with high-resolution display and powerful CPU.",
-            "price": 1913.44
+            "id": "1712871813-9",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/hp-victus-15fa1502na-15.6-gaming-laptop-intel-core-i5-rtx-4060-512-gb-ssd-10250487.html",
+            "name": "HP Victus 15-fa1502na 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 4060, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10250487?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12500H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 8.5 hours"
+            ],
+            "price": "£799.00"
         },
         {
-            "id": "14798ae3-66e8-461d-bd84-23a8a4554518",
-            "name": "Creator Studio",
-            "description": "Reliable and affordable, ideal for everyday work and multitasking.",
-            "price": 860.19
+            "id": "1712871816-10",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/lenovo-ideapad-gaming-3-16-gaming-laptop-amd-ryzen-5-rtx-3050-512-gb-ssd-10257413.html",
+            "name": "LENOVO IdeaPad Gaming 3 16\" Gaming Laptop - AMD Ryzen 5, RTX 3050, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10257413?$l-large$&fmt=auto",
+            "description": [
+                "AMD Ryzen 5 6600H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "97 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 165 Hz",
+                "Battery life: Up to 10 hours"
+            ],
+            "price": "£699.00"
+        },
+        {
+            "id": "1712871818-11",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/asus-tuf-gaming-a15-15.6-gaming-laptop-amd-ryzen-7-rtx-3060-512-gb-ssd-10259874.html",
+            "name": "ASUS TUF Gaming A15 15.6\" Gaming Laptop - AMD Ryzen 7, RTX 3060, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10259874?$l-large$&fmt=auto",
+            "description": [
+                "AMD Ryzen 7 6800H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 3060 6 GB",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 12 hours"
+            ],
+            "price": "£899.00"
+        },
+        {
+            "id": "1712871821-12",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/lenovo-legion-slim-5-16-gaming-laptop-amd-ryzen-7-rtx-4060-1-tb-ssd-10253406.html",
+            "name": "LENOVO Legion Slim 5 16\" Gaming Laptop - AMD Ryzen 7, RTX 4060, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253406?$l-large$&fmt=auto",
+            "description": [
+                "AMD Ryzen 7 7840HS Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "144 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Quad HD+ screen / 165 Hz",
+                "Battery life: Up to 8 hours"
+            ],
+            "price": "£1,199.00"
+        },
+        {
+            "id": "1712871824-13",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/msi-cyborg-15-15.6-gaming-laptop-intel-core-i5-rtx-3050-512-gb-ssd-10251897.html",
+            "name": "MSI Cyborg 15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10251897?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12450H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 6 GB",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 7 hours"
+            ],
+            "price": "£699.00"
+        },
+        {
+            "id": "1712871826-14",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/msi-cyborg-15-15.6-gaming-laptop-intel-core-i7-rtx-4060-512-gb-ssd-10246640.html",
+            "name": "MSI Cyborg 15 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 4060, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10246640?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-12650H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "113 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 7 hours"
+            ],
+            "price": "£899.00"
+        },
+        {
+            "id": "1712871829-15",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-16-16-gaming-laptop-amd-ryzen-7-rtx-4070-1.5-tb-ssd-10258171.html",
+            "name": "ACER Nitro 16 16\" Gaming Laptop - AMD Ryzen 7, RTX 4070, 1.5 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10258171?$l-large$&fmt=auto",
+            "description": [
+                "Windows 11",
+                "AMD Ryzen 7 7840HS Processor",
+                "RAM: 16 GB DDR5 / Storage: 1 TB SSD & 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4070 8 GB",
+                "168 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Quad HD+ screen / 165 Hz",
+                "Battery life: Up to 10 hours"
+            ],
+            "price": "£1,299.00"
+        },
+        {
+            "id": "1712871831-16",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-15.6-gaming-laptop-intel-core-i7-rtx-4060-1-tb-ssd-10253551.html",
+            "name": "ACER Nitro 5 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 4060, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253551?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-12650H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "150 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£1,099.00"
+        },
+        {
+            "id": "1712871834-17",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-predator-helios-neo-16-gaming-laptop-intel-core-i7-rtx-4070-1-tb-ssd-10253173.html",
+            "name": "ACER Predator Helios Neo 16\" Gaming Laptop - Intel® Core™ i7, RTX 4070, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253173?$l-large$&fmt=auto",
+            "description": [
+                "Unlocked Intel® Core™ i7-13700HX Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4070 8 GB",
+                "162 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Quad HD screen / 165 Hz",
+                "Battery life: Up to 8 hours"
+            ],
+            "price": "£1,399.00"
+        },
+        {
+            "id": "1712871837-18",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-predator-helios-neo-16-gaming-laptop-intel-core-i9-rtx-4070-1-tb-ssd-10253185.html",
+            "name": "ACER Predator Helios Neo 16\" Gaming Laptop - Intel® Core™ i9, RTX 4070, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253185?$l-large$&fmt=auto",
+            "description": [
+                "Unlocked Intel® Core™ i9-13900HX Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4070 8 GB",
+                "161 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Quad HD screen / 165 Hz",
+                "Battery life: Up to 8 hours"
+            ],
+            "price": "£1,499.00"
+        },
+        {
+            "id": "1712871839-19",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-an51546-15.6-gaming-laptop-amd-ryzen-7-rtx-3050-1-tb-ssd-10259222.html",
+            "name": "ACER Nitro 5 AN515-46 15.6\" Gaming Laptop - AMD Ryzen 7, RTX 3050, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10259222?$l-large$&fmt=auto",
+            "description": [
+                "Windows 11",
+                "AMD Ryzen 7 6800H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "100 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£799.00"
+        },
+        {
+            "id": "1712871842-20",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-an5155853we-15.6-gaming-laptop-intel-core-i5-rtx-3050-1-tb-ssd-10254545.html",
+            "name": "ACER Nitro 5 AN515-58-53WE 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10254545?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12450H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "100 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£749.00"
         }
     ],
     "promotion_items": [
         {
-            "id": "6b29aba4-8b07-40c8-8190-04a9c0222c7d",
-            "name": "Vision Notebook",
-            "description": "Exclusively crafted for the elites, with premium design and performance.",
-            "price": 862.61
+            "id": "1712871792-1",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/gigabyte-aorus-15-15.6-gaming-laptop-intel-core-i5-rtx-4060-512-tb-ssd-10256951.html",
+            "name": "GIGABYTE AORUS 15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 4060, 512 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10256951?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12500H Processor",
+                "RAM: 8 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours",
+                "2 year guarantee"
+            ],
+            "price": "£819.00"
         },
         {
-            "id": "4ac04cd0-d314-428f-95ca-32de4e144fe9",
-            "name": "PowerUser G7",
-            "description": "A perfect balance of performance and portability.",
-            "price": 1182.79
+            "id": "1712871794-2",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/msi-katana-15-15.6-gaming-laptop-intel-core-i7-rtx-4050-1-tb-ssd-10246626.html",
+            "name": "MSI Katana 15 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 4050, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10246626?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-13620H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4050 6 GB",
+                "131 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£999.00"
         },
         {
-            "id": "d0efab4f-02a6-4c77-a89c-5688c28e3acb",
-            "name": "Vision Notebook",
-            "description": "Ultra-slim, lightweight, and powerful for ultimate productivity.",
-            "price": 1767.02
+            "id": "1712871797-3",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/asus-tuf-gaming-f15-15.6-gaming-laptop-intel-core-i5-rtx-3050-512-gb-ssd-10246637.html",
+            "name": "ASUS TUF Gaming F15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10246637?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12500H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "101 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 10 hours"
+            ],
+            "price": "£749.00"
         },
         {
-            "id": "09ed5f38-4b28-44ad-8a6b-1491b8583214",
-            "name": "Gamer Xtreme",
-            "description": "Exclusively crafted for the elites, with premium design and performance.",
-            "price": 693.26
+            "id": "1712871800-4",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/msi-cyborg-15-15.6-gaming-laptop-intel-core-i5-rtx-2050-512-gb-ssd-10253504.html",
+            "name": "MSI Cyborg 15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 2050, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253504?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12450H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 2050 4 GB",
+                "88 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 7 hours"
+            ],
+            "price": "£649.00"
         },
         {
-            "id": "9a3991e7-411a-4432-b933-fae219bfbf0b",
-            "name": "TravelMate X2",
-            "description": "Engineered for creators, with high-resolution display and powerful CPU.",
-            "price": 2159.29
+            "id": "1712871803-5",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/gigabyte-g6-16-gaming-laptop-intel-core-i7-rtx-4060-1-tb-ssd-10257149.html",
+            "name": "GIGABYTE G6 16\" Gaming Laptop - Intel® Core™ i7, RTX 4060, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10257149?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-13620H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "132 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 165 Hz",
+                "Battery life: Up to 4 hours",
+                "2 year guarantee"
+            ],
+            "price": "£999.00"
         },
         {
-            "id": "62e0a9aa-afdd-4212-8468-6c8814a1cf2f",
-            "name": "TravelMate X2",
-            "description": "Reliable and affordable, ideal for everyday work and multitasking.",
-            "price": 2088.42
+            "id": "1712871805-6",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/gigabyte-g5-kf-15.6-gaming-laptop-intel-core-i5-rtx-4060-512-gb-ssd-10258060.html",
+            "name": "GIGABYTE G5 KF 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 4060, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10258060?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-13500H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "130 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 4 hours",
+                "2 year guarantee"
+            ],
+            "price": "£849.00"
         },
         {
-            "id": "911fb452-bef6-40c0-8df1-75b171c9a993",
-            "name": "EliteCraft",
-            "description": "Endless possibilities in the palm of your hands.",
-            "price": 1273.51
+            "id": "1712871808-7",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-15.6-gaming-laptop-intel-core-i7-rtx-3050-1-tb-ssd-10253211.html",
+            "name": "ACER Nitro 5 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 3050, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253211?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-12650H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "100 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£849.00"
         },
         {
-            "id": "af7b9670-25f7-451f-81c3-f65257987950",
-            "name": "InfinityBook",
-            "description": "For the power users, packed with high-end components.",
-            "price": 1649.57
+            "id": "1712871810-8",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/lenovo-ideapad-gaming-3-15.6-gaming-laptop-amd-ryzen-5-rtx-4050-512-gb-ssd-10249561.html",
+            "name": "LENOVO IdeaPad Gaming 3 15.6\" Gaming Laptop - AMD Ryzen 5, RTX 4050, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10249561?$l-large$&fmt=auto",
+            "description": [
+                "AMD Ryzen 5 7535HS Processor",
+                "RAM: 8 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4050 6 GB",
+                "128 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 120 Hz",
+                "Battery life: Up to 7.5 hours"
+            ],
+            "price": "£699.00"
         },
         {
-            "id": "663d6eaa-43ea-411b-bc4f-5ee405c250e1",
-            "name": "WorkMate Pro",
-            "description": "Engineered for creators, with high-resolution display and powerful CPU.",
-            "price": 1913.44
+            "id": "1712871813-9",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/hp-victus-15fa1502na-15.6-gaming-laptop-intel-core-i5-rtx-4060-512-gb-ssd-10250487.html",
+            "name": "HP Victus 15-fa1502na 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 4060, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10250487?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12500H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 8.5 hours"
+            ],
+            "price": "£799.00"
         },
         {
-            "id": "14798ae3-66e8-461d-bd84-23a8a4554518",
-            "name": "Creator Studio",
-            "description": "Reliable and affordable, ideal for everyday work and multitasking.",
-            "price": 860.19
+            "id": "1712871816-10",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/lenovo-ideapad-gaming-3-16-gaming-laptop-amd-ryzen-5-rtx-3050-512-gb-ssd-10257413.html",
+            "name": "LENOVO IdeaPad Gaming 3 16\" Gaming Laptop - AMD Ryzen 5, RTX 3050, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10257413?$l-large$&fmt=auto",
+            "description": [
+                "AMD Ryzen 5 6600H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "97 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 165 Hz",
+                "Battery life: Up to 10 hours"
+            ],
+            "price": "£699.00"
+        },
+        {
+            "id": "1712871818-11",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/asus-tuf-gaming-a15-15.6-gaming-laptop-amd-ryzen-7-rtx-3060-512-gb-ssd-10259874.html",
+            "name": "ASUS TUF Gaming A15 15.6\" Gaming Laptop - AMD Ryzen 7, RTX 3060, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10259874?$l-large$&fmt=auto",
+            "description": [
+                "AMD Ryzen 7 6800H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 3060 6 GB",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 12 hours"
+            ],
+            "price": "£899.00"
+        },
+        {
+            "id": "1712871821-12",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/lenovo-legion-slim-5-16-gaming-laptop-amd-ryzen-7-rtx-4060-1-tb-ssd-10253406.html",
+            "name": "LENOVO Legion Slim 5 16\" Gaming Laptop - AMD Ryzen 7, RTX 4060, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253406?$l-large$&fmt=auto",
+            "description": [
+                "AMD Ryzen 7 7840HS Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "144 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Quad HD+ screen / 165 Hz",
+                "Battery life: Up to 8 hours"
+            ],
+            "price": "£1,199.00"
+        },
+        {
+            "id": "1712871824-13",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/msi-cyborg-15-15.6-gaming-laptop-intel-core-i5-rtx-3050-512-gb-ssd-10251897.html",
+            "name": "MSI Cyborg 15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10251897?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12450H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 6 GB",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 7 hours"
+            ],
+            "price": "£699.00"
+        },
+        {
+            "id": "1712871826-14",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/msi-cyborg-15-15.6-gaming-laptop-intel-core-i7-rtx-4060-512-gb-ssd-10246640.html",
+            "name": "MSI Cyborg 15 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 4060, 512 GB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10246640?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-12650H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "113 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 7 hours"
+            ],
+            "price": "£899.00"
+        },
+        {
+            "id": "1712871829-15",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-16-16-gaming-laptop-amd-ryzen-7-rtx-4070-1.5-tb-ssd-10258171.html",
+            "name": "ACER Nitro 16 16\" Gaming Laptop - AMD Ryzen 7, RTX 4070, 1.5 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10258171?$l-large$&fmt=auto",
+            "description": [
+                "Windows 11",
+                "AMD Ryzen 7 7840HS Processor",
+                "RAM: 16 GB DDR5 / Storage: 1 TB SSD & 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4070 8 GB",
+                "168 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Quad HD+ screen / 165 Hz",
+                "Battery life: Up to 10 hours"
+            ],
+            "price": "£1,299.00"
+        },
+        {
+            "id": "1712871831-16",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-15.6-gaming-laptop-intel-core-i7-rtx-4060-1-tb-ssd-10253551.html",
+            "name": "ACER Nitro 5 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 4060, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253551?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-12650H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "150 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£1,099.00"
+        },
+        {
+            "id": "1712871834-17",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-predator-helios-neo-16-gaming-laptop-intel-core-i7-rtx-4070-1-tb-ssd-10253173.html",
+            "name": "ACER Predator Helios Neo 16\" Gaming Laptop - Intel® Core™ i7, RTX 4070, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253173?$l-large$&fmt=auto",
+            "description": [
+                "Unlocked Intel® Core™ i7-13700HX Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4070 8 GB",
+                "162 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Quad HD screen / 165 Hz",
+                "Battery life: Up to 8 hours"
+            ],
+            "price": "£1,399.00"
+        },
+        {
+            "id": "1712871837-18",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-predator-helios-neo-16-gaming-laptop-intel-core-i9-rtx-4070-1-tb-ssd-10253185.html",
+            "name": "ACER Predator Helios Neo 16\" Gaming Laptop - Intel® Core™ i9, RTX 4070, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253185?$l-large$&fmt=auto",
+            "description": [
+                "Unlocked Intel® Core™ i9-13900HX Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4070 8 GB",
+                "161 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Quad HD screen / 165 Hz",
+                "Battery life: Up to 8 hours"
+            ],
+            "price": "£1,499.00"
+        },
+        {
+            "id": "1712871839-19",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-an51546-15.6-gaming-laptop-amd-ryzen-7-rtx-3050-1-tb-ssd-10259222.html",
+            "name": "ACER Nitro 5 AN515-46 15.6\" Gaming Laptop - AMD Ryzen 7, RTX 3050, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10259222?$l-large$&fmt=auto",
+            "description": [
+                "Windows 11",
+                "AMD Ryzen 7 6800H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "100 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£799.00"
+        },
+        {
+            "web_scraper_order": "1712871842-20",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-an5155853we-15.6-gaming-laptop-intel-core-i5-rtx-3050-1-tb-ssd-10254545.html",
+            "name": "ACER Nitro 5 AN515-58-53WE 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10254545?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12450H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "100 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£749.00"
         }
     ],
     "cart_items": [
         {
-            "name": "Single",
-            "description": "These court image quite serious bar rate around.",
-            "price": 402.9,
-            "img": "Laptop"
+            "id": "1712871831-16",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-15.6-gaming-laptop-intel-core-i7-rtx-4060-1-tb-ssd-10253551.html",
+            "name": "ACER Nitro 5 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 4060, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253551?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i7-12650H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "150 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£1,099.00"
         },
         {
-            "name": "Strategy",
-            "description": "Military similar us phone body grow.",
-            "price": 1552.49,
-            "img": "Laptop"
+            "id": "1712871834-17",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-predator-helios-neo-16-gaming-laptop-intel-core-i7-rtx-4070-1-tb-ssd-10253173.html",
+            "name": "ACER Predator Helios Neo 16\" Gaming Laptop - Intel® Core™ i7, RTX 4070, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253173?$l-large$&fmt=auto",
+            "description": [
+                "Unlocked Intel® Core™ i7-13700HX Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4070 8 GB",
+                "162 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Quad HD screen / 165 Hz",
+                "Battery life: Up to 8 hours"
+            ],
+            "price": "£1,399.00"
         },
         {
-            "name": "Left",
-            "description": "Project my chair million suddenly system.",
-            "price": 1465.95,
-            "img": "Laptop"
+            "id": "1712871837-18",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-predator-helios-neo-16-gaming-laptop-intel-core-i9-rtx-4070-1-tb-ssd-10253185.html",
+            "name": "ACER Predator Helios Neo 16\" Gaming Laptop - Intel® Core™ i9, RTX 4070, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10253185?$l-large$&fmt=auto",
+            "description": [
+                "Unlocked Intel® Core™ i9-13900HX Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4070 8 GB",
+                "161 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Quad HD screen / 165 Hz",
+                "Battery life: Up to 8 hours"
+            ],
+            "price": "£1,499.00"
         },
         {
-            "name": "Positive",
-            "description": "Arrive decide discussion we.",
-            "price": 186.52,
-            "img": "Laptop"
+            "id": "1712871839-19",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-an51546-15.6-gaming-laptop-amd-ryzen-7-rtx-3050-1-tb-ssd-10259222.html",
+            "name": "ACER Nitro 5 AN515-46 15.6\" Gaming Laptop - AMD Ryzen 7, RTX 3050, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10259222?$l-large$&fmt=auto",
+            "description": [
+                "Windows 11",
+                "AMD Ryzen 7 6800H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "100 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£799.00"
         },
         {
-            "name": "Now",
-            "description": "Suffer admit want note mean kitchen itself.",
-            "price": 813.43,
-            "img": "Laptop"
+            "web_scraper_order": "1712871842-20",
+            "web-scraper-start-url": "https://www.currys.co.uk/",
+            "Gaming-link": "Gaming",
+            "Gaming-link-href": "https://www.currys.co.uk/gaming",
+            "sub-categorie-selector": "Gaming laptops",
+            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+            "items": "View product",
+            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-an5155853we-15.6-gaming-laptop-intel-core-i5-rtx-3050-1-tb-ssd-10254545.html",
+            "name": "ACER Nitro 5 AN515-58-53WE 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 1 TB SSD",
+            "img_src": "https://media.currys.biz/i/currysprod/10254545?$l-large$&fmt=auto",
+            "description": [
+                "Intel® Core™ i5-12450H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "100 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 5 hours"
+            ],
+            "price": "£749.00"
         }
     ]
 }

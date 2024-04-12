@@ -23,9 +23,6 @@ export const DataProvider = ({ children }) => {
     }, []);
     
     
-    useEffect(() => {
-        console.log(data);
-    }, [data]);
 
 
 

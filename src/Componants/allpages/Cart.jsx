@@ -13,6 +13,7 @@ export default function Cart() {
 
 
 
+
     return (
         <div className="cart-container">
             <button className="btn return">Continue Shopping</button>
@@ -31,7 +32,9 @@ export default function Cart() {
             </div>
 
             <h4 className="total">{cartItems.reduce((accumulator, item) => {
-                return accumulator + item.price;
+                    const normalizedPrice = item.price.replace(/[^0-9.-]+/g, '');
+                    const price = Number(normalizedPrice)
+                return accumulator + price;
             }, 0).toFixed(2)} $</h4>
 
             <button className="btn check-out-btn">Check Out</button>

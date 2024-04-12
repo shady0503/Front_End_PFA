@@ -51,10 +51,13 @@ export default function Articles(props) {
     const slug = props.slug
 
     const handleClick = (item) => {
-        for (let i = 0; i <= quantity; i++) {
+        for (let i = 0; i < quantity; i++) {
             addToCart(item)
         }
     }
+
+    const normalizedPrice = item.price.replace(/[^0-9.-]+/g, '');
+    const price = Number(normalizedPrice)
 
 
     return (
@@ -62,7 +65,7 @@ export default function Articles(props) {
             <div className="img-container">
                 {open && <h6>{item.name}</h6>
                 }
-                <img src={img} alt="" className="main-img" />
+                <img src={item.img_src} alt="" className="main-img" />
                 <div className="catalogue">
                     {secondary.map((img, index) => (
                         <img key={index} src={img} alt="" className="secondary" onClick={() => handleImgChange(index)} />
@@ -72,13 +75,17 @@ export default function Articles(props) {
 
             <div className="product-info" style={{ display: (!open ? "" : "none") }}>
                 <h6>{item.name}</h6>
-                <p>{item.description} Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis laborum, temporibus magnam odit ad commodi numquam voluptatem fugit delectus recusandae sed sequi, tempora itaque eius dolorem rem molestias debitis!</p>
+                {item.description.map((d,index)=>((<div key={index}>
+                    <span>{d}</span>
+                <br />
+                </div>)
+))}
             </div>
 
             <div className="actions">
                 <div className="paiement-info">
-                    <h3 className="price">${item.price}</h3>
-                    <span>or pay ${((item.price / 36) * 1.1).toFixed(2)} over 36 months </span>
+                    <h3 className="price">{item.price}</h3>
+                    <span>or pay {((price / 36) * 1.1).toFixed(2) } over 36 months </span>
                 </div>
                 <div className="quantity">
                     Amount:
