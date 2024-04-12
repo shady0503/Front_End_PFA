@@ -16,7 +16,7 @@ export default function LandingPage(props) {
     }
     const [item] = fetchItem()
 
-    const [secondary, setSecondary] = useState([logo, logo, logo])
+    const [secondary, setSecondary] = useState([...item.imgs])
     const [mainImg, setMainImg] = useState(item.img_src)
 
     const handleChange = (index) => {

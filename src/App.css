@@ -75,6 +75,6 @@ header, footer {
 
   /* Custom Scrollbar for Firefox */
 * {
-    scrollbar-width: 20px !important;
+    scrollbar-width: 200px !important;
     scrollbar-color: black white;
 }

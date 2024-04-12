@@ -30,6 +30,8 @@
     .catalogue{
         display: flex;
         gap: 20px;
+        width: 90%;
+        overflow: scroll;
     }
     .secondary{
         border-radius: 10px;

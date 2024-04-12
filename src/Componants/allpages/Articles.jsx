@@ -5,11 +5,15 @@ import { Link } from 'react-router-dom';
 import { DataContext } from "../dataContext";
 
 export default function Articles(props) {
+    if (!props.item) {
+        return null;
+    }
     const { addToCart } = useContext(DataContext)
 
     const [quantity, setQuantity] = useState(1)
-    const [img, setImg] = useState(pc)
-    const [secondary, setSecondary] = useState([logo, logo, logo])
+    const [img, setImg] = useState(props.item.img_src)
+    const [secondary, setSecondary] = useState([...props.item.imgs].filter(imgs=>imgs.startsWith('https')))
+
     const [open, setOpen] = useState(window.innerWidth <= 900);
 
 
@@ -35,9 +39,6 @@ export default function Articles(props) {
     }, []);
 
 
-    if (!props.item) {
-        return null;
-    }
     const handleImgChange = (index) => {
         let main = secondary[index];
         const changedSet = [...secondary]
@@ -65,7 +66,7 @@ export default function Articles(props) {
             <div className="img-container">
                 {open && <h6>{item.name}</h6>
                 }
-                <img src={item.img_src} alt="" className="main-img" />
+                <img src={img} alt="" className="main-img" />
                 <div className="catalogue">
                     {secondary.map((img, index) => (
                         <img key={index} src={img} alt="" className="secondary" onClick={() => handleImgChange(index)} />
