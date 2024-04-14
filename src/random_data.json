@@ -2827,7 +2827,7 @@
             ]
         }
     ],
-    "promotion_items":[
+    "promotion_items": [
         {
             "id": "1713022585-1",
             "mainImg": "https://media.currys.biz/i/currysprod/10246637?$l-large$&fmt=auto",
@@ -5657,115 +5657,575 @@
     ],
     "cart_items": [
         {
-            "id": "1712871831-16",
-            "web-scraper-start-url": "https://www.currys.co.uk/",
-            "Gaming-link": "Gaming",
-            "Gaming-link-href": "https://www.currys.co.uk/gaming",
-            "sub-categorie-selector": "Gaming laptops",
-            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
-            "items": "View product",
-            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-15.6-gaming-laptop-intel-core-i7-rtx-4060-1-tb-ssd-10253551.html",
-            "name": "ACER Nitro 5 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 4060, 1 TB SSD",
-            "mainIMG": "https://media.currys.biz/i/currysprod/10253551?$l-large$&fmt=auto",
+            "id": "1713022585-1",
+            "mainImg": "https://media.currys.biz/i/currysprod/10246637?$l-large$&fmt=auto",
+            "name": "ASUS TUF Gaming F15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 512 GB SSD",
+            "price": "£749.00",
+            "quantity" : 1,
+
             "description": [
-                "Intel® Core™ i7-12650H Processor",
+                "Intel® Core™ i5-12500H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
+                "101 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 10 hours"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/10246637_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10246637_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10246637_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10246637_004?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Type": "Gaming laptop"
+                        },
+                        {
+                            "Operating system": "Windows 11"
+                        }
+                    ]
+                },
+                {
+                    "PERFORMANCE": [
+                        {
+                            "RAM": "16 GB DDR4 (3200 MHz)"
+                        },
+                        {
+                            "Processor": "- Intel® Core™ i5-12500H Processor\n- 12-core\n- 2.5 Ghz / 4.5 GHz\n- 18 MB cache"
+                        },
+                        {
+                            "Storage": "512 GB SSD"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Resolution": "Full HD 1920 x 1080p"
+                        },
+                        {
+                            "Screen size": 15.6
+                        },
+                        {
+                            "Screen features": "- 144 Hz display\n- Anti-glare"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "Ethernet": "Gigabit Ethernet port"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.2"
+                        },
+                        {
+                            "Ports": "- USB Type-C x 1\n- USB 3.2 Type-A x 2\n- HDMI 2.1 x 1\n- Thunderbolt 4 x 1\n- 3.5 mm jack"
+                        }
+                    ]
+                },
+                {
+                    "MEDIA": [
+                        {
+                            "Disc drive": "No"
+                        },
+                        {
+                            "Memory card reader": "No"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Keyboard": "RGB backlit membrane keyboard"
+                        },
+                        {
+                            "Mouse / trackpad": "Multi-touch trackpad with gesture control"
+                        },
+                        {
+                            "Camera": "720p HD webcam"
+                        },
+                        {
+                            "Security features": "Kensington security lock slot"
+                        },
+                        {
+                            "Other features": "Microphone"
+                        }
+                    ]
+                },
+                {
+                    "POWER": [
+                        {
+                            "Battery type": "3-cell Lithium-ion"
+                        },
+                        {
+                            "Battery life": "Up to 10 hours"
+                        }
+                    ]
+                },
+                {
+                    "SOUND": [
+                        {
+                            "Audio software": "- AI noise-canceling technology\n- DTS Audio\n- Supports Cortana near-field/far-field"
+                        },
+                        {
+                            "Speakers": "Dual speakers"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Graphite black"
+                        },
+                        {
+                            "Weight": "2.2 kg"
+                        },
+                        {
+                            "Software": "* Full version of Microsoft Office not included\n* Full version of anti-virus / internet security not included"
+                        },
+                        {
+                            "Dimensions": "251 x 354 x 224 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- ASUS TUF Gaming F15 15.6\" Gaming Laptop (FX507ZC4-HN119W)\n- ASUS TUF M5 Gaming Mouse\n- ASUS TUF Backpack\n- Power adapter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713022606-83",
+            "mainImg": "https://media.currys.biz/i/currysprod/10249219?$l-large$&fmt=auto",
+            "name": "LENOVO LOQ 15APH8 15.6\" Gaming Laptop - AMD Ryzen™ 7, RTX 4060, 1 TB SSD",
+            "price": "£1,099.00",
+            "description": [
+                "AMD Ryzen 7 7840HS Processor",
                 "RAM: 16 GB / Storage: 1 TB SSD",
                 "Graphics: NVIDIA GeForce RTX 4060 8 GB",
-                "150 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "144 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Full HD screen / 144 Hz",
+                "Battery life: Up to 6 hours"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/10249219_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10249219_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10249219_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10249219_004?$l-large$&fmt=auto"
+            ],
+            "quantity" : 1,
+
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Type": "Gaming laptop"
+                        },
+                        {
+                            "Operating system": "Windows 11 Home"
+                        }
+                    ]
+                },
+                {
+                    "PERFORMANCE": [
+                        {
+                            "RAM": "- 16 GB DDR5 (5600 MHz)\n- 32 GB maximum installable RAM"
+                        },
+                        {
+                            "Processor": "- AMD Ryzen 7 7840HS Processor\n- 8-core\n- 3.8 GHz / 5.1 GHz\n- 16 MB cache"
+                        },
+                        {
+                            "Storage": "1 TB SSD"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Resolution": "Full HD 1920 x 1080p"
+                        },
+                        {
+                            "Screen size": 15.6
+                        },
+                        {
+                            "Screen features": "- 144 Hz refresh rate\n- 350 nits\n- NVIDIA G-SYNC"
+                        },
+                        {
+                            "Touchscreen": "No"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "Ethernet": "Ethernet port"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.1"
+                        },
+                        {
+                            "Ports": "- USB Type-C x 1 (supports 140 W Power Delivery and DisplayPort 1.4)\n- USB 3.2 x 2\n- USB 2.0 x 1\n- HDMI 2.1 x 1\n- 3.5 mm jack"
+                        }
+                    ]
+                },
+                {
+                    "MEDIA": [
+                        {
+                            "Disc drive": "No"
+                        },
+                        {
+                            "Memory card reader": "No"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Keyboard": "- 4-zone RGB backlit membrane keyboard with numeric keypad\n- 100% anti-ghosting"
+                        },
+                        {
+                            "Mouse / trackpad": "Multi-touch trackpad with gesture control"
+                        },
+                        {
+                            "Camera": "HD webcam"
+                        },
+                        {
+                            "Security features": "Webcam e-shutter"
+                        }
+                    ]
+                },
+                {
+                    "POWER": [
+                        {
+                            "Battery type": "4-cell Lithium polymer"
+                        },
+                        {
+                            "Battery life": "Up to 6 hours"
+                        }
+                    ]
+                },
+                {
+                    "SOUND": [
+                        {
+                            "Audio software": "Nahimic Audio"
+                        },
+                        {
+                            "Speakers": "Dual speakers (4 W)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Storm grey"
+                        },
+                        {
+                            "Weight": "2.4 kg"
+                        },
+                        {
+                            "Software": "* Full version of Microsoft Office not included\n* Full version of anti-virus / internet security not included\n\n- Office 365 (30 day trial)"
+                        },
+                        {
+                            "Dimensions": "25.2 x 359.6 x 264.8 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- Lenovo LOQ 15APH8 15.6\" Gaming Laptop (82XT0053UK)\n- Power adapter\n- Warranty documentation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713022611-165",
+            "mainImg": "https://media.currys.biz/i/currysprod/10246626?$l-large$&fmt=auto",
+            "name": "MSI Katana 15 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 4050, 1 TB SSD",
+            "price": "£999.00",
+            "quantity" : 1,
+            "description": [
+                "Intel® Core™ i7-13620H Processor",
+                "RAM: 16 GB / Storage: 1 TB SSD",
+                "Graphics: NVIDIA GeForce RTX 4050 6 GB",
+                "131 FPS when playing COD: Modern Warfare 3 at 1080p",
                 "Full HD screen / 144 Hz",
                 "Battery life: Up to 5 hours"
             ],
-            "price": "£1,099.00",
-            "quantity": 1
-        },
-        {
-            "id": "1712871834-17",
-            "web-scraper-start-url": "https://www.currys.co.uk/",
-            "Gaming-link": "Gaming",
-            "Gaming-link-href": "https://www.currys.co.uk/gaming",
-            "sub-categorie-selector": "Gaming laptops",
-            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
-            "items": "View product",
-            "items-href": "https://www.currys.co.uk/products/acer-predator-helios-neo-16-gaming-laptop-intel-core-i7-rtx-4070-1-tb-ssd-10253173.html",
-            "name": "ACER Predator Helios Neo 16\" Gaming Laptop - Intel® Core™ i7, RTX 4070, 1 TB SSD",
-            "mainIMG": "https://media.currys.biz/i/currysprod/10253173?$l-large$&fmt=auto",
-            "description": [
-                "Unlocked Intel® Core™ i7-13700HX Processor",
-                "RAM: 16 GB / Storage: 1 TB SSD",
-                "Graphics: NVIDIA GeForce RTX 4070 8 GB",
-                "162 FPS when playing COD: Modern Warfare 3 at 1080p",
-                "Quad HD screen / 165 Hz",
-                "Battery life: Up to 8 hours"
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/10246626_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10246626_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10246626_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10246626_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10246626_005?$l-large$&fmt=auto"
             ],
-            "price": "£1,399.00",
-            "quantity": 1
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Type": "Gaming laptop"
+                        },
+                        {
+                            "Operating system": "Windows 11 Home Plus"
+                        }
+                    ]
+                },
+                {
+                    "PERFORMANCE": [
+                        {
+                            "RAM": "- 16 GB DDR5 (8 GB x 2 / 5600 MHz)\n- 64 GB maximum installable RAM"
+                        },
+                        {
+                            "Processor": "- Intel® Core™ i7-13620H Processor\n- 10-core\n- 2.4 GHz / 4.9 GHz\n- 24 MB cache"
+                        },
+                        {
+                            "Storage": "1 TB SSD"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Resolution": "Full HD 1920 x 1080p"
+                        },
+                        {
+                            "Screen size": 15.6
+                        },
+                        {
+                            "Screen features": "- 144 Hz display\n- 45% NTSC"
+                        },
+                        {
+                            "Touchscreen": "No"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "Ethernet": "Gigabit Ethernet port"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.2"
+                        },
+                        {
+                            "Ports": "- USB Type-C x 1\n- USB 3.2 x 2\n- USB 2.0 x 1\n- HDMI 2.1 x 1\n- 3.5 mm jack x 1"
+                        }
+                    ]
+                },
+                {
+                    "MEDIA": [
+                        {
+                            "Disc drive": "No"
+                        },
+                        {
+                            "Memory card reader": "No"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Keyboard": "RGB backlit membrane keyboard with numeric keypad"
+                        },
+                        {
+                            "Mouse / trackpad": "Multi-touch trackpad with gesture control"
+                        },
+                        {
+                            "Camera": "HD webcam"
+                        },
+                        {
+                            "Security features": "Kensington lock slot"
+                        },
+                        {
+                            "Other features": "Cooler Boost 5"
+                        }
+                    ]
+                },
+                {
+                    "POWER": [
+                        {
+                            "Battery type": "3-cell"
+                        },
+                        {
+                            "Battery life": "Up to 5 hours"
+                        }
+                    ]
+                },
+                {
+                    "SOUND": [
+                        {
+                            "Audio software": "Nahimic 3 Audio Enhancer"
+                        },
+                        {
+                            "Speakers": "Dual 2 W speakers"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Weight": "2.25 kg"
+                        },
+                        {
+                            "Software": "* Full version of Microsoft Office not included\n* Full version of anti-virus / internet security not included\n\n- Microsoft 2016 (30 day trial)\n- Norton security (60-day trial)\n- NVIDIA GeForce experience\n- Nahimic 3\n- MSI Center\n- MSI App Player\n- MSI Companion\n- Battery Master\n- Game Highlights\n- Crosshair\n- Gaming mode\n- Game Highlights"
+                        },
+                        {
+                            "Dimensions": "24.9 x 359 x 259 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- MSI Katana 15 15.6\" Gaming Laptop (B13VEK-040UK / 9S7-158571-040)\n- Power adapter"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "id": "1712871837-18",
-            "web-scraper-start-url": "https://www.currys.co.uk/",
-            "Gaming-link": "Gaming",
-            "Gaming-link-href": "https://www.currys.co.uk/gaming",
-            "sub-categorie-selector": "Gaming laptops",
-            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
-            "items": "View product",
-            "items-href": "https://www.currys.co.uk/products/acer-predator-helios-neo-16-gaming-laptop-intel-core-i9-rtx-4070-1-tb-ssd-10253185.html",
-            "name": "ACER Predator Helios Neo 16\" Gaming Laptop - Intel® Core™ i9, RTX 4070, 1 TB SSD",
-            "mainIMG": "https://media.currys.biz/i/currysprod/10253185?$l-large$&fmt=auto",
+            "id": "1713022614-249",
+            "mainImg": "https://media.currys.biz/i/currysprod/10258060?$l-large$&fmt=auto",
+            "name": "GIGABYTE G5 KF 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 4060, 512 GB SSD",
+            "price": "£849.00",
+            "quantity" : 1,
             "description": [
-                "Unlocked Intel® Core™ i9-13900HX Processor",
-                "RAM: 16 GB / Storage: 1 TB SSD",
-                "Graphics: NVIDIA GeForce RTX 4070 8 GB",
-                "161 FPS when playing COD: Modern Warfare 3 at 1080p",
-                "Quad HD screen / 165 Hz",
-                "Battery life: Up to 8 hours"
-            ],
-            "price": "£1,499.00",
-            "quantity": 1
-        },
-        {
-            "id": "1712871839-19",
-            "web-scraper-start-url": "https://www.currys.co.uk/",
-            "Gaming-link": "Gaming",
-            "Gaming-link-href": "https://www.currys.co.uk/gaming",
-            "sub-categorie-selector": "Gaming laptops",
-            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
-            "items": "View product",
-            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-an51546-15.6-gaming-laptop-amd-ryzen-7-rtx-3050-1-tb-ssd-10259222.html",
-            "name": "ACER Nitro 5 AN515-46 15.6\" Gaming Laptop - AMD Ryzen 7, RTX 3050, 1 TB SSD",
-            "mainIMG": "https://media.currys.biz/i/currysprod/10259222?$l-large$&fmt=auto",
-            "description": [
-                "Windows 11",
-                "AMD Ryzen 7 6800H Processor",
-                "RAM: 16 GB / Storage: 1 TB SSD",
-                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
-                "100 FPS when playing COD: Modern Warfare 3 at 1080p",
+                "Intel® Core™ i5-13500H Processor",
+                "RAM: 16 GB / Storage: 512 GB SSD",
+                "Graphics: NVIDIA GeForce RTX 4060 8 GB",
+                "130 FPS when playing COD: Modern Warfare 3 at 1080p",
                 "Full HD screen / 144 Hz",
-                "Battery life: Up to 5 hours"
+                "Battery life: Up to 4 hours",
+                "2 year guarantee"
             ],
-            "price": "£799.00",
-            "quantity": 1
-        },
-        {
-            "web_scraper_order": "1712871842-20",
-            "web-scraper-start-url": "https://www.currys.co.uk/",
-            "Gaming-link": "Gaming",
-            "Gaming-link-href": "https://www.currys.co.uk/gaming",
-            "sub-categorie-selector": "Gaming laptops",
-            "sub-categorie-selector-href": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
-            "items": "View product",
-            "items-href": "https://www.currys.co.uk/products/acer-nitro-5-an5155853we-15.6-gaming-laptop-intel-core-i5-rtx-3050-1-tb-ssd-10254545.html",
-            "name": "ACER Nitro 5 AN515-58-53WE 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 1 TB SSD",
-            "mainIMG": "https://media.currys.biz/i/currysprod/10254545?$l-large$&fmt=auto",
-            "description": [
-                "Intel® Core™ i5-12450H Processor",
-                "RAM: 16 GB / Storage: 1 TB SSD",
-                "Graphics: NVIDIA GeForce RTX 3050 4 GB",
-                "100 FPS when playing COD: Modern Warfare 3 at 1080p",
-                "Full HD screen / 144 Hz",
-                "Battery life: Up to 5 hours"
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/10258060_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10258060_002?$l-large$&fmt=auto"
             ],
-            "price": "£749.00",
-            "quantity": 1
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Type": "Gaming laptop"
+                        },
+                        {
+                            "Operating system": "Windows 11 Home"
+                        }
+                    ]
+                },
+                {
+                    "PERFORMANCE": [
+                        {
+                            "RAM": "- 16 GB\n- 64 GB maximum installable RAM"
+                        },
+                        {
+                            "Processor": "- Intel® Core™ i5-13500H Processor\n- 12-core\n- 2.6 GHz / 4.7 GHz\n- 18 MB cache"
+                        },
+                        {
+                            "Storage": "512 GB SSD"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Resolution": "Full HD 1920 x 1080p"
+                        },
+                        {
+                            "Screen size": 15.6
+                        },
+                        {
+                            "Screen features": "144 Hz refresh rate"
+                        },
+                        {
+                            "Touchscreen": "No"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "Ethernet": "Gigabit Ethernet port"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.2"
+                        },
+                        {
+                            "Ports": "- USB 3.2 Gen 2 Type-C x 2\n- USB 3.2 Gen1 x 1\n- USB 2.0 x 1\n- HDMI x 1\n- Mini DisplayPort 1.4 x 1\n- 3.5 mm jack x 1"
+                        }
+                    ]
+                },
+                {
+                    "MEDIA": [
+                        {
+                            "Disc drive": "No"
+                        },
+                        {
+                            "Memory card reader": "MicroSD"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Keyboard": "RGB backlit membrane keyboard with numeric keypad"
+                        },
+                        {
+                            "Mouse / trackpad": "Multi-touch trackpad with gesture control"
+                        },
+                        {
+                            "Camera": "HD webcam"
+                        },
+                        {
+                            "Security features": "Kensington Lock Slot"
+                        },
+                        {
+                            "Other features": "Microphone"
+                        },
+                        {
+                            "Cooling": "WINDFORCE cooling"
+                        }
+                    ]
+                },
+                {
+                    "POWER": [
+                        {
+                            "Battery type": "54 Wh Lithium-polymer"
+                        },
+                        {
+                            "Battery life": "Up to 4 hours"
+                        }
+                    ]
+                },
+                {
+                    "SOUND": [
+                        {
+                            "Audio software": "DTS:X Ultra"
+                        },
+                        {
+                            "Speakers": "Dual speakers"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Weight": "2.08 kg"
+                        },
+                        {
+                            "Software": "* Full version of Microsoft Office not included\n* Full version of anti-virus / internet security not included\n\nGIGABYTE Control Center"
+                        },
+                        {
+                            "Dimensions": "22.7 x 360 x 238 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- Gigabyte G5 KF 15.6\" Gaming Laptop (KF5-53UK353SH)\n- User manual \n- AC adapter"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

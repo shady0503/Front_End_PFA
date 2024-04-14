@@ -34,7 +34,7 @@ export default function CartItem({ item, onDeleteItem, updateQuantity }) {
         (
             <div className="item-container">
                 <div className="item-info">
-                    <img src={item.mainIMG} alt="Item" />
+                    <img src={item.mainImg} alt="Item" />
                     <h1 className="name">{name[0]}</h1>
                 </div>
                 <div className="quantity-controls">
@@ -43,7 +43,7 @@ export default function CartItem({ item, onDeleteItem, updateQuantity }) {
                     <button className="btn" onClick={handleIncreaseQuantity}>+</button>
                 </div>
                 <div className="priceandclear">
-                    <p className="item-price">${(price * quantity).toFixed(2)}</p>
+                    <p className="item-price">£{(price * quantity).toFixed(2)}</p>
                     <div className="clear" onClick={() => onDeleteItem(item.id)}>
                         <FontAwesomeIcon icon={faTrash} />
                     </div>
