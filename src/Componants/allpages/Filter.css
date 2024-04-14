@@ -1,6 +1,5 @@
 .Filter {
     display: flex;
-    overflow-y: scroll;
     scrollbar-width: 20px;
     flex-wrap: wrap;
     position: absolute;

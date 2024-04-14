@@ -3,12 +3,18 @@ import './Cart.css'
 
 import { useContext, useEffect, useState } from "react";
 import { DataContext } from "../dataContext";
+import { useNavigate } from 'react-router';
 
 export default function Cart() {
 
     const { data, deleteFromCart, updateQuantity } = useContext(DataContext)
     const { items, promotionItems, cartItems } = data
+    const navigate = useNavigate()
 
+
+    const returnToLastPage= ()=>{
+        navigate(-1)
+    }
 
 
 
@@ -16,7 +22,7 @@ export default function Cart() {
 
     return (
         <div className="cart-container">
-            <button className="btn return">Continue Shopping</button>
+            <button className="btn return" onClick={returnToLastPage}>Continue Shopping</button>
 
             <div className="shopping-cart-title">
                 <h6>Shopping Cart</h6>

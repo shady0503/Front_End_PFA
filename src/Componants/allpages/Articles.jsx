@@ -12,8 +12,6 @@ export default function Articles(props) {
 
     const [quantity, setQuantity] = useState(1)
     const [img, setImg] = useState(props.item.mainImg)
-    const [secondary, setSecondary] = useState([...props.item.imgs])
-
     const [open, setOpen] = useState(window.innerWidth <= 900);
 
 
@@ -39,13 +37,7 @@ export default function Articles(props) {
     }, []);
 
 
-    const handleImgChange = (index) => {
-        let main = secondary[index];
-        const changedSet = [...secondary]
-        changedSet[index] = img
-        setImg(main);
-        setSecondary(changedSet);
-    };
+
 
 
     const item = props.item
@@ -65,11 +57,6 @@ export default function Articles(props) {
                 {open && <h6>{item.name}</h6>
                 }
                 <img src={img} alt="" className="main-img" />
-                <div className="catalogue">
-                    {secondary.map((img, index) => (
-                        <img key={index} src={img} alt="" className="secondary" onClick={() => handleImgChange(index)} />
-                    ))}
-                </div>
             </div>
 
             <div className="product-info" style={{ display: (!open ? "" : "none") }}>

@@ -2,6 +2,7 @@
     "items": [
         {
             "id": "1713022585-1",
+            "category": "Gaming",
             "mainImg": "https://media.currys.biz/i/currysprod/10246637?$l-large$&fmt=auto",
             "name": "ASUS TUF Gaming F15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 512 GB SSD",
             "price": "£749.00",
@@ -15,6 +16,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10246637_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/3342/ol_video_img_url__275544_3342.jpg?m=3342&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10246637_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10246637_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10246637_004?$l-large$&fmt=auto"
@@ -32,6 +34,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 3050\n- 4 GB GDDR6"
+                        },
                         {
                             "RAM": "16 GB DDR4 (3200 MHz)"
                         },
@@ -154,6 +159,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10249219_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1116/ol_video_img_url__275656_1116.jpg?m=1116&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10249219_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10249219_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10249219_004?$l-large$&fmt=auto"
@@ -171,6 +177,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 4060\n- 8 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR5 (5600 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -312,6 +321,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 4050\n- 6 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR5 (8 GB x 2 / 5600 MHz)\n- 64 GB maximum installable RAM"
                         },
                         {
@@ -452,6 +464,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 4060\n- 8 GB GDDR6\n- 75 W"
+                        },
                         {
                             "RAM": "- 16 GB\n- 64 GB maximum installable RAM"
                         },
@@ -599,6 +614,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 2050\n- 4 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR4 (8 GB x 2 / 3200 MHz)\n- 64 GB maximum installable RAM"
                         },
                         {
@@ -723,6 +741,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10253211_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__276486_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10253211_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253211_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253211_004?$l-large$&fmt=auto"
@@ -740,6 +759,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 3050\n- 4 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR4 (3200 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -882,6 +904,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 4060\n- 8 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 64 GB maximum installable RAM"
                         },
                         {
@@ -1018,6 +1043,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce GTX 3050\n- 4 GB GDDR6"
+                        },
                         {
                             "RAM": "16 GB DDR5 (4800 MHz)"
                         },
@@ -1158,6 +1186,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce GTX 4050\n- 6 GB GDDR6"
+                        },
                         {
                             "RAM": "8 GB DDR5 (4800 MHz)"
                         },
@@ -1301,6 +1332,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 3060\n- 6 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 32 GB maximum installable RAM"
                         },
                         {
@@ -1411,6 +1445,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10250487_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1054/ol_video_img_url__277057_1054.jpg?m=1054&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10250487_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10250487_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10250487_004?$l-large$&fmt=auto"
@@ -1428,6 +1463,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- Nvidia GeForce RTX 4060\n- 8 GB GDDR6"
+                        },
                         {
                             "RAM": "16 GB DDR4 (3200 MHz)"
                         },
@@ -1569,6 +1607,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 4060\n- 8 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR5 (5600 MHz)\n- 32 GB maximum installable RAM"
                         },
                         {
@@ -1707,6 +1748,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 3050\n- 6 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR4 (3200 MHz)\n- 64 GB maximum installable RAM"
                         },
@@ -1851,6 +1895,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 4060\n- 8 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR5\n- 64 GB maximum installable RAM"
                         },
                         {
@@ -1976,6 +2023,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10258171_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__282351_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10258171_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10258171_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10258171_004?$l-large$&fmt=auto"
@@ -1993,6 +2041,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 4070\n- 8 GB GDDR6\n- 140 W"
+                        },
                         {
                             "RAM": "- 16 GB DDR6 (5600 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -2118,6 +2169,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10253551_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__276486_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10253551_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253551_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253551_004?$l-large$&fmt=auto"
@@ -2135,6 +2187,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- Nvidia GeForce RTX 4060\n- 8 GB GDDR6\n- MGP: 140 W (100 %)"
+                        },
                         {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -2260,6 +2315,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10253173_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__276489_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10253173_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253173_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253173_004?$l-large$&fmt=auto"
@@ -2277,6 +2333,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 4070\n- 8 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -2405,6 +2464,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10253185_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__278835_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10253185_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253185_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253185_004?$l-large$&fmt=auto"
@@ -2422,6 +2482,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 4070\n- 8 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -2551,6 +2614,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10259222_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__282351_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10259222_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10259222_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10259222_004?$l-large$&fmt=auto"
@@ -2568,6 +2632,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 3050\n- 4 GB GDDR6\n- MGP: 95 W (100 %)"
+                        },
                         {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -2696,6 +2763,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10254545_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__278317_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10254545_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10254545_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10254545_004?$l-large$&fmt=auto"
@@ -2713,6 +2781,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 3050\n- 4 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR4 (3200 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -2830,6 +2901,7 @@
     "promotion_items": [
         {
             "id": "1713022585-1",
+            "category": "Gaming",
             "mainImg": "https://media.currys.biz/i/currysprod/10246637?$l-large$&fmt=auto",
             "name": "ASUS TUF Gaming F15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 512 GB SSD",
             "price": "£749.00",
@@ -2843,6 +2915,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10246637_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/3342/ol_video_img_url__275544_3342.jpg?m=3342&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10246637_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10246637_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10246637_004?$l-large$&fmt=auto"
@@ -2860,6 +2933,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 3050\n- 4 GB GDDR6"
+                        },
                         {
                             "RAM": "16 GB DDR4 (3200 MHz)"
                         },
@@ -2982,6 +3058,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10249219_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1116/ol_video_img_url__275656_1116.jpg?m=1116&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10249219_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10249219_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10249219_004?$l-large$&fmt=auto"
@@ -2999,6 +3076,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 4060\n- 8 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR5 (5600 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -3140,6 +3220,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 4050\n- 6 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR5 (8 GB x 2 / 5600 MHz)\n- 64 GB maximum installable RAM"
                         },
                         {
@@ -3280,6 +3363,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 4060\n- 8 GB GDDR6\n- 75 W"
+                        },
                         {
                             "RAM": "- 16 GB\n- 64 GB maximum installable RAM"
                         },
@@ -3427,6 +3513,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 2050\n- 4 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR4 (8 GB x 2 / 3200 MHz)\n- 64 GB maximum installable RAM"
                         },
                         {
@@ -3551,6 +3640,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10253211_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__276486_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10253211_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253211_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253211_004?$l-large$&fmt=auto"
@@ -3568,6 +3658,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 3050\n- 4 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR4 (3200 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -3710,6 +3803,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 4060\n- 8 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 64 GB maximum installable RAM"
                         },
                         {
@@ -3846,6 +3942,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce GTX 3050\n- 4 GB GDDR6"
+                        },
                         {
                             "RAM": "16 GB DDR5 (4800 MHz)"
                         },
@@ -3986,6 +4085,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce GTX 4050\n- 6 GB GDDR6"
+                        },
                         {
                             "RAM": "8 GB DDR5 (4800 MHz)"
                         },
@@ -4129,6 +4231,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 3060\n- 6 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 32 GB maximum installable RAM"
                         },
                         {
@@ -4239,6 +4344,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10250487_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1054/ol_video_img_url__277057_1054.jpg?m=1054&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10250487_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10250487_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10250487_004?$l-large$&fmt=auto"
@@ -4256,6 +4362,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- Nvidia GeForce RTX 4060\n- 8 GB GDDR6"
+                        },
                         {
                             "RAM": "16 GB DDR4 (3200 MHz)"
                         },
@@ -4397,6 +4506,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 4060\n- 8 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR5 (5600 MHz)\n- 32 GB maximum installable RAM"
                         },
                         {
@@ -4535,6 +4647,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 3050\n- 6 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR4 (3200 MHz)\n- 64 GB maximum installable RAM"
                         },
@@ -4679,6 +4794,9 @@
                 {
                     "PERFORMANCE": [
                         {
+                            "Graphics card": "- NVIDIA GeForce RTX 4060\n- 8 GB GDDR6"
+                        },
+                        {
                             "RAM": "- 16 GB DDR5\n- 64 GB maximum installable RAM"
                         },
                         {
@@ -4804,6 +4922,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10258171_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__282351_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10258171_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10258171_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10258171_004?$l-large$&fmt=auto"
@@ -4821,6 +4940,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 4070\n- 8 GB GDDR6\n- 140 W"
+                        },
                         {
                             "RAM": "- 16 GB DDR6 (5600 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -4946,6 +5068,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10253551_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__276486_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10253551_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253551_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253551_004?$l-large$&fmt=auto"
@@ -4963,6 +5086,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- Nvidia GeForce RTX 4060\n- 8 GB GDDR6\n- MGP: 140 W (100 %)"
+                        },
                         {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -5088,6 +5214,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10253173_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__276489_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10253173_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253173_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253173_004?$l-large$&fmt=auto"
@@ -5105,6 +5232,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 4070\n- 8 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -5233,6 +5363,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10253185_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__278835_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10253185_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253185_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10253185_004?$l-large$&fmt=auto"
@@ -5250,6 +5381,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 4070\n- 8 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -5379,6 +5513,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10259222_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__282351_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10259222_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10259222_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10259222_004?$l-large$&fmt=auto"
@@ -5396,6 +5531,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 3050\n- 4 GB GDDR6\n- MGP: 95 W (100 %)"
+                        },
                         {
                             "RAM": "- 16 GB DDR5 (4800 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -5524,6 +5662,7 @@
             ],
             "imgs": [
                 "https://media.currys.biz/i/currysprod/10254545_001?$l-large$&fmt=auto",
+                "//flv.isitetv.com/media/video/1051/ol_video_img_url__278317_1051.jpg?m=1051&r=1048&t=1",
                 "https://media.currys.biz/i/currysprod/10254545_002?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10254545_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10254545_004?$l-large$&fmt=auto"
@@ -5541,6 +5680,9 @@
                 },
                 {
                     "PERFORMANCE": [
+                        {
+                            "Graphics card": "- NVIDIA GeForce RTX 3050\n- 4 GB GDDR6"
+                        },
                         {
                             "RAM": "- 16 GB DDR4 (3200 MHz)\n- 32 GB maximum installable RAM"
                         },
@@ -5661,8 +5803,7 @@
             "mainImg": "https://media.currys.biz/i/currysprod/10246637?$l-large$&fmt=auto",
             "name": "ASUS TUF Gaming F15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 3050, 512 GB SSD",
             "price": "£749.00",
-            "quantity" : 1,
-
+            "quantity": 1,
             "description": [
                 "Intel® Core™ i5-12500H Processor",
                 "RAM: 16 GB / Storage: 512 GB SSD",
@@ -5816,8 +5957,7 @@
                 "https://media.currys.biz/i/currysprod/10249219_003?$l-large$&fmt=auto",
                 "https://media.currys.biz/i/currysprod/10249219_004?$l-large$&fmt=auto"
             ],
-            "quantity" : 1,
-
+            "quantity": 1,
             "specifications": [
                 {
                     "OVERVIEW": [
@@ -5943,7 +6083,7 @@
             "mainImg": "https://media.currys.biz/i/currysprod/10246626?$l-large$&fmt=auto",
             "name": "MSI Katana 15 15.6\" Gaming Laptop - Intel® Core™ i7, RTX 4050, 1 TB SSD",
             "price": "£999.00",
-            "quantity" : 1,
+            "quantity": 1,
             "description": [
                 "Intel® Core™ i7-13620H Processor",
                 "RAM: 16 GB / Storage: 1 TB SSD",
@@ -6087,7 +6227,7 @@
             "mainImg": "https://media.currys.biz/i/currysprod/10258060?$l-large$&fmt=auto",
             "name": "GIGABYTE G5 KF 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 4060, 512 GB SSD",
             "price": "£849.00",
-            "quantity" : 1,
+            "quantity": 1,
             "description": [
                 "Intel® Core™ i5-13500H Processor",
                 "RAM: 16 GB / Storage: 512 GB SSD",

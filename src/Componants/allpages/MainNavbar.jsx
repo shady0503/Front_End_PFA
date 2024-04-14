@@ -11,7 +11,7 @@ export default function MainNavbar({ setOpen }) {
     const menu = ['home', 'laptops', 'phones', 'accessories', 'Deals', 'support', 'Log In']
     return (
         <div className='navbar'>
-            <span onClick={() => { setOpen(true); console.log('false') }}>X</span>
+            <span onClick={() => { setOpen(true)}}>X</span>
             <div className='logo-container'>
                 <img src={logo} alt="" className='logo' />
                 <h6>Republic Of Gamers</h6>
