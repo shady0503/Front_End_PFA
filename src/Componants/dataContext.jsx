@@ -22,13 +22,13 @@ export const DataProvider = ({ children }) => {
         fetchData();
     }, []);
 
-    const addToCart = (newItem) => {
+    const addToCart = (newItem, q) => {
         setData((prevData) => {
             const existingItemIndex = prevData.cartItems.findIndex(item => item.id === newItem.id);
             if (existingItemIndex >= 0) {
                 // Item already exists in the cart, update the quantity
                 const updatedCartItems = prevData.cartItems.map((item, index) =>
-                    index === existingItemIndex ? { ...item, quantity: item.quantity + 1 } : item
+                    index === existingItemIndex ? { ...item, quantity: item.quantity + q } : item
                 );
                 return {
                     ...prevData,
@@ -36,7 +36,7 @@ export const DataProvider = ({ children }) => {
                 };
             } else {
                 // Item not in the cart, add it with quantity 1
-                const newItemWithQuantity = { ...newItem, quantity: 1 };
+                const newItemWithQuantity = { ...newItem, quantity: q };
                 return {
                     ...prevData,
                     cartItems: [newItemWithQuantity, ...prevData.cartItems],
@@ -45,10 +45,10 @@ export const DataProvider = ({ children }) => {
         });
     };
 
-    const deleteFromCart = (key) => {
+    const deleteFromCart = (id) => {
         setData((prevData) => ({
             ...prevData,
-            cartItems: prevData.cartItems.filter((_, index) => index !== key),
+            cartItems: prevData.cartItems.filter((value) => value.id !== id),
         }));
     };
 

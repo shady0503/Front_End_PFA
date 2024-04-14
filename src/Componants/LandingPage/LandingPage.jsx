@@ -4,32 +4,44 @@ import logo from "../../assets/logo.webp"
 import { useContext, useState } from 'react'
 import { DataContext } from '../dataContext'
 import {useParams} from 'react-router'
+import { useEffect } from 'react'
 export default function LandingPage(props) {
 
-    const { data, addToCart } = useContext(DataContext)
-    const {items, promotionItems, cartItems} = data
-    const {id} = useParams()
+    const { data, addToCart } = useContext(DataContext);
+    const [item, setItem] = useState(null);
+    const [secondary, setSecondary] = useState([]);
+    const [mainImg, setMainImg] = useState('');
+    const { id } = useParams();
+    
+    useEffect(() => {
+        const fetchItem = async () => {
+            const filteredItems = data.items.filter(product => product.id === id);
+            if (filteredItems.length > 0) {
+                return filteredItems[0];
+            }
+            return null;
+        };
 
-    const fetchItem = ()=> {
-        const item = items.filter(product => product.id === id)
-        return item
+        fetchItem().then(fetchedItem => {
+            if (fetchedItem) {
+                setItem(fetchedItem);
+                setSecondary([...fetchedItem.imgs]);
+                setMainImg(fetchedItem.mainImg);
+            }
+        });
+    }, [id, data.items]);
+
+    if (!item) {
+        return <div>Loading...</div>;
     }
-    const [item] = fetchItem()
-
-    const [secondary, setSecondary] = useState([...item.imgs])
-    const [mainImg, setMainImg] = useState(item.img_src)
 
     const handleChange = (index) => {
         let main = secondary[index];
-        const changedSet = [...secondary]
-        changedSet[index] = mainImg
+        const changedSet = [...secondary];
+        changedSet[index] = mainImg;
         setMainImg(main);
         setSecondary(changedSet);
     };
-
-    if (!item) {
-        return null;
-    }
 
     return (
         <div className="Container">

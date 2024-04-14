@@ -11,8 +11,8 @@ export default function Articles(props) {
     const { addToCart } = useContext(DataContext)
 
     const [quantity, setQuantity] = useState(1)
-    const [img, setImg] = useState(props.item.img_src)
-    const [secondary, setSecondary] = useState([...props.item.imgs].filter(imgs=>imgs.startsWith('https')))
+    const [img, setImg] = useState(props.item.mainImg)
+    const [secondary, setSecondary] = useState([...props.item.imgs])
 
     const [open, setOpen] = useState(window.innerWidth <= 900);
 
@@ -51,10 +51,8 @@ export default function Articles(props) {
     const item = props.item
     const slug = props.slug
 
-    const handleClick = (item) => {
-        for (let i = 0; i < quantity; i++) {
-            addToCart(item)
-        }
+    const handleClick = (item, quantity) => {
+            addToCart(item, quantity)
     }
 
     const normalizedPrice = item.price.replace(/[^0-9.-]+/g, '');
@@ -95,7 +93,7 @@ export default function Articles(props) {
                     <button className="btn quantity-btn" onClick={() => { setQuantity(prev => prev + 1) }}>+</button>
                 </div>
                 <div className="controls">
-                    <button className="btn addToCart" onClick={() => handleClick(item)}>Add to cart</button>
+                    <button className="btn addToCart" onClick={() => handleClick(item, quantity)}>Add to cart</button>
                     <Link to={`/Front_End_PFA/${slug}/${item.id}`}><button className="btn">View Product</button>
                     </Link>
                 </div>

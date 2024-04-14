@@ -20,12 +20,9 @@ export default function CartItem({ item, onDeleteItem, updateQuantity }) {
         setQuantity(prevQuantity => prevQuantity + 1);
     };
 
-    // useEffect to sync the state to the context
     useEffect(() => {
-        // This will update the global state whenever the local quantity state changes
         updateQuantity(item.name, quantity);
-        console.log(item.quantity)
-    }, [quantity]); // Dependency on quantity ensures this runs only when quantity changes
+    }, [quantity]);
 
 
     const name = item.name.split('-')
@@ -37,7 +34,7 @@ export default function CartItem({ item, onDeleteItem, updateQuantity }) {
         (
             <div className="item-container">
                 <div className="item-info">
-                    <img src={item.img_src} alt="Item" />
+                    <img src={item.mainIMG} alt="Item" />
                     <h1 className="name">{name[0]}</h1>
                 </div>
                 <div className="quantity-controls">
@@ -47,9 +44,10 @@ export default function CartItem({ item, onDeleteItem, updateQuantity }) {
                 </div>
                 <div className="priceandclear">
                     <p className="item-price">${(price * quantity).toFixed(2)}</p>
-                    <div className="clear" onClick={onDeleteItem}>
+                    <div className="clear" onClick={() => onDeleteItem(item.id)}>
                         <FontAwesomeIcon icon={faTrash} />
                     </div>
+
                 </div>
             </div>
         )

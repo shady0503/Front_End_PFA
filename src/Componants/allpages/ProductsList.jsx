@@ -12,8 +12,8 @@
             <div className='container-fluid-Articles'>
                 {
                     props.filter ?
-                        items.map((item, index) => <Articles slug="props.slug" key={index} item={item} />)
-                        : promotionItems.map((item, index) => <Articles slug={props.slug} key={index} item={item} />)
+                        items.map((item, index) => item && (<Articles slug="props.slug" key={index} item={item} />))
+                        : promotionItems.map((item, index) => item &&( <Articles slug={props.slug} key={index} item={item} />))
 
                 }
             </div>

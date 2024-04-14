@@ -26,9 +26,9 @@ export default function Cart() {
             <div className="items-container">
                 {       cartItems.map((value, index) => (
                             <CartItem
-                                key={index}
+                                key={value.id}
                                 item={value}
-                                onDeleteItem={() => deleteFromCart(index)}
+                                onDeleteItem={() => deleteFromCart(value.id)}
                                 updateQuantity={updateQuantity}
                             />
                         ))
