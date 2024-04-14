@@ -8,7 +8,7 @@ import { useNavigate } from 'react-router';
 export default function Cart() {
 
     const { data, deleteFromCart, updateQuantity } = useContext(DataContext)
-    const { items, promotionItems, cartItems } = data
+    const { Gaming_Laptops, promotionItems, cartItems } = data
     const navigate = useNavigate()
 
 
@@ -42,11 +42,11 @@ export default function Cart() {
 
             </div>
 
-            <h4 className="total">{cartItems.reduce((accumulator, item) => {
+            <h4 className="total">£{cartItems.reduce((accumulator, item) => {
                 const normalizedPrice = item.price.replace(/[^0-9.-]+/g, '');
                 const price = Number(normalizedPrice)
                 return accumulator + price * item.quantity;
-            }, 0).toFixed(2)} $</h4>
+            }, 0).toFixed(2)}</h4>
 
             <button className="btn check-out-btn">Check Out</button>
         </div>

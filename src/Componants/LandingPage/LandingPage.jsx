@@ -15,21 +15,25 @@ export default function LandingPage() {
 
     useEffect(() => {
         const fetchItem = async () => {
-            const filteredItems = data.items.filter(product => product.id === id);
+            const allProducts = [...data.Gaming_Laptops, ...data.Phones];
+        
+            const filteredItems = allProducts.filter(product => product.id === id);
+        
             if (filteredItems.length > 0) {
                 return filteredItems[0];
             }
             return null;
         };
-
+        
         fetchItem().then(fetchedItem => {
             if (fetchedItem) {
                 setItem(fetchedItem);
                 setMainImg(fetchedItem.mainImg);
-                setSecondary([fetchedItem.mainImg,...fetchedItem.imgs]);
+                setSecondary([fetchedItem.mainImg, ...fetchedItem.imgs]);
             }
         });
-    }, [id, data.items]);
+        
+    }, [id, data]);
 
     if (!item) {
         return <div>Loading...</div>;

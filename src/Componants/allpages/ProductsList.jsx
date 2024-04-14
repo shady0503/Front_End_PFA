@@ -3,21 +3,19 @@
     import Articles from './Articles';
     import { DataContext } from '../dataContext';
     function ProductsList(props) {
-        const { data } = useContext(DataContext)
-        const {items, promotionItems, cartItems} = data
-        if (!data) {
-            return null;
-        }
+        const { data } = useContext(DataContext);
+    
+        if (!data) return null;
+    
+        const productsList = data[props.slug];
+        console.log(props.slug, productsList);
+    
         return (
             <div className='container-fluid-Articles'>
-                {
-                    props.filter ?
-                        items.map((item, index) => item && (<Articles slug="props.slug" key={index} item={item} />))
-                        : promotionItems.map((item, index) => item &&( <Articles slug={props.slug} key={index} item={item} />))
-
-                }
+                {productsList && productsList.map((item, index) => (
+                    <Articles key={item.id} slug={props.slug} item={item} />
+                ))}
             </div>
         );
     }
-
     export default ProductsList;

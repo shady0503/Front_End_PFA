@@ -1,5 +1,5 @@
 {
-    "items": [
+    "Gaming_Laptops": [
         {
             "id": "1713022585-1",
             "category": "Gaming",
@@ -2892,6 +2892,2928 @@
                         },
                         {
                             "Box contents": "- Acer Nitro 5 AN515-58-53WE 15.6\" Gaming Laptop (NH.QFJEK.009)\n- AC power adapter"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Phones": [
+        {
+            "id": "1713132746-1",
+            "category": "Phones",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10250060_blue?$l-large$&fmt=auto",
+            "name": "GOOGLE Pixel 7a - 128 GB, Sea",
+            "price": "£399.00",
+            "description": [
+                "Android 13",
+                "6.1\" Full HD+ OLED touchscreen",
+                "Dual 64 MP / 13 MP main cameras",
+                "13 MP front camera",
+                "Battery capacity: 4385 mAh",
+                "Google Tensor G2 processor",
+                "2 year guarantee"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10250060_blue_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10250060_blue_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10250060_blue_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10250060_blue_004?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (Nano SIM & eSIM)\n- Dual eSIM"
+                        },
+                        {
+                            "Colour": "Sea"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "Android 13"
+                        },
+                        {
+                            "Processor": "Google Tensor G2"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Proximity\n- Ambient light\n- Accelerometer\n- Gyro\n- Magnetometer\n- Barometer"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "Full HD 2400 x 1080p"
+                        },
+                        {
+                            "PPI": "429 PPI"
+                        },
+                        {
+                            "Screen size": 6.1
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Up to 90 Hz refresh rate\n- Always-on\n- Corning Gorilla Glass 3\n- High brightness mode\n- 20:9 aspect ratio"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Sea"
+                        },
+                        {
+                            "Box contents": "- Google Pixel 7a\n- USB Type-C charging cable\n- Quick switch adapter\n- SIM tool\n- Support card"
+                        },
+                        {
+                            "Dimensions": "152 x 72.9 x 9 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "193.5 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "2 years"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: 64 MP / 13 MP\n- Front: 13 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K Ultra HD (60 fps)\n- Front: 4K Ultra HD (30 fps)"
+                        },
+                        {
+                            "Flash": "LED flash"
+                        },
+                        {
+                            "Camera features": "- Photo unblur\n- Magic eraser\n- Night sight\n- Long exposure\n- Real Tone\n- Face unblur\n- Panorama\n- Manual white balancing\n- Locked folder\n- Top shot\n- Portrait mode\n- Portrait light\n- Super res zoom\n- Motion auto focus\n- Frequent faces\n- Dual exposure controls\n- Live HDR+"
+                        },
+                        {
+                            "Virtual assistant": "Google Assistant"
+                        },
+                        {
+                            "Other features": "Wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP67 water and dust-resistant"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132749-97",
+            "mainImg": "https://media.currys.biz/i/currysprod/10262023?$l-large$&fmt=auto",
+            "name": "SAMSUNG Galaxy A55 5G - 256 GB, Awesome Navy",
+            "price": "£489.00",
+            "description": [
+                "Android 14",
+                "6.6\" Full HD+ Super AMOLED touchscreen",
+                "Triple 50 MP / 12 MP / 5 MP main cameras",
+                "32 MP front camera",
+                "Battery capacity: 5000 mAh",
+                "Exynos 1480 processor",
+                "2 year guarantee"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/10262023_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10262023_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10262023_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10262023_004?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "Dual Nano SIM"
+                        },
+                        {
+                            "Colour": "Awesome navy"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "Android 14"
+                        },
+                        {
+                            "Processor": "Exynos 1480"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "256 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Accelerometer\n- Geomagnetic\n- Gyro\n- Hall\n- Proximity\n- Light"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "Full HD+ 2340 x 1080p"
+                        },
+                        {
+                            "PPI": "389 ppi"
+                        },
+                        {
+                            "Screen size": 6.6
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- 120 Hz refresh rate\n- 500 nits\n- HDR10+\n- Corning Gorilla Glass 5"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Awesome navy"
+                        },
+                        {
+                            "Box contents": "- Samsung Galaxy A55 5G\n- USB Type-C cable\n- Sim ejector tool\n- Quick start guide"
+                        },
+                        {
+                            "Dimensions": "161.1 x 77.4 x 8.2 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "213 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "2 years"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Triple 50 MP / 12 MP / 5 MP\n- Front: 32 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K Ultra HD (30 fps)\n- Front: 4K Ultra HD (30 fps)"
+                        },
+                        {
+                            "Flash": "LED rear camera flash"
+                        },
+                        {
+                            "Camera features": "- AR Zone\n- Bixby Vison\n- Photo\n- Fun\n- Portrait\n- Pro\n- Single take\n- Night\n- Food\n- Panorama\n- Macro\n- Dual Recording\n- Hyperlapse\n- Pro Video\n- Slow Motion\n- Super slow-mo\n- Video"
+                        },
+                        {
+                            "Virtual assistant": "Bixby"
+                        },
+                        {
+                            "Other features": "One UI 6.1"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP67 water and dust-resistant"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132752-197",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10255061_pink?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 15 Plus - 128 GB, Pink",
+            "price": "£799.00",
+            "description": [
+                "iOS 17",
+                "6.7\" Super Retina XDR display",
+                "48 MP main camera",
+                "12 MP front camera",
+                "Apple A16 Bionic processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10255061_pink_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255061_pink_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255061_pink_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255061_pink_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255061_pink_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Pink"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 17"
+                        },
+                        {
+                            "Processor": "A16 Bionic chip"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- Barometer\n- High dynamic range gyro\n- High-g accelerometer\n- Proximity sensor\n- Dual ambient light sensors"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2796 x 1290p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.7
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Dynamic Island\n- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 26 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Pink"
+                        },
+                        {
+                            "Box contents": "- Apple iPhone 15 Plus\n- USB-C charging cable x 1\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "160.9 x 77.8 x 7.80 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "201 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: 48 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR at 60 fps\n- Front: 4K at 60 fps"
+                        },
+                        {
+                            "Flash": "True Tone flash"
+                        },
+                        {
+                            "Camera features": "- Telephoto: 52mm, ƒ/1.6 aperture, sensor-shift optical image stabilisation, 100% Focus Pixels\n- Ultra Wide: 13mm, ƒ/2.4 aperture and 120° field of view\n- 2x optical zoom in, 2x optical zoom out; 4x optical zoom range\n- Digital zoom up to 10x\n- Sapphire crystal lens cover\n- True Tone flash\n- Photonic Engine\n- Deep Fusion\n- Smart HDR 5\n- Next-generation portraits with Focus and Depth Control\n- Portrait Lighting with six effects\n- Night mode\n- Panorama (up to 63MP)\n- Photographic Styles\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red‑eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF and JPEG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Other features": "- MagSafe wireless charging\n- Qi wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132755-283",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10259998_blue?$l-large$&fmt=auto",
+            "name": "SAMSUNG Galaxy A25 5G - 128 GB, Blue",
+            "price": "£249.00",
+            "description": [
+                "Android 14",
+                "6.5\" Full HD+ Super AMOLED touchscreen",
+                "Triple 50 MP / 8 MP / 2 MP main cameras",
+                "13 MP front camera",
+                "Battery capacity: 5000 mAh",
+                "Exynos 1280 processor",
+                "2 year guarantee"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10259998_blue_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10259998_blue_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10259998_blue_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10259998_blue_004?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "Dual Nano SIM"
+                        },
+                        {
+                            "Colour": "Blue"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "Android 14.0"
+                        },
+                        {
+                            "Processor": "Samsung Exynos 1280"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Dolby Atmos speakers"
+                        },
+                        {
+                            "Sensor": "- Accelerometer\n- Fingerprint Sensor\n- Gyro Sensor\n- Geomagnetic Sensor\n- Light Sensor\n- Virtual Proximity Sensing"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "Full HD+ 1080 x 2340p"
+                        },
+                        {
+                            "PPI": "398.7 PPI"
+                        },
+                        {
+                            "Screen size": 6.5
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- HDR\n- Always on Display"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Blue"
+                        },
+                        {
+                            "Box contents": "- Samsung Galaxy A25 5G\n- USB-C charging cable\n- Quick start guide\n- Warranty manual\n- Sim ejector tool"
+                        },
+                        {
+                            "Dimensions": "161 x 76.5 x 8.3 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "197 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "2 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Triple 50 MP / 8 MP / 2 MP\n- Front: 13 MP"
+                        },
+                        {
+                            "Video resolution": "Main: UHD 4K (30fps)"
+                        },
+                        {
+                            "Flash": "LED Flash"
+                        },
+                        {
+                            "Camera features": "- AR Zone\n- Bixby Vison\n- Food\n- Fun\n- Hyperlapse\n- Macro\n- Night\n- Panorama\n- Photo\n- Portrait\n- Pro\n- Pro Video\n- Single Take\n- Slow Motion\n- Super slow-motion\n- Video"
+                        },
+                        {
+                            "Virtual assistant": "- Google Assistant\n- Bixby"
+                        },
+                        {
+                            "Other features": "25 W fast charging (25 W charger sold separately)"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132758-381",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10247675_black?$l-large$&fmt=auto",
+            "name": "MOTOROLA Moto G13 - 128 GB, Matte Charcoal",
+            "price": "£99.00",
+            "description": [
+                "Android 13",
+                "6.5\" HD+ IPS LCD touchscreen",
+                "Triple 50 MP / 2 MP / 2 MP main cameras",
+                "8 MP front camera",
+                "Battery capacity: 5000 mAh",
+                "MediaTek Helio G85 processor",
+                "2 year guarantee"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10247675_black_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10247675_black_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10247675_black_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10247675_black_004?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "Dual Nano SIM"
+                        },
+                        {
+                            "Colour": "Matte Charcoal"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "Android 13"
+                        },
+                        {
+                            "Processor": "MediaTek Helio G85"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "4G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.1"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Dolby Atmos Stereo Speakers"
+                        },
+                        {
+                            "Sensor": "- Proximity\n- Compass\n- Accelerometer\n- Gyroscope\n- Ambient light"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "HD+ 720 x 1600p"
+                        },
+                        {
+                            "PPI": "269 ppi"
+                        },
+                        {
+                            "Screen size": 6.53
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "90 Hz refresh rate"
+                        },
+                        {
+                            "Talk time": "27 hours"
+                        },
+                        {
+                            "Battery": "Lithium polymer"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Matte Charcoal"
+                        },
+                        {
+                            "Box contents": "- Motorola Moto G13\n- Charger\n- USB Type-C cable\n- SIM removal pin"
+                        },
+                        {
+                            "Dimensions": "162.7 x 74.66 x 8.19 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "183.45 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "2 years"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Triple 50 MP / 2 MP / 2 MP\n- Front: 8 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: Full HD (30 fps)\n- Front: HD (30 fps)"
+                        },
+                        {
+                            "Flash": "LED flash"
+                        },
+                        {
+                            "Camera features": "- Auto focus\n- Macro vision\n- Depth sensor"
+                        },
+                        {
+                            "Virtual assistant": "Google Assistant"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP52"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132761-483",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10250060_black?$l-large$&fmt=auto",
+            "name": "GOOGLE Pixel 7a - 128 GB, Charcoal",
+            "price": "£399.00",
+            "description": [
+                "Android 13",
+                "6.1\" Full HD+ OLED touchscreen",
+                "Dual 64 MP / 13 MP main cameras",
+                "13 MP front camera",
+                "Battery capacity: 4385 mAh",
+                "Google Tensor G2 processor",
+                "2 year guarantee"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10250060_black_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10250060_black_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10250060_black_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10250060_black_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (Nano SIM & eSIM)\n- Dual eSIM"
+                        },
+                        {
+                            "Colour": "Charcoal"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "Android 13"
+                        },
+                        {
+                            "Processor": "Google Tensor G2"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Proximity\n- Ambient light\n- Accelerometer\n- Gyro\n- Magnetometer\n- Barometer"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "Full HD 2400 x 1080p"
+                        },
+                        {
+                            "PPI": "429 PPI"
+                        },
+                        {
+                            "Screen size": 6.1
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Up to 90 Hz refresh rate\n- Always-on\n- Corning Gorilla Glass 3\n- High brightness mode\n- 20:9 aspect ratio"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Charcoal"
+                        },
+                        {
+                            "Box contents": "- Google Pixel 7a\n- USB Type-C charging cable\n- Quick switch adapter\n- SIM tool\n- Support card"
+                        },
+                        {
+                            "Dimensions": "152 x 72.9 x 9 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "193.5 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "2 years"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: 64 MP / 13 MP\n- Front: 13 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K Ultra HD (60 fps)\n- Front: 4K Ultra HD (30 fps)"
+                        },
+                        {
+                            "Flash": "LED flash"
+                        },
+                        {
+                            "Camera features": "- Photo unblur\n- Magic eraser\n- Night sight\n- Long exposure\n- Real Tone\n- Face unblur\n- Panorama\n- Manual white balancing\n- Locked folder\n- Top shot\n- Portrait mode\n- Portrait light\n- Super res zoom\n- Motion auto focus\n- Frequent faces\n- Dual exposure controls\n- Live HDR+"
+                        },
+                        {
+                            "Virtual assistant": "Google Assistant"
+                        },
+                        {
+                            "Other features": "Wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP67 water and dust-resistant"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132764-579",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10254987_blue?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 15 - 128 GB, Blue",
+            "price": "£699.00",
+            "description": [
+                "iOS 17",
+                "6.1\" Super Retina XDR display",
+                "48 MP main camera",
+                "12 MP front camera",
+                "Apple A16 Bionic processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10254987_blue_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_blue_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_blue_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_blue_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_blue_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Blue"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 17"
+                        },
+                        {
+                            "Processor": "A16 Bionic chip"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- Barometer\n- High dynamic range gyro\n- High-g accelerometer\n- Proximity sensor\n- Dual ambient light sensors"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2556 x 1179p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.1
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Dynamic Island\n- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 20 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Blue"
+                        },
+                        {
+                            "Box contents": "- Apple iPhone 15\n- USB-C charge cable x 1\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "147.6 x 71.6 x 7.80 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "171 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: 48 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR at 60 fps\n- Front: 4K at 60 fps"
+                        },
+                        {
+                            "Flash": "True Tone flash"
+                        },
+                        {
+                            "Camera features": "- Telephoto: 52mm, ƒ/1.6 aperture, sensor-shift optical image stabilisation, 100% Focus Pixels\n- Ultra Wide: 13mm, ƒ/2.4 aperture and 120° field of view\n- 2x optical zoom in, 2x optical zoom out; 4x optical zoom range\n- Digital zoom up to 10x\n- Sapphire crystal lens cover\n- True Tone flash\n- Photonic Engine\n- Deep Fusion\n- Smart HDR 5\n- Next-generation portraits with Focus and Depth Control\n- Portrait Lighting with six effects\n- Night mode\n- Panorama (up to 63MP)\n- Photographic Styles\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red‑eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF and JPEG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Other features": "- MagSafe wireless charging\n- Qi wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132767-667",
+            "mainImg": "https://media.currys.biz/i/currysprod/10242696?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 14 - 128 GB, Midnight",
+            "price": "£599.00",
+            "description": [
+                "iOS 16",
+                "6.1\" Super Retina XDR display",
+                "Dual 12 MP main cameras",
+                "12 MP front camera",
+                "Apple A15 Bionic processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/10242696_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10242696_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10242696_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10242696_004?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Midnight"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 16"
+                        },
+                        {
+                            "Processor": "A15 Bionic chip"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- Barometer\n- High dynamic range gyro\n- High-g accelerometer\n- Proximity sensor\n- Dual ambient light sensors"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2532 x 1170p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.1
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 800 nits max brightness (typical); 1,200 nits max brightness (HDR)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 20 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Midnight"
+                        },
+                        {
+                            "Box contents": "- Apple iPhone 14\n- USB-C to Lightning cable x 1\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "146.7 x 71.5 x 7.8 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "172 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Dual 12 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR at 60 fps\n- Front: 4K at 60 fps"
+                        },
+                        {
+                            "Flash": "True Tone flash"
+                        },
+                        {
+                            "Camera features": "- Wide: ƒ/1.5 aperture, 26 mm, sensor‑shift optical image stabilisation\n- Ultra Wide: ƒ/2.4 aperture & 120° field of view\n- 2x optical zoom\n- Digital zoom up to 5x\n- Sapphire crystal lens cover\n- True Tone flash\n- Photonic Engine\n- Deep Fusion\n- Smart HDR 4\n- Portrait mode with advanced bokeh and Depth Control\n- Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High Key Light Mono)\n- Night mode\n- Panorama (up to 63MP)\n- Photographic Styles\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF and JPEG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Other features": "- MagSafe wireless charging\n- Qi wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 (maximum depth of 6 metres up to 30 minutes)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132770-753",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10255061_black?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 15 Plus - 128 GB, Black",
+            "price": "£799.00",
+            "description": [
+                "iOS 17",
+                "6.7\" Super Retina XDR display",
+                "48 MP main camera",
+                "12 MP front camera",
+                "Apple A16 Bionic processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10255061_black_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255061_black_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255061_black_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255061_black_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255061_black_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 17"
+                        },
+                        {
+                            "Processor": "A16 Bionic chip"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- Barometer\n- High dynamic range gyro\n- High-g accelerometer\n- Proximity sensor\n- Dual ambient light sensors"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2796 x 1290p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.7
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Dynamic Island\n- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 26 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Box contents": "- Apple iPhone 15 Plus\n- USB-C charging cable x 1\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "160.9 x 77.8 x 7.80 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "201 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: 48 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR at 60 fps\n- Front: 4K at 60 fps"
+                        },
+                        {
+                            "Flash": "True Tone flash"
+                        },
+                        {
+                            "Camera features": "- Telephoto: 52mm, ƒ/1.6 aperture, sensor-shift optical image stabilisation, 100% Focus Pixels\n- Ultra Wide: 13mm, ƒ/2.4 aperture and 120° field of view\n- 2x optical zoom in, 2x optical zoom out; 4x optical zoom range\n- Digital zoom up to 10x\n- Sapphire crystal lens cover\n- True Tone flash\n- Photonic Engine\n- Deep Fusion\n- Smart HDR 5\n- Next-generation portraits with Focus and Depth Control\n- Portrait Lighting with six effects\n- Night mode\n- Panorama (up to 63MP)\n- Photographic Styles\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red‑eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF and JPEG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Other features": "- MagSafe wireless charging\n- Qi wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132772-839",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10255005_silver-grey?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 15 Pro - 128 GB, Natural Titanium",
+            "price": "£899.00",
+            "description": [
+                "iOS 17",
+                "6.1\" Super Retina XDR display",
+                "48 MP main camera",
+                "12 MP front camera",
+                "Apple A17 Pro processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10255005_silver-grey_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255005_silver-grey_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255005_silver-grey_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255005_silver-grey_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255005_silver-grey_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Natural Titanium"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 17"
+                        },
+                        {
+                            "Processor": "Apple A17 Pro chip\n- 6-core CPU\n- 6-core GPU\n- 16-core Neural Engine"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- LiDAR scanner\n- Barometer\n- High dynamic range gyro\n- High-g accelerometer\n- Proximity sensor\n- Dual ambient light sensors"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2796 x 1290p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.1
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Dynamic Island\n- Always-On display\n- ProMotion technology with adaptive refresh rates up to 120Hz\n- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 23 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Natural Titanium"
+                        },
+                        {
+                            "Box contents": "- Apple iPhone 15 Pro\n- USB Type-C charging cable\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "146.6 x 70.6 x 8.25 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "187 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: 48 MP / 12 MP / 12 MP / 12 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR (60 fps)\n- Front: 4K (60 fps)"
+                        },
+                        {
+                            "Flash": "True Tone"
+                        },
+                        {
+                            "Camera features": "- Main: 24mm, ƒ/1.78 aperture, second‑generation sensor‑shift optical image stabilisation, 100% Focus Pixels, support for super‑high‑resolution photos (24 MP and 48 MP)\n- Ultra Wide: 13mm, ƒ/2.2 aperture and 120° field of view, 100% Focus Pixels\n- Telephoto: 77mm, ƒ/2.8 aperture, optical image stabilisation\n- 12MP 2x Telephoto (enabled by quad-pixel sensor): 48mm, ƒ/1.78 aperture, second‑generation sensor‑shift optical image stabilisation, 100% Focus Pixels\n- 3x optical zoom in, 2x optical zoom out; 6x optical zoom range; digital zoom up to 15x\n- Sapphire crystal lens cover\n- Adaptive True Tone flash\n- Photonic Engine\n- Deep Fusion\n- Smart HDR 4\n- Portrait mode with advanced bokeh and Depth Control\n- Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Light Mono)\n- Night mode\n- Night mode portraits enabled by LiDAR scanner\n- Panorama (up to 63MP)\n- Photographic Styles\n- Macro photography\n- Apple ProRAW\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red-eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF, JPEG and DNG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Other features": "- MagSafe wireless charging\n- Qi wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 (maximum depth of 6 metres up to 30 minutes)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132775-927",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10255035_black?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 15 Pro Max - 256 GB, Black Titanium",
+            "price": "£1,099.00",
+            "description": [
+                "iOS 17",
+                "6.7\" Super Retina XDR display",
+                "48 MP main camera",
+                "12 MP front camera",
+                "Apple A17 Pro processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10255035_black_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_black_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_black_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_black_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_black_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Black titanium"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 17"
+                        },
+                        {
+                            "Processor": "Apple A17 Bionic chip\n- 6-core CPU\n- 6-core GPU\n- 16-core Neural Engine"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "256 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "5G"
+                        },
+                        {
+                            "GPS": "Precision dual-frequency GPS"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes, with reader mode"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- LiDAR scanner\n- Barometer\n- High dynamic range gyro\n- High-g accelerometer\n- Proximity sensor\n- Dual ambient light sensors"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2796 x 1290p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.7
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Dynamic Island\n- Always-On display\n- ProMotion technology with adaptive refresh rates up to 120Hz\n- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 29 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Black titanium"
+                        },
+                        {
+                            "Box contents": "- iPhone 15 Pro Max\n- USB‑C Charge Cable (1m)\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "129.9 x 76.7 x 8.25 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "221 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Triple 48 MP / 12 MP / 12 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR (60 fps)\n- Front: 4K (60 fps)"
+                        },
+                        {
+                            "Flash": "True Tone"
+                        },
+                        {
+                            "Camera features": "- Main: 24mm, ƒ/1.78 aperture, second‑generation sensor‑shift optical image stabilisation, 100% Focus Pixels, support for super‑high‑resolution photos (24MP and 48MP)\n- Ultra Wide: 13mm, ƒ/2.2 aperture and 120° field of view, 100% Focus Pixels\n- 12MP 2x Telephoto (enabled by quad‑pixel sensor): 48mm, ƒ/1.78 aperture, second‑generation sensor‑shift optical image stabilisation, 100% Focus Pixels\n- 12MP 5x Telephoto: 120mm, ƒ/2.8 aperture, 3D sensor‑shift optical image stabilisation and autofocus, tetraprism design\n- 5x optical zoom in, 2x optical zoom out; 10x optical zoom range\n- Sapphire crystal lens cover\n- Adaptive True Tone flash\n- Photonic Engine\n- Deep Fusion\n- Smart HDR 4\n- Portrait mode with advanced bokeh and Depth Control\n- Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Light Mono)\n- Night mode\n- Night mode portraits enabled by LiDAR scanner\n- Panorama (up to 63MP)\n- Photographic Styles\n- Macro photography\n- Apple ProRAW\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red-eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF, JPEG and DNG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Other features": "- MagSafe wireless charging\n- Qi wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "P68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132778-1015",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10255035_blue?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 15 Pro Max - 256 GB, Blue Titanium",
+            "price": "£1,099.00",
+            "description": [
+                "iOS 17",
+                "6.7\" Super Retina XDR display",
+                "48 MP main camera",
+                "12 MP front camera",
+                "Apple A17 Pro processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10255035_blue_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_blue_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_blue_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_blue_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_blue_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Blue titanium"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 17"
+                        },
+                        {
+                            "Processor": "Apple A17 Bionic chip\n- 6-core CPU\n- 6-core GPU\n- 16-core Neural Engine"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "256 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Precision dual-frequency GPS"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes, with reader mode"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- LiDAR scanner\n- Barometer\n- High dynamic range gyro\n- High-g accelerometer\n- Proximity sensor\n- Dual ambient light sensors"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2796 x 1290p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.7
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Dynamic Island\n- Always-On display\n- ProMotion technology with adaptive refresh rates up to 120Hz\n- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 29 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Blue titanium"
+                        },
+                        {
+                            "Box contents": "- iPhone 15 Pro Max\n- USB‑C Charge Cable (1m)\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "129.9 x 76.7 x 8.25 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "221 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Triple 48 MP / 12 MP / 12 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR (60 fps)\n- Front: 4K (60 fps)"
+                        },
+                        {
+                            "Flash": "True Tone"
+                        },
+                        {
+                            "Camera features": "- Main: 24mm, ƒ/1.78 aperture, second‑generation sensor‑shift optical image stabilisation, 100% Focus Pixels, support for super‑high‑resolution photos (24MP and 48MP)\n- Ultra Wide: 13mm, ƒ/2.2 aperture and 120° field of view, 100% Focus Pixels\n- 12MP 2x Telephoto (enabled by quad‑pixel sensor): 48mm, ƒ/1.78 aperture, second‑generation sensor‑shift optical image stabilisation, 100% Focus Pixels\n- 12MP 5x Telephoto: 120mm, ƒ/2.8 aperture, 3D sensor‑shift optical image stabilisation and autofocus, tetraprism design\n- 5x optical zoom in, 2x optical zoom out; 10x optical zoom range\n- Sapphire crystal lens cover\n- Adaptive True Tone flash\n- Photonic Engine\n- Deep Fusion\n- Smart HDR 4\n- Portrait mode with advanced bokeh and Depth Control\n- Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Light Mono)\n- Night mode\n- Night mode portraits enabled by LiDAR scanner\n- Panorama (up to 63MP)\n- Photographic Styles\n- Macro photography\n- Apple ProRAW\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red-eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF, JPEG and DNG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Other features": "- MagSafe wireless charging\n- Qi wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132781-1103",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10254987_pink?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 15 - 128 GB, Pink",
+            "price": "£699.00",
+            "description": [
+                "iOS 17",
+                "6.1\" Super Retina XDR display",
+                "48 MP main camera",
+                "12 MP front camera",
+                "Apple A16 Bionic processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10254987_pink_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_pink_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_pink_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_pink_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_pink_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Pink"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 17"
+                        },
+                        {
+                            "Processor": "A16 Bionic chip"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- Barometer\n- High dynamic range gyro\n- High-g accelerometer\n- Proximity sensor\n- Dual ambient light sensors"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2556 x 1179p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.1
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Dynamic Island\n- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 20 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Pink"
+                        },
+                        {
+                            "Box contents": "- Apple iPhone 15\n- USB-C charge cable x 1\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "147.6 x 71.6 x 7.80 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "171 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: 48 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR at 60 fps\n- Front: 4K at 60 fps"
+                        },
+                        {
+                            "Flash": "True Tone flash"
+                        },
+                        {
+                            "Camera features": "- Telephoto: 52mm, ƒ/1.6 aperture, sensor-shift optical image stabilisation, 100% Focus Pixels\n- Ultra Wide: 13mm, ƒ/2.4 aperture and 120° field of view\n- 2x optical zoom in, 2x optical zoom out; 4x optical zoom range\n- Digital zoom up to 10x\n- Sapphire crystal lens cover\n- True Tone flash\n- Photonic Engine\n- Deep Fusion\n- Smart HDR 5\n- Next-generation portraits with Focus and Depth Control\n- Portrait Lighting with six effects\n- Night mode\n- Panorama (up to 63MP)\n- Photographic Styles\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red‑eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF and JPEG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Other features": "- MagSafe wireless charging\n- Qi wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132784-1191",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10260394_black?$l-large$&fmt=auto",
+            "name": "SAMSUNG Galaxy A15 - 128 GB, Blue Black",
+            "price": "£169.00",
+            "description": [
+                "Android 14",
+                "6.5\" Full HD+ Super AMOLED touchscreen",
+                "Triple 50 MP / 5 MP / 2 MP main cameras",
+                "13 MP front camera",
+                "Battery capacity: 5000 mAh",
+                "MediaTek MT6789V processor",
+                "2 year guarantee"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10260394_black_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10260394_black_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10260394_black_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10260394_black_004?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "Dual Nano SIM"
+                        },
+                        {
+                            "Colour": "Blue black"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "Android 14"
+                        },
+                        {
+                            "Processor": "MediaTek MT6789V Processor (2.2 GHz, octa-core)"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "4G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Accelerometer\n- Geomagnetic\n- Proximity\n- Light"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "Full HD+ 2340 x 1080"
+                        },
+                        {
+                            "PPI": "399 ppi"
+                        },
+                        {
+                            "Screen size": 6.5
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- 90 Hz refresh rate\n- 420 nits brightness"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Blue black"
+                        },
+                        {
+                            "Box contents": "- Samsung Galaxy A15\n- Quick start guide\n- Ejection pin\n- Warranty card"
+                        },
+                        {
+                            "Dimensions": "160.1 x 76.8 x 8.4 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "200 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "2 years"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Triple 50 MP / 5 MP / 2 MP\n- Front: 13 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: Full HD (60 fps) \n- Front: Full HD (60 fps)"
+                        },
+                        {
+                            "Flash": "LED flash"
+                        },
+                        {
+                            "Camera features": "- AR Emoji\n- AR Zone\n- Deco Pic\n- Food\n- Fun\n- Macro\n- Night\n- Panorama\n- Photo\n- Portrait\n- Pro\n- Slow-motion\n- Video"
+                        },
+                        {
+                            "Virtual assistant": "Bixby"
+                        },
+                        {
+                            "Other features": "Fast charging (adapter sold separately)"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132787-1289",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10255035_silver-grey?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 15 Pro Max - 256 GB, Natural Titanium",
+            "price": "£1,099.00",
+            "description": [
+                "iOS 17",
+                "6.7\" Super Retina XDR display",
+                "48 MP main camera",
+                "12 MP front camera",
+                "Apple A17 Pro processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10255035_silver-grey_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_silver-grey_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_silver-grey_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_silver-grey_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10255035_silver-grey_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Natural titanium"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 17"
+                        },
+                        {
+                            "Processor": "Apple A17 Bionic chip\n- 6-core CPU\n- 6-core GPU\n- 16-core Neural Engine"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "256 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Precision dual-frequency GPS"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes, with reader mode"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- LiDAR scanner\n- Barometer\n- High dynamic range gyro\n- High-g accelerometer\n- Proximity sensor\n- Dual ambient light sensors"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2796 x 1290p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.7
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Dynamic Island\n- Always-On display\n- ProMotion technology with adaptive refresh rates up to 120Hz\n- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 29 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Natural titanium"
+                        },
+                        {
+                            "Box contents": "- iPhone 15 Pro Max\n- USB‑C Charge Cable (1m)\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "129.9 x 76.7 x 8.25 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "221 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Triple 48 MP / 12 MP / 12 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR (60 fps)\n- Front: 4K (60 fps)"
+                        },
+                        {
+                            "Flash": "True Tone"
+                        },
+                        {
+                            "Camera features": "- Main: 24mm, ƒ/1.78 aperture, second‑generation sensor‑shift optical image stabilisation, 100% Focus Pixels, support for super‑high‑resolution photos (24MP and 48MP)\n- Ultra Wide: 13mm, ƒ/2.2 aperture and 120° field of view, 100% Focus Pixels\n- 12MP 2x Telephoto (enabled by quad‑pixel sensor): 48mm, ƒ/1.78 aperture, second‑generation sensor‑shift optical image stabilisation, 100% Focus Pixels\n- 12MP 5x Telephoto: 120mm, ƒ/2.8 aperture, 3D sensor‑shift optical image stabilisation and autofocus, tetraprism design\n- 5x optical zoom in, 2x optical zoom out; 10x optical zoom range\n- Sapphire crystal lens cover\n- Adaptive True Tone flash\n- Photonic Engine\n- Deep Fusion\n- Smart HDR 4\n- Portrait mode with advanced bokeh and Depth Control\n- Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Light Mono)\n- Night mode\n- Night mode portraits enabled by LiDAR scanner\n- Panorama (up to 63MP)\n- Photographic Styles\n- Macro photography\n- Apple ProRAW\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red-eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF, JPEG and DNG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Other features": "- MagSafe wireless charging\n- Qi wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132790-1377",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10230581_black?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 13 - 128 GB, Midnight",
+            "price": "£499.00",
+            "description": [
+                "iOS 15",
+                "6.1\" Super Retina XDR display",
+                "Dual 12 MP main cameras",
+                "12 MP front camera",
+                "Apple A15 Bionic processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10230581_black_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10230581_black_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10230581_black_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10230581_black_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10230581_black_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Midnight"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 15"
+                        },
+                        {
+                            "Processor": "A15 Bionic chip"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.0"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- Barometer\n- Three‑axis gyro\n- Accelerometer\n- Proximity sensor\n- Ambient light sensor"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2532 x 1170p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.1
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 800 nits max brightness (typical); 1,200 nits max brightness (HDR)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 19 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Midnight"
+                        },
+                        {
+                            "Box contents": "- Apple iPhone 13\n- USB-C to Lightning cable x 1\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "146.7 x 71.5 x 7.65 (H x W x D)"
+                        },
+                        {
+                            "Weight": "173 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Dual 12 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR at 60 fps\n- Front: 4K at 60 fps"
+                        },
+                        {
+                            "Flash": "True Tone flash"
+                        },
+                        {
+                            "Camera features": "- Wide: ƒ/1.6 aperture\n- Ultra Wide: ƒ/2.4 aperture & 120° field of view\n- 2x optical zoom\n- Digital zoom up to 5x\n- Portrait mode with advanced bokeh and Depth Control\n- Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Light Mono)\n- Sensor‑shift optical image stabilisation (Wide)\n- Seven‑element lens (Wide); five‑element lens (Ultra Wide)\n- Flash with slow sync\n- Panorama (up to 63MP)\n- Sapphire crystal lens cover\n- 100% Focus Pixels (Wide)\n- Night mode\n- Deep Fusion\n- Smart HDR 4\n- Photographic Styles\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red‑eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF and JPEG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 (maximum depth of 6 metres up to 30 minutes)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132793-1457",
+            "mainImg": "https://media.currys.biz/i/currysprod/10259215?$l-large$&fmt=auto",
+            "name": "GOOGLE Pixel 8 - 128 GB, Mint",
+            "price": "£629.00",
+            "description": [
+                "Android 14",
+                "6.2\" Full HD+ pOLED touchscreen",
+                "Dual 50 MP / 12 MP main cameras",
+                "10.5 MP front camera",
+                "Battery capacity: 4575 mAh",
+                "Google Tensor G3 processor",
+                "2 year guarantee"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/10259215_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10259215_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10259215_003?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "Dual SIM (eSIM / physical SIM)"
+                        },
+                        {
+                            "Colour": "Obsidian"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "Android 14"
+                        },
+                        {
+                            "Processor": "Google Tensor G3"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Proximity\n- Ambient light sensor\n- Accelerometer\n- Gyrometer\n- Magnetometer\n- Barometer"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "Full HD+ 2400 x 1080p"
+                        },
+                        {
+                            "PPI": "428 ppi"
+                        },
+                        {
+                            "Screen size": 6.2
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "120 Hz dynamic refresh rate"
+                        },
+                        {
+                            "Talk time": "Up to 24 hours"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Obsidian"
+                        },
+                        {
+                            "Box contents": "- Google Pixel 8\n- Quick switch adapter\n- SIM tool\n- Quick start guide"
+                        },
+                        {
+                            "Dimensions": "150.47 x 70.79 x 8.94 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "187 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "2 years"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: 50 MP / 12 MP\n- Front: 10.5 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K (60 fps)\n- Front: 4K (60 fps)"
+                        },
+                        {
+                            "Flash": "LED flash"
+                        },
+                        {
+                            "Camera features": "Macro focus"
+                        },
+                        {
+                            "Virtual assistant": "Google Assistant"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 water and dust-resistant"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132796-1555",
+            "mainImg": "https://media.currys.biz/i/currysprod/10261966?$l-large$&fmt=auto",
+            "name": "SAMSUNG Galaxy A55 5G - 128 GB, Awesome Navy",
+            "price": "£439.00",
+            "description": [
+                "Android 14",
+                "6.6\" Full HD+ Super AMOLED touchscreen",
+                "Triple 50 MP / 12 MP / 5 MP main cameras",
+                "32 MP front camera",
+                "Battery capacity: 5000 mAh",
+                "Exynos 1480 processor",
+                "2 year guarantee"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/10261966_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10261966_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10261966_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10261966_004?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "Dual Nano SIM"
+                        },
+                        {
+                            "Colour": "Awesome Navy"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "Android 14"
+                        },
+                        {
+                            "Processor": "Exynos 1480"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Accelerometer\n- Geomagnetic\n- Gyro\n- Hall\n- Proximity\n- Light"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "Full HD+ 2340 x 1080p"
+                        },
+                        {
+                            "PPI": "389 ppi"
+                        },
+                        {
+                            "Screen size": 6.6
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- 120 Hz refresh rate\n- 500 nits\n- HDR10+"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Awesome Navy"
+                        },
+                        {
+                            "Box contents": "- Samsung Galaxy A55 5G\n- USB Type-C charging cable\n- Ejection pin\n- Quick start guide"
+                        },
+                        {
+                            "Dimensions": "161.1 x 77.4 x 8.2 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "213 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "2 years"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Triple 50 MP / 12 MP / 5 MP\n- Front: 32 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K Ultra HD (30 fps)\n- Front: 4K Ultra HD (30 fps)"
+                        },
+                        {
+                            "Flash": "LED rear camera flash"
+                        },
+                        {
+                            "Camera features": "- AR Zone\n- Bixby Vison\n- Photo\n- Fun\n- Portrait\n- Pro\n- Single take\n- Night\n- Food\n- Panorama\n- Macro\n- Night"
+                        },
+                        {
+                            "Virtual assistant": "Bixby"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP67 water and dust-resistant"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132799-1653",
+            "mainImg": "https://media.currys.biz/i/currysprod/10261960?$l-large$&fmt=auto",
+            "name": "SAMSUNG Galaxy A35 5G - 128 GB, Awesome Navy",
+            "price": "£339.00",
+            "description": [
+                "Android 14",
+                "6.6\" Full HD+ Super AMOLED touchscreen",
+                "Triple 50 MP / 8 MP / 5 MP main cameras",
+                "13 MP front camera",
+                "Battery capacity: 5000 mAh",
+                "Exynos 1380 processor",
+                "2 year guarantee"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/10261960_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10261960_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10261960_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10261960_004?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "Dual SIM:\n- Nano SIM\n- eSIM"
+                        },
+                        {
+                            "Colour": "Awesome navy"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "Android 14"
+                        },
+                        {
+                            "Processor": "Samsung Exynos 1380 (octa-core)"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speaker"
+                        },
+                        {
+                            "Sensor": "- Accelerometer\n- Face recognition\n- Fingerprint under screen\n- Geomagnetic\n- Gyro\n- Hall\n- Light sensing"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "Full HD+ 1080 x 2340p"
+                        },
+                        {
+                            "Screen size": 6.6
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- 120 Hz refresh rate\n- HDR10 / HDR10+\n- Corning Gorilla Glass 5"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Awesome navy"
+                        },
+                        {
+                            "Box contents": "- Samsung Galaxy A35 5G\n- USB Type-C cable\n- Warranty card\n- Tray pin\n- Quick start guide"
+                        },
+                        {
+                            "Dimensions": "161.6 x 77.9 x 8.2 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "209 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "2 years"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: Triple 50 MP / 8 MP / 5 MP\n- Front: 13 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: Ultra HD (30 fps)\n- Front: Ultra HD (30 fps)"
+                        },
+                        {
+                            "Flash": "LED"
+                        },
+                        {
+                            "Camera features": "- Food\n- Fun\n- Macro\n- Night\n- Panorama\n- Photo\n- Portrait\n- Pro\n- Single Take"
+                        },
+                        {
+                            "Virtual assistant": "Bixby"
+                        },
+                        {
+                            "Other features": "Fast charging (adapter sold separately)"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP67 water and dust-resistant"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1713132801-1751",
+            "mainImg": "https://media.currys.biz/i/currysprod/M10254987_black?$l-large$&fmt=auto",
+            "name": "APPLE iPhone 15 - 128 GB, Black",
+            "price": "£699.00",
+            "description": [
+                "iOS 17",
+                "6.1\" Super Retina XDR display",
+                "48 MP main camera",
+                "12 MP front camera",
+                "Apple A16 Bionic processor"
+            ],
+            "imgs": [
+                "https://media.currys.biz/i/currysprod/M10254987_black_001?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_black_002?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_black_003?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_black_004?$l-large$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/M10254987_black_005?$l-large$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "SIM type": "- Dual SIM (nano-SIM & eSIM)\n- Dual eSIM support"
+                        },
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Type": "SIM-free smartphone"
+                        },
+                        {
+                            "Operating system": "iOS 17"
+                        },
+                        {
+                            "Processor": "A16 Bionic chip"
+                        }
+                    ]
+                },
+                {
+                    "STORAGE": [
+                        {
+                            "Internal storage": "128 GB"
+                        }
+                    ]
+                },
+                {
+                    "CONNECTIVITY": [
+                        {
+                            "4G network": "3G / 4G / 5G"
+                        },
+                        {
+                            "GPS": "Yes"
+                        },
+                        {
+                            "WiFi": "Yes"
+                        },
+                        {
+                            "Bluetooth": "Bluetooth 5.3"
+                        },
+                        {
+                            "NFC": "Yes"
+                        },
+                        {
+                            "Speakers": "Stereo speakers"
+                        },
+                        {
+                            "Sensor": "- Face ID\n- Barometer\n- High dynamic range gyro\n- High-g accelerometer\n- Proximity sensor\n- Dual ambient light sensors"
+                        }
+                    ]
+                },
+                {
+                    "SCREEN": [
+                        {
+                            "Screen resolution": "2556 x 1179p"
+                        },
+                        {
+                            "PPI": "460 ppi"
+                        },
+                        {
+                            "Screen size": 6.1
+                        },
+                        {
+                            "Touchscreen": "Yes"
+                        },
+                        {
+                            "Screen features": "- Dynamic Island\n- HDR display\n- True Tone\n- Wide colour (P3)\n- Haptic Touch\n- 2,000,000:1 contrast ratio (typical)\n- 1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)\n- Fingerprint-resistant oleophobic coating\n- Support for display of multiple languages and characters simultaneously"
+                        },
+                        {
+                            "Talk time": "Up to 20 hours video playback"
+                        },
+                        {
+                            "Battery": "Lithium-ion"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Box contents": "- Apple iPhone 15\n- USB-C charge cable x 1\n- Documentation"
+                        },
+                        {
+                            "Dimensions": "147.6 x 71.6 x 7.80 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "171 g"
+                        },
+                        {
+                            "Manufacturer's guarantee": "1 year"
+                        }
+                    ]
+                },
+                {
+                    "CAMERA": [
+                        {
+                            "Camera": "- Main: 48 MP\n- Front: 12 MP"
+                        },
+                        {
+                            "Video resolution": "- Main: 4K HDR at 60 fps\n- Front: 4K at 60 fps"
+                        },
+                        {
+                            "Flash": "True Tone flash"
+                        },
+                        {
+                            "Camera features": "- Telephoto: 52mm, ƒ/1.6 aperture, sensor-shift optical image stabilisation, 100% Focus Pixels\n- Ultra Wide: 13mm, ƒ/2.4 aperture and 120° field of view\n- 2x optical zoom in, 2x optical zoom out; 4x optical zoom range\n- Digital zoom up to 10x\n- Sapphire crystal lens cover\n- True Tone flash\n- Photonic Engine\n- Deep Fusion\n- Smart HDR 5\n- Next-generation portraits with Focus and Depth Control\n- Portrait Lighting with six effects\n- Night mode\n- Panorama (up to 63MP)\n- Photographic Styles\n- Wide colour capture for photos and Live Photos\n- Lens correction (Ultra Wide)\n- Advanced red‑eye correction\n- Auto image stabilisation\n- Burst mode\n- Photo geotagging\n- Image formats captured: HEIF and JPEG"
+                        },
+                        {
+                            "Virtual assistant": "Siri"
+                        },
+                        {
+                            "Other features": "- MagSafe wireless charging\n- Qi wireless charging"
+                        },
+                        {
+                            "Video calling": "Yes"
+                        },
+                        {
+                            "Speakerphone": "Yes"
+                        },
+                        {
+                            "Water/dust resistance": "IP68 (maximum depth of 6 metres up to 30 minutes) under IEC standard 60529"
                         }
                     ]
                 }

@@ -4,7 +4,7 @@ import loadedData from "../random_data.json"
 export const DataContext = createContext();
 
 export const DataProvider = ({ children }) => {
-    const [data, setData] = useState({ items: [], promotionItems: [], cartItems: [] });
+    const [data, setData] = useState({ Gaming_Laptops: [], Phones: [], promotionItems: [], cartItems: [] });
     const [isLoading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
@@ -13,7 +13,8 @@ export const DataProvider = ({ children }) => {
             setLoading(true);
             try {
                 setData({
-                    items: loadedData.items,
+                    Gaming_Laptops: loadedData.Gaming_Laptops,
+                    Phones: loadedData.Phones,
                     promotionItems: loadedData.promotion_items,
                     cartItems: loadedData.cart_items,
                 });
