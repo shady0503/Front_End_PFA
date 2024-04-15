@@ -42,7 +42,6 @@ export default function Articles(props) {
 
     const item = props.item
     const slug = props.slug
-    console.log(slug)
 
     const handleClick = (item, quantity) => {
             addToCart(item, quantity)

@@ -11,7 +11,7 @@ export default function MainNavbar({ setOpen }) {
     const menu = ['home', 'laptops', 'phones', 'accessories', 'Deals', 'support', 'Log In']
     return (
         <div className='navbar'>
-            <span onClick={() => { setOpen(true)}}>X</span>
+            <span onClick={() => { setOpen(false) }}>X</span>
             <div className='logo-container'>
                 <img src={logo} alt="" className='logo' />
                 <h6>Republic Of Gamers</h6>
@@ -22,7 +22,14 @@ export default function MainNavbar({ setOpen }) {
                     {menu.map((item) => {
                         return (
                             <li className='navbar-item' key={item}>
-                                <Link to={`/Front_End_PFA/${item.replace(/\s+/g, '')}`} className='navbar-link'>{item}</Link>
+                                <Link to={`/Front_End_PFA/${item.replace(/\s+/g, '')}`} className='navbar-link'>{item}
+                                    {(item === 'laptops') && (
+                                        <ul className='dropdown'>
+                                            <li className='dropdown-item'><Link to="/Front_End_PFA/Gaming_Laptops/">Gaming Laptops</Link></li>
+                                            <li className='dropdown-item'><Link to="/Front_End_PFA/Gaming_Desktop/">Gaming Desktop</Link></li>
+                                        </ul>
+                                    )}
+                                </Link>
                             </li>
                         )
                     })}

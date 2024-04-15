@@ -19,56 +19,53 @@ function App() {
   const location = useLocation();
   const showHeaderAndFooter = !location.pathname.startsWith('/Front_End_PFA/Dashboard');
 
-  const [open, setOpen] = useState(false)
-  useEffect(() => {
-    const threshold = 1250;
-    let previousWidth = window.innerWidth;
+    const [open, setOpen] = useState(window.innerWidth > 1250);
 
-    const handleResize = () => {
-      const currentWidth = window.innerWidth;
-      // Opening condition: if previous width was > 900 and now it's <= 900
-      if (previousWidth > threshold && currentWidth <= threshold) {
-        setOpen(true);
-      }
-      // Closing condition: if previous width was <= 900 and now it's > 900
-      else if (previousWidth <= threshold && currentWidth > threshold) {
-        setOpen(false);
-      }
-      // Update previousWidth for the next event
-      previousWidth = currentWidth;
-    };
+    useEffect(() => {
+        const threshold = 1250;
+        let previousWidth = window.innerWidth;
 
-    // Initial check to set the correct state
-    handleResize();
+        const handleResize = () => {
+            const currentWidth = window.innerWidth;
+            if (previousWidth > threshold && currentWidth <= threshold) {
+                setOpen(false);
+            } else if (previousWidth <= threshold && currentWidth > threshold) {
+                setOpen(true);
+            }
+            previousWidth = currentWidth;
+        };
 
-    window.addEventListener('resize', handleResize);
-    return () => window.removeEventListener('resize', handleResize);
-  }, []);
-
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
   useScrollToTop()
   return (
     <DataProvider>
       <div className='App-Container d-flex flex-column'>
         {showHeaderAndFooter && (
               <div className='header-container' style={{width: "100%"}}>
-              {(open && <div className='hamberger-container'  onClick={()=>{setOpen(!open)}}>
-                <div className='hamberger first'></div>
-                <div className='hamberger second'></div>
-                <div className='hamberger third'></div>
-              </div>)}
-              {(!open && <MainNavbar setOpen={setOpen} />)}
+            {(!open && (
+                <div className='hamberger-container' onClick={() => setOpen(!open)}>
+                    <div className='hamberger first'></div>
+                    <div className='hamberger second'></div>
+                    <div className='hamberger third'></div>
+                </div>
+            ))}
+            {open && <MainNavbar setOpen={setOpen} />}
             </div>
         )}
         <Routes>
             <Route path="/Front_End_PFA/cart" element={<Cart />} />
             <Route path="/Front_End_PFA/Gaming_Laptops/:id" element={<LandingPage />} />
+            <Route path="/Front_End_PFA/Gaming_Desktop/:id" element={<LandingPage />} />
             <Route path="/Front_End_PFA/Phones/:id" element={<LandingPage />} />
             <Route path="/Front_End_PFA/Accessories/:id" element={<LandingPage />} />
             <Route path="/Front_End_PFA/Deals/:id" element={<LandingPage />} />
             <Route path="/Front_End_PFA/" element={<HomePage />} />
             <Route path="/Front_End_PFA/home" element={<HomePage />} />
             <Route path="/Front_End_PFA/Login" element={<LogIn />} />
-            <Route path="/Front_End_PFA/laptops" element={<Laptops slug="Gaming_Laptops" filter="True" />} />
+            <Route path="/Front_End_PFA/Gaming_Laptops" element={<Laptops slug="Gaming_Laptops" filter="True" />} />
+            <Route path="/Front_End_PFA/Gaming_Desktop" element={<Laptops slug="Gaming_Desktop" filter="True" />} />
             <Route path="/Front_End_PFA/Phones" element={<Laptops slug="Phones" filter="True" />} />
             <Route path="/Front_End_PFA/Accessories" element={<Laptops slug="Phones" filter="True" />} />
             <Route path="/Front_End_PFA/Deals" element={<Laptops slug="Gaming_Laptops" filter="false" />} />

@@ -8,7 +8,6 @@
         if (!data) return null;
     
         const productsList = data[props.slug];
-        console.log(props.slug, productsList);
     
         return (
             <div className='container-fluid-Articles'>
