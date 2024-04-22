@@ -1,3 +1,4 @@
+import { icon } from "@fortawesome/fontawesome-svg-core";
 import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
 
 
@@ -165,6 +166,11 @@ export const menu = [
             },
         ],
     },
+    {
+        id:6,
+        title:'Back To Website',
+        listItems:[{id:1, title: 'Back to main Website', url:"http://localhost:5173/Front_End_PFA/home" , icon: "home.svg"}]
+    }
 ];
 
 export const topDealUsers = [

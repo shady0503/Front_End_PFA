@@ -19,6 +19,8 @@ ul{
 .filters{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
+    width: 90%;
 }
 .filter-values label{
     display: flex;
