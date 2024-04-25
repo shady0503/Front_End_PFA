@@ -13,67 +13,85 @@ import { DataProvider } from './Componants/dataContext';
 import DashBoard from './Componants/DashBoard/Dashboard';
 import { useEffect, useState } from 'react';
 import MainNavbar from './Componants/allpages/MainNavbar';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
+
 
 
 function App() {
   const location = useLocation();
   const showHeaderAndFooter = !location.pathname.startsWith('/Front_End_PFA/Dashboard');
 
-    const [open, setOpen] = useState(window.innerWidth > 1250);
+  const [open, setOpen] = useState(window.innerWidth > 1250);
 
-    useEffect(() => {
-        const threshold = 1250;
-        let previousWidth = window.innerWidth;
+  useEffect(() => {
+    const threshold = 1250;
+    let previousWidth = window.innerWidth;
 
-        const handleResize = () => {
-            const currentWidth = window.innerWidth;
-            if (previousWidth > threshold && currentWidth <= threshold) {
-                setOpen(false);
-            } else if (previousWidth <= threshold && currentWidth > threshold) {
-                setOpen(true);
-            }
-            previousWidth = currentWidth;
-        };
+    const handleResize = () => {
+      const currentWidth = window.innerWidth;
+      if (previousWidth > threshold && currentWidth <= threshold) {
+        setOpen(false);
+      } else if (previousWidth <= threshold && currentWidth > threshold) {
+        setOpen(true);
+      }
+      previousWidth = currentWidth;
+    };
 
-        window.addEventListener('resize', handleResize);
-        return () => window.removeEventListener('resize', handleResize);
-    }, []);
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
   useScrollToTop()
   return (
     <DataProvider>
       <div className='App-Container d-flex flex-column'>
         {showHeaderAndFooter && (
-              <div className='header-container' style={{width: "100%"}}>
+          <div className='header-container' style={{ width: "100%" }}>
             {(!open && (
-                <div className='hamberger-container' onClick={() => setOpen(!open)}>
-                    <div className='hamberger first'></div>
-                    <div className='hamberger second'></div>
-                    <div className='hamberger third'></div>
-                </div>
+              <div className='hamberger-container' onClick={() => setOpen(!open)}>
+                <div className='hamberger first'></div>
+                <div className='hamberger second'></div>
+                <div className='hamberger third'></div>
+              </div>
             ))}
             {open && <MainNavbar setOpen={setOpen} />}
-            </div>
+          </div>
         )}
         <Routes>
-            <Route path="/Front_End_PFA/cart" element={<Cart />} />
-            <Route path="/Front_End_PFA/Gaming_Laptops/:id" element={<LandingPage />} />
-            <Route path="/Front_End_PFA/Gaming_Desktop/:id" element={<LandingPage />} />
-            <Route path="/Front_End_PFA/Phones/:id" element={<LandingPage />} />
-            <Route path="/Front_End_PFA/Accessories/:id" element={<LandingPage />} />
-            <Route path="/Front_End_PFA/Deals/:id" element={<LandingPage />} />
-            <Route path="/Front_End_PFA/" element={<HomePage />} />
-            <Route path="/Front_End_PFA/home" element={<HomePage />} />
-            <Route path="/Front_End_PFA/Login" element={<LogIn />} />
-            <Route path="/Front_End_PFA/Gaming_Laptops" element={<Laptops slug="Gaming_Laptops" filter="True" />} />
-            <Route path="/Front_End_PFA/Gaming_Desktop" element={<Laptops slug="Gaming_Desktop" filter="True" />} />
-            <Route path="/Front_End_PFA/Phones" element={<Laptops slug="Phones" filter="True" />} />
-            <Route path="/Front_End_PFA/Accessories" element={<Laptops slug="Phones" filter="True" />} />
-            <Route path="/Front_End_PFA/Deals" element={<Laptops slug="Gaming_Laptops" filter="false" />} />
-            <Route path="/Front_End_PFA/Support" element={<Support />} />
-            <Route path="/Front_End_PFA/Dashboard/*" element={<DashBoard/>}></Route>
-          </Routes>
+          <Route path="/Front_End_PFA/cart" element={<Cart />} />
+          <Route path="/Front_End_PFA/Gaming_Laptops/:id" element={<LandingPage />} />
+          <Route path="/Front_End_PFA/Gaming_Desktop/:id" element={<LandingPage />} />
+          <Route path="/Front_End_PFA/Phones/:id" element={<LandingPage />} />
+          <Route path="/Front_End_PFA/Accessories/:id" element={<LandingPage />} />
+          <Route path="/Front_End_PFA/Deals/:id" element={<LandingPage />} />
+          <Route path="/Front_End_PFA/" element={<HomePage />} />
+          <Route path="/Front_End_PFA/home" element={<HomePage />} />
+          <Route path="/Front_End_PFA/Login" element={<LogIn />} />
+          <Route path="/Front_End_PFA/Gaming_Laptops" element={<Laptops slug="Gaming_Laptops" filter="True" />} />
+          <Route path="/Front_End_PFA/Gaming_Desktop" element={<Laptops slug="Gaming_Desktop" filter="True" />} />
+          <Route path="/Front_End_PFA/Phones" element={<Laptops slug="Phones" filter="True" />} />
+          <Route path="/Front_End_PFA/Accessories" element={<Laptops slug="Phones" filter="True" />} />
+          <Route path="/Front_End_PFA/Deals" element={<Laptops slug="Gaming_Laptops" filter="false" />} />
+          <Route path="/Front_End_PFA/Support" element={<Support />} />
+          <Route path="/Front_End_PFA/Dashboard/*" element={<DashBoard />}></Route>
+        </Routes>
         {showHeaderAndFooter && <Footer />}
+        <ToastContainer
+          position="top-right"
+          autoClose={2000}
+          hideProgressBar
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+          theme="dark"
+          transition:Slide
+          style={{ zIndex: 999999 }}  />
       </div>
+
     </DataProvider>
   );
 }

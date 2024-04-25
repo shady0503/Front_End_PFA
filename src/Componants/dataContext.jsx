@@ -1,10 +1,12 @@
 import React, { createContext, useState, useEffect } from 'react';
 import loadedData from "../random_data.json"
+import {Slide, toast, Bounce} from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 export const DataContext = createContext();
 
 export const DataProvider = ({ children }) => {
-    const [data, setData] = useState({ Gaming_Laptops: [], Phones: [], Gaming_Desktop:[], promotionItems: [], cartItems: [] });
+    const [data, setData] = useState({ Gaming_Laptops: [], Phones: [], Gaming_Desktop: [], promotionItems: [], cartItems: [] });
     const [isLoading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
@@ -53,6 +55,17 @@ export const DataProvider = ({ children }) => {
                 const updatedCartItems = prevData.cartItems.map((item, index) =>
                     index === existingItemIndex ? { ...item, quantity: item.quantity + q } : item
                 );
+                toast.success(`${newItem.name.split('-')[0]} Quantity updated!`, {
+                    position: "top-right",
+                    autoClose: 2000,
+                    hideProgressBar: true,
+                    closeOnClick: true,
+                    pauseOnHover: true,
+                    draggable: true,
+                    progress: undefined,
+                    theme: "dark",
+                    transition: Bounce,
+                });
                 return {
                     ...prevData,
                     cartItems: updatedCartItems,
@@ -60,6 +73,17 @@ export const DataProvider = ({ children }) => {
             } else {
                 // Add new item with quantity
                 const newItemWithQuantity = { ...newItem, quantity: q };
+                toast.success(`${newItem.name.split('-')[0]} Added to cart!`, {
+                    position: "top-right",
+                    autoClose: 2000,
+                    hideProgressBar: true,
+                    closeOnClick: true,
+                    pauseOnHover: true,
+                    draggable: true,
+                    progress: undefined,
+                    theme: "dark",
+                    transition: Bounce,
+                }); 
                 return {
                     ...prevData,
                     cartItems: [newItemWithQuantity, ...prevData.cartItems],

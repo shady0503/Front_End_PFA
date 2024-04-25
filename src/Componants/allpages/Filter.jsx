@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useRef, useCallback } from 'react';
 import './Filter.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleDown } from '@fortawesome/free-solid-svg-icons';
@@ -14,83 +14,84 @@ export default function Filter() {
         gpuTypes: ["NVIDIA GeForce", "AMD Radeon", "Integrated"],
     };
 
-    const [openSection, setOpenSection] = useState(null);
+    // Initialize openSection with all section keys
+    const initialOpenSections = new Set(Object.keys(filters));
+    const [openSections, setOpenSections] = useState(initialOpenSections);
     const filterRef = useRef(null);
-    const [checked, setChecked] = useState(
-        {
-            brands: [],
-            prices: [],
-            processorTypes: [],
-            ramOptions: [],
-            storageTypes: [],
-            screenSizes: [],
-            gpuTypes: [],
-        }
-    )
+    const [checked, setChecked] = useState({
+        brands: [],
+        prices: [],
+        processorTypes: [],
+        ramOptions: [],
+        storageTypes: [],
+        screenSizes: [],
+        gpuTypes: [],
+    });
 
-    useEffect(() => {
-        function handleClickOutside(event) {
-            if (filterRef.current && !filterRef.current.contains(event.target)) {
-                setOpenSection(null);
+    const toggleSection = useCallback((key) => {
+        setOpenSections(prevOpenSections => {
+            const newOpenSections = new Set(prevOpenSections);
+            if (newOpenSections.has(key)) {
+                newOpenSections.delete(key);
+            } else {
+                newOpenSections.add(key);
             }
-        }
-        document.addEventListener("mousedown", handleClickOutside);
-        return () => {
-            document.removeEventListener("mousedown", handleClickOutside);
-        };
-    }, [filterRef]);
+            return newOpenSections;
+        });
+    }, []);
 
-    const toggleSection = (key) => {
-        setOpenSection(currentOpenSection => currentOpenSection === key ? null : key);
-    }
     const handleCheck = useCallback((filterKey, value) => {
         setChecked(prevItems => {
-            console.log("Before update:", prevItems);
-    
             const itemsForFilter = prevItems[filterKey] || [];
-            
             let updatedItems;
             if (itemsForFilter.includes(value)) {
                 updatedItems = itemsForFilter.filter(item => item !== value);
             } else {
                 updatedItems = [...itemsForFilter, value];
             }
-    
-            const updatedState = { ...prevItems, [filterKey]: updatedItems };
-            console.log("After update:", updatedState);
-            return updatedState;
+            return { ...prevItems, [filterKey]: updatedItems };
         });
     }, []);
-    
-    
-    
+
+    function formatCamelCaseToTitle(text) {
+        return text
+            .replace(/([A-Z])/g, ' $1')
+            .replace(/^./, str => str.toUpperCase());
+    }
 
     return (
-        <div className="Filter " ref={filterRef}>
-            <ul className='filters'>
-                {Object.keys(filters).map((filterKey, index) => (
-                    <li key={index} className="Filter-section">
-                        <button className="btn filter-title" onClick={() => toggleSection(filterKey)}>
-                            <h6>{filterKey}</h6><FontAwesomeIcon className="arrow" icon={faAngleDown} />
-                        </button>
-                        {openSection === filterKey && (
-                            <ul className="Filter-content">
-                                {filters[filterKey].map((value, valueIndex) => (
-                                    <li key={valueIndex} className='filter-values'>
-                                        <label htmlFor={value}>
-                                            <input type="checkbox" value={value} id={`${filterKey}-${valueIndex}`}
-                                            checked={checked[filterKey].includes(value)}
-
-                                            onChange={()=>{handleCheck(filterKey, value)}} />
+        <div className="Filter-Container" ref={filterRef}>
+            <h4>Filters</h4>
+            <div>
+                {Object.entries(filters).map(([filterKey, values]) => (
+                    <div key={filterKey}>
+                        <h6 onClick={() => toggleSection(filterKey)}>
+                            {formatCamelCaseToTitle(filterKey)} <FontAwesomeIcon icon={faAngleDown} style={{
+                                transform: openSections.has(filterKey) ? 'rotate(180deg)' : 'none',
+                                transition: 'transform 0.3s ease'
+                            }} />
+                        </h6>
+                        {openSections.has(filterKey) && (
+                            <ul>
+                                {values.map((value, index) => (
+                                    <li key={`${filterKey}-${index}`} className='filter-values'>
+                                        <label htmlFor={`${filterKey}-${index}`}>
+                                            <input
+                                                type="checkbox"
+                                                value={value}
+                                                id={`${filterKey}-${index}`}
+                                                checked={checked[filterKey].includes(value)}
+                                                onChange={() => handleCheck(filterKey, value)}
+                                            />
                                             {value}
                                         </label>
                                     </li>
                                 ))}
                             </ul>
                         )}
-                    </li>
+                    </div>
                 ))}
-            </ul>
+            </div>
         </div>
     );
 }

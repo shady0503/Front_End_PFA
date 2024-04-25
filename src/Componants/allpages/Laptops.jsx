@@ -10,7 +10,7 @@ export default function Laptops(props) {
     return (
         <div className="laptops-page">
             {props.filter === "True" ? <Filter /> : ""}
-            <div className="product-container container-fluid">
+            <div className="product-container">
                 <ProductsList slug={props.slug} deals={props.filter}></ProductsList>
             </div>
         </div>

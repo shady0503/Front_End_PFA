@@ -1,8 +1,8 @@
 .article {
     display: flex;
     border: 2px solid transparent;
-    height: 400px;
-    width: 95dvw;
+    width: 99%;
+    height: 450px;
     box-sizing: border-box;
     justify-content: space-evenly;
     background-color: rgba(128, 128, 128, 0.2); /* Light gray with 10% transparency */

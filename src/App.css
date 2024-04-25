@@ -35,7 +35,9 @@ html, body {
     width: 100%; 
 }
 
-
+html, body{
+    overflow-x: clip;
+}
 .content {
     flex: 1;
     display: flex;
@@ -49,12 +51,9 @@ html, body {
     align-items: center;
     flex-direction: column;
     height: 100%;
-    
     width: 100dvw !important;
 }
 
-header, footer {
-}
 
 .main-content {
     flex-grow: 2; /* Allows the content to grow and fill available space, pushing the footer down */
@@ -83,3 +82,5 @@ header, footer {
     scrollbar-color: black rgba(0, 0, 0, 0.1);
     scrollbar-width: thin;
 }
+
+

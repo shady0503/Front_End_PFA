@@ -1,7 +1,8 @@
-.navbar{
+.navbar {
     width: 100%;
 }
-.header-container{
+
+.header-container {
     justify-self: flex-start !important;
     align-self: flex-start !important;
     position: sticky !important;
@@ -12,7 +13,7 @@
 
 }
 
-.navbar-item{
+.navbar-item {
     padding: 5px;
     display: flex;
     justify-content: center;
@@ -22,11 +23,13 @@
 
     transition: all ease 0.3s;
 }
-.navbar-item:hover{
+
+.navbar-item:hover {
     transform: scale(1.1) !important;
     background-color: rgba(23, 22, 22, 0.3) !important;
     color: white;
 }
+
 .navbar {
     background-color: rgba(23, 22, 22);
     width: 100%;
@@ -36,7 +39,7 @@
     justify-content: space-between;
     align-items: center;
 
-    span {
+    .close {
         display: none;
     }
 }
@@ -47,7 +50,8 @@
     display: none;
     left: 10px;
 }
-.dropdown{
+
+.dropdown {
     margin-top: 5px;
     display: none;
     border: solid 1px black;
@@ -59,22 +63,24 @@
     transition: 0.3s ease all;
 }
 
-.navbar-item:hover .dropdown{
+.navbar-item:hover .dropdown {
     display: block;
 }
 
-.dropdown-item{
+.dropdown-item {
     padding: 10px;
     border-radius: 5px;
 }
 
 .dropdown-item:hover {
-    background-color: #555;  /* Darkens background for hovered dropdown item */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);  /* Optional: Adds shadow for depth, without moving the element */
+    background-color: #555;
+    /* Darkens background for hovered dropdown item */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    /* Optional: Adds shadow for depth, without moving the element */
 }
 
 .hamberger {
-    
+
     width: 35px;
     height: 5px;
     background-color: black;
@@ -87,36 +93,62 @@
     color: white;
     gap: 20px;
 }
-.logo{
+
+.logo {
     border-radius: 50%;
     width: 60px;
     height: 60px;
 }
+
 .navbar-nav {
     display: flex;
     list-style: none;
     gap: 20px;
     flex-direction: row;
+    li{
+        position: relative;
+    }
+
+    li .cart-quantity{
+
+        background-color: red;
+        color: white;
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        position: absolute;
+        top: -7px;
+        right: -11px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 12px;
+
+    }
 }
 
 @media (max-width:1250px) {
 
-    .navbar, .navbar-nav {
+    .navbar,
+    .navbar-nav {
         display: flex;
         flex-direction: column !important;
         align-items: flex-start;
         width: max-content;
     }
-    .header-container{
+
+    .header-container {
         height: 50px;
         background-color: rgba(23, 22, 22);
     }
+
     .hamberger-container {
         display: block;
         top: 5px;
         cursor: pointer;
     }
-    .hamberger{
+
+    .hamberger {
         background-color: white;
     }
 
@@ -124,7 +156,8 @@
         justify-content: flex-start;
         gap: 40px;
         height: 100dvh;
-        span {
+
+        .close {
             color: white;
             display: block;
             margin-left: auto;
@@ -145,11 +178,13 @@
             }
         }
     }
-    .second-navbar{
+
+    .second-navbar {
         display: flex;
         width: 100%;
         justify-content: flex-end;
-        ul{
+
+        ul {
             flex-direction: row !important;
             gap: 30px;
         }

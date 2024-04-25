@@ -3,8 +3,19 @@ import logo from '../../assets/logo.webp';
 import './MainNavbar.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCartShopping, faUser, faQuestion } from '@fortawesome/free-solid-svg-icons';
+import { useContext, useEffect, useState } from 'react';
+import { DataContext } from '../dataContext';
 
 export default function MainNavbar({ setOpen }) {
+    const { data } = useContext(DataContext)
+    const { cartItems } = data
+    const [q, setQ] = useState(cartItems.length)
+
+    useEffect(() => {
+        setQ(cartItems.length);
+    }, [cartItems]);
+
+
     const menu = [
         'home',
         'phones',
@@ -20,7 +31,7 @@ export default function MainNavbar({ setOpen }) {
 
     return (
         <div className='navbar'>
-            <span onClick={() => { setOpen(false) }}>X</span>
+            <span className='close'onClick={() => { setOpen(false) }}>X</span>
             <div className='logo-container'>
                 <img src={logo} alt="" className='logo' />
                 <h6>Republic Of Gamers</h6>
@@ -71,7 +82,10 @@ export default function MainNavbar({ setOpen }) {
             <div className="second-navbar">
                 <ul className='navbar-nav'>
                     <li className='navbar-item'><Link to="#"><FontAwesomeIcon className="icn" icon={faQuestion} /></Link></li>
-                    <li className='navbar-item'><Link to="/Front_End_PFA/Cart"><FontAwesomeIcon className="icn" icon={faCartShopping}></FontAwesomeIcon></Link></li>
+                    <li className='navbar-item'>
+                        <Link to="/Front_End_PFA/Cart"><FontAwesomeIcon className="icn" icon={faCartShopping}></FontAwesomeIcon></Link>
+                        <span className='cart-quantity'>{q}</span>
+                    </li>
                     <li className='navbar-item'><Link to="/Front_End_PFA/Dashboard"><FontAwesomeIcon className="icn" icon={faUser} /></Link></li>
                 </ul>
             </div>

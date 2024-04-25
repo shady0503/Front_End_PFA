@@ -1,73 +1,62 @@
-.Filter {
-    display: flex;
-    scrollbar-width: 20px;
-    flex-wrap: wrap;
-    position: absolute;
-    width: 100%;
-    top: 20vh;
-    scrollbar-width: 1px;
-    margin-right: 20px;
-    justify-content: center;
-    z-index: 5000;
+.Filter-Container {
+    width: 22vw;
+    border: solid 1px gray;
 
-}
-
-ul{
-    list-style: none;
-}
-
-.filters{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    width: 90%;
-}
-.filter-values label{
-    display: flex;
-    justify-content: start;
-    padding-left: 0;
-}
-.arrow{
-    margin-left: 10px;
-}
-.btn.filter-title {
-    display: flex;
-    align-items: center; /* Vertically center the items */
-    justify-content: center; /* Horizontally center the items, if desired */
-}
-
-.btn.filter-title h6 {
-    margin-right: 8px; /* Adjust the space between the text and the icon */
-    margin-bottom: 0; /* Remove the default margin of h6 to prevent extra spacing */
-}
-
-.Filter-section button {
-    width: 100% !important;
-    margin: 0;
-    font-size: 16px;
-    border: none !important;
-    color: black;
-    margin-bottom: 10px;
-    display: flex;
-    line-height: 1;
-    cursor: pointer;
-    transition: all 0.3s ease;
-}
-
-.Filter-section label input {
+    position: sticky !important;
+    overflow: auto;
+    left: 0;
+    top: 20%;
     margin: 10px;
-    color: black;
-    cursor: pointer;
-    transition: all 0.3s ease;
+    border-radius: 15px;
+    height:fit-content;
+    padding: 10px;
+    >h4{
+        padding: 20px;
+        border-bottom: 1px solid black;
+    }
+    >div{
+        overflow-y: scroll;
+        padding: 5px;
+        height: 28dvw;
+        gap: 10px;
+    
+        >div{
+            >h6{
+                font-size: 18px;
+                padding: 15px;
+                display: flex;
+                border-radius: 10px;
+                background-color: rgb(230, 238, 238);
+                justify-content: space-between;
+                cursor: pointer;
+                align-items: baseline;
+                font-weight: 550;
+                margin-bottom: 5px;
+            }
+            >ul{
+                list-style: none;
+                display: flex;
+                flex-direction: column;
+                align-items: baseline;
+                gap: 5px;
+    
+                li label{
+                    display: flex;
+                    gap: 10px;
+                    font-size: 12px;
+                    font-weight: 600;
+                }
+            }
+        }
+    }
 }
+
 
 label {
     position: relative;
     cursor: pointer;
     display: flex;
     align-items: baseline;
-    line-height: 20px;
-    margin-bottom: 20px;
 }
 
 input[type="checkbox"] {
