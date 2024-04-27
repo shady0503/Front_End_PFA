@@ -1,8 +1,8 @@
 .Container{
     display: flex;
     align-items: center;
-    gap: 150px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .specs-container{
@@ -13,13 +13,11 @@
     justify-content: center;
 }
 .img{
-    padding: 1.5vh;
     cursor: pointer;
-    flex: 1;
     display: flex;
+    align-items: center;
     flex-direction: column;
     gap: 20px;
-    align-items: center;
 }
 
 .overlay {
@@ -45,6 +43,11 @@
 .catalogue{
     display: flex;
     gap: 20px;
+    padding: 20px;
+    align-items: baseline;
+    justify-content: flex-start;
+    width: 500px;
+    overflow-x: auto;
 }
 .secondary{
     border-radius: 10px;

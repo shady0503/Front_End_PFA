@@ -2898,6 +2898,3087 @@
             ]
         }
     ],
+    "Graphic_Cards": [
+        {
+            "id": "1714177825-1",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10244393?$l-large$&fmt=auto",
+            "name": "ASUS GeForce RTX 4090 OC Edition 24 GB TUF GAMING Graphics Card",
+            "price": "£1,749.00",
+            "description": [
+                "24 GB GDDR6X",
+                "CUDA cores: 16384",
+                "Clock speed: 2565 / 2595 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 384-bit",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "GENERAL": [
+                        {
+                            "Software included": "- ASUS GPU Tweak III\n- GeForce Game Ready Driver & Studio Driver"
+                        },
+                        {
+                            "Colour": "Grey"
+                        },
+                        {
+                            "Dimensions": "99 x 426 x 266 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- ASUS GeForce RTX 4090 OC Edition 24 GB TUF GAMING Graphics Card\n- Collection card\n- Speedsetup manual\n- Adapter cable\n- TUF graphics card holder\n- TUF velcro hook and loop\n- Thank you card"
+                        },
+                        {
+                            "Weight": "3.36 kg"
+                        }
+                    ]
+                },
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 16384"
+                        },
+                        {
+                            "Clock speed": "2565 / 2595 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Triple fans"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177828-46",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10254372?$l-large$&fmt=auto",
+            "name": "GIGABYTE GeForce RTX 4060 Ti 8 GB EAGLE OC Graphics Card",
+            "price": "£389.00",
+            "description": [
+                "8 GB GDDR6",
+                "CUDA cores: 4352",
+                "Clock speed: 2550 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 128-bit",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 4352"
+                        },
+                        {
+                            "Clock speed": "2550 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Triple fans"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Bandwidth": "Up to 288 GB/sec"
+                        },
+                        {
+                            "Minimum power requirement": "500 W"
+                        },
+                        {
+                            "Type": "NVIDIA GeForce RTX 4060 Ti"
+                        },
+                        {
+                            "PC connection": "PCIe x16"
+                        },
+                        {
+                            "Video outputs": "- HDMI 2.1a x 2\n- DisplayPort 1.4a x 2"
+                        },
+                        {
+                            "Memory": "8 GB GDDR6"
+                        },
+                        {
+                            "Slots used": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177831-93",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10244390?$l-large$&fmt=auto",
+            "name": "ASUS GeForce RTX 4090 OC Edition 24 GB ROG Strix Graphics Card",
+            "price": "£1,999.00",
+            "description": [
+                "24 GB GDDR6X",
+                "CUDA cores: 16384",
+                "Clock speed: 2610 / 2640 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 384-bit",
+                "5 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "GENERAL": [
+                        {
+                            "Software included": "- ASUS GPU Tweak III\n- GeForce Game Ready Driver & Studio Driver"
+                        },
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Dimensions": "70.1 x 357.6 x 149.3 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- ASUS GeForce RTX 4090 OC Edition 24 GB ROG Strix Graphics Card\n- Adapter cable\n- ROG graphics card holder\n- ROG velcro hook and loop\n- Collection card\n- Thank you card\n- Speed setup manual"
+                        },
+                        {
+                            "Weight": "2.5 kg"
+                        }
+                    ]
+                },
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 16384"
+                        },
+                        {
+                            "Clock speed": "2610 / 2640 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Triple fans"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177834-140",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10257561?$l-large$&fmt=auto",
+            "name": "GIGABYTE Radeon RX 7800 XT 16 GB GAMING OC Graphic Card",
+            "price": "£499.00",
+            "description": [
+                "16 GB GDDR6",
+                "Stream processors: 3‎840",
+                "Clock speed: 2254 MHz / 2565 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 256-bit",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "Stream processors: 3840"
+                        },
+                        {
+                            "Clock speed": "2254 MHz / 2565 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Triple fan"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Bandwidth": "Up to 624 GB/sec"
+                        },
+                        {
+                            "Minimum power requirement": "700 W"
+                        },
+                        {
+                            "Type": "AMD Radeon RX 7800 XT"
+                        },
+                        {
+                            "PC connection": "PCIe 4.0"
+                        },
+                        {
+                            "Video outputs": "- HDMI 2.1 x 2\n- DisplayPort 2.1 x 2"
+                        },
+                        {
+                            "Memory": "16 GB GDDR6"
+                        },
+                        {
+                            "Slots used": 2.7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177836-187",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10261521?$l-large$&fmt=auto",
+            "name": "ASUS GeForce RTX 4070 Ti SUPER OC Edition 16 GB ROG Strix GAMING Graphics Card",
+            "price": "£989.00",
+            "description": [
+                "16 GB GDDR6X",
+                "CUDA cores: 8448",
+                "Clock speed: 2670 / 2700 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 256-bit",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 8448"
+                        },
+                        {
+                            "Clock speed": "2700 / 2670 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Triple fan"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Weight": "1.8 kg"
+                        },
+                        {
+                            "Dimensions": "63 x 336 x 150 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- ASUS GeForce RTX 4070 Ti SUPER OC Edition 16 GB ROG Strix GAMING\n- Adapter cable\n- ROG graphics card holder\n- ROG velcro hook and loop\n- Collection card\n- Thank you card\n- Speedsetup manual"
+                        },
+                        {
+                            "Software included": "ASUS GPU Tweak III"
+                        },
+                        {
+                            "Colour": "Black"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Type": "NVIDIA GeForce RTX 4070 Ti SUPER"
+                        },
+                        {
+                            "PC connection": "PCIe 4.0"
+                        },
+                        {
+                            "Video outputs": "- HDMI 2.1a x 2\n- DisplayPort 1.4a x 3"
+                        },
+                        {
+                            "Slots used": 3.15
+                        },
+                        {
+                            "Memory": "16 GB GDDR6X"
+                        },
+                        {
+                            "Minimum power requirement": "750 W"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177842-282",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10262306?$l-large$&fmt=auto",
+            "name": "ASUS GeForce RTX 4070 Ti SUPER 16 GB TUF GAMING Graphics Card",
+            "price": "£839.00",
+            "description": [
+                "16 GB GDDR6X",
+                "CUDA cores: 8448",
+                "Clock speed: 2610 / 2640 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 256-bit",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 8448"
+                        },
+                        {
+                            "Clock speed": "2610 / 2640 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Triple fan"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Bandwidth": "21 Gbps"
+                        },
+                        {
+                            "Minimum power requirement": "750 W"
+                        },
+                        {
+                            "Type": "NVIDIA GeForce RTX 4070 Ti SUPER"
+                        },
+                        {
+                            "PC connection": "PCIe 4.0"
+                        },
+                        {
+                            "Video outputs": "- HDMI 2.1a x 2\n- DisplayPort 1.4a x 3"
+                        },
+                        {
+                            "Memory": "16 GB GDDR6X"
+                        },
+                        {
+                            "Slots used": 3.25
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177847-329",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10256846?$l-large$&fmt=auto",
+            "name": "GIGABYTE GeForce RTX 4060 8 GB AERO OC Graphics Card",
+            "price": "£329.00",
+            "description": [
+                "8 GB GDDR6",
+                "CUDA cores: 3072",
+                "Clock speed: 2550 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 128-bit",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 3072"
+                        },
+                        {
+                            "Clock speed": "2550 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Windforce triple fans"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177850-371",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10246519?$l-large$&fmt=auto",
+            "name": "ACER Intel® Arc™ A770 16 GB Predator BiFrost OC Graphics Card",
+            "price": "£299.00",
+            "description": [
+                "16 GB GDDR6",
+                "Xe-cores: 32",
+                "Clock speed: 2100 / 2400 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 256-bit"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "GENERAL": [
+                        {
+                            "Software included": "Predator BiFrost Utility app"
+                        },
+                        {
+                            "Colour": "Grey"
+                        },
+                        {
+                            "Dimensions": "45 x 267 x 117.75 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "Acer Intel® Arc™ A770 16 GB Predator BiFrost OC Graphics Card (DP.BKCWW.P02)"
+                        },
+                        {
+                            "Weight": "1.084 kg"
+                        }
+                    ]
+                },
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "Xe-cores: 32 / Xe Vector Engines: 512"
+                        },
+                        {
+                            "Clock speed": "2100 / 2400 MHz"
+                        },
+                        {
+                            "Maximum resolution": "8K 7680 x 4320p"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "- Vapour chamber\n- Dual fan"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Bandwidth": "Up to 512GB/sec"
+                        },
+                        {
+                            "Minimum power requirement": "650 W"
+                        },
+                        {
+                            "Type": "Intel® Arc™ A770"
+                        },
+                        {
+                            "PC connection": "PCIe 4.0"
+                        },
+                        {
+                            "Video outputs": "- HDMI 2.1 x 1\n- DisplayPort 2.0 x 3"
+                        },
+                        {
+                            "Memory": "16 GB GDDR6"
+                        },
+                        {
+                            "Slots used": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177856-468",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10261109?$l-large$&fmt=auto",
+            "name": "ASUS GeForce RTX 4080 SUPER OC Edition 16 GB TUF GAMING Graphics Card",
+            "price": "£1,139.00",
+            "description": [
+                "16 GB GDDR6X",
+                "CUDA cores: 10240",
+                "Clock speed: 2610 / 2640 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 256-bit",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "GENERAL": [
+                        {
+                            "Software included": "ASUS GPU Tweak III"
+                        },
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Dimensions": "150 x 348.2 x 72.6 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- ASUS GeForce RTX 4080 SUPER OC Edition 16 GB TUF GAMING Graphics Card\n- Adapter cable\n- TUF graphics card holder\n- TUF velcro hook and loop\n- Collection card\n- Thank you card\n- Speedsetup manual"
+                        },
+                        {
+                            "Weight": "1.969 kg"
+                        }
+                    ]
+                },
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 10240"
+                        },
+                        {
+                            "Clock speed": "2610 / 2640 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Triple fan"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177859-515",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10261519?$l-large$&fmt=auto",
+            "name": "ASUS GeForce RTX 4080 Super 16 GB TUF GAMING Graphics Card - Black",
+            "price": "£1,049.00",
+            "description": [
+                "16 GB GDDR6X",
+                "CUDA cores: 10240",
+                "Clock speed: 2550 / 2580 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 256-bit",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "GENERAL": [
+                        {
+                            "Software included": "ASUS GPU Tweak III"
+                        },
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Dimensions": "150 x 348.2 x 72.6 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- ASUS GeForce RTX 4080 16 GB TUF GAMING Graphics Card\n- Adapter cable\n- TUF graphics card holder\n- TUF velcro hook and loop\n- Collection card\n- Thank you card\n- Speedsetup manual"
+                        },
+                        {
+                            "Weight": "1.969 kg"
+                        }
+                    ]
+                },
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 10240"
+                        },
+                        {
+                            "Clock speed": "2550 / 2580 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Triple fan"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177862-562",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10260360?$l-large$&fmt=auto",
+            "name": "GIGABYTE GeForce RTX 4070 Ti SUPER 16 GB WINDFORCE OC Graphics Card",
+            "price": "£799.00",
+            "description": [
+                "16 GB GDDR6X",
+                "CUDA cores: 8448",
+                "Clock speed: 2625 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 256-bit",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 8448"
+                        },
+                        {
+                            "Clock speed": "2625 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Triple fans"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Weight": "950 g"
+                        },
+                        {
+                            "Dimensions": "126 x 261 x 50 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- Gigabyte GeForce RTX 4070 Ti SUPER 16 GB WINDFORCE OC Graphics Card\n- Quick start guide"
+                        },
+                        {
+                            "Colour": "Black"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Type": "NVIDIA GeForce RTX 4070 Ti SUPER"
+                        },
+                        {
+                            "PC connection": "PCIe 4.0"
+                        },
+                        {
+                            "Video outputs": "- HDMI 2.1a x 1\n- DisplayPort 1.4a x 3"
+                        },
+                        {
+                            "Slots used": 2.5
+                        },
+                        {
+                            "Memory": "16 GB GDDR6X"
+                        },
+                        {
+                            "Bandwidth": "Up to 672 GB/sec"
+                        },
+                        {
+                            "Minimum power requirement": "750 W"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177866-610",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10259304?$l-large$&fmt=auto",
+            "name": "ASUS GeForce RTX 4060 8 GB Dual OC Graphics Card",
+            "price": "£304.00",
+            "description": [
+                "8 GB GDDR6",
+                "CUDA cores: 3072",
+                "Clock speed: 2505 / 2535 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 128-bit",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 3072"
+                        },
+                        {
+                            "Clock speed": "2505 / 2535 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Dual Axial-tech fan"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Weight": "1.12 kg"
+                        },
+                        {
+                            "Dimensions": "123 x 38 x 200 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- ASUS GeForce RTX 4060 8 GB Dual OC Graphics Card\n- Collection card\n- Speedsetup manual\n- Thank you card"
+                        },
+                        {
+                            "Colour": "Black"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Type": "NVIDIA GeForce RTX 4060"
+                        },
+                        {
+                            "PC connection": "PCIe 4.0"
+                        },
+                        {
+                            "Video outputs": "- HDMI 2.1a x 1\n- DisplayPort 1.4a x 3"
+                        },
+                        {
+                            "Slots used": 2.5
+                        },
+                        {
+                            "Memory": "8 GB GDDR6"
+                        },
+                        {
+                            "Minimum power requirement": "550 W"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177869-656",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10260840?$l-large$&fmt=auto",
+            "name": "PALIT GeForce RTX 4070 SUPER 12 GB JetStream OC Graphics Card",
+            "price": "£634.00",
+            "description": [
+                "12 GB GDDR6X",
+                "CUDA cores: 7168",
+                "Clock speed: 1980 / 2640 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 192-bit",
+                "2 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 7168"
+                        },
+                        {
+                            "Clock speed": "1980 / 2640 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Triple fan"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Weight": "1.43 kg"
+                        },
+                        {
+                            "Dimensions": "63.5 x 328.9 x 130.5 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- Palit GeForce RTX 4070 SUPER 12 GB JetStream OC Graphics Card\n- Power cable"
+                        },
+                        {
+                            "Software included": "Thunder Master"
+                        },
+                        {
+                            "Colour": "Black"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Type": "NVIDIA GeForce RTX 4070 SUPER"
+                        },
+                        {
+                            "PC connection": "PCIe 4.0"
+                        },
+                        {
+                            "Video outputs": "- HDMI 2.1a x 1\n- DisplayPort 1.4a x 3"
+                        },
+                        {
+                            "Slots used": 3.1
+                        },
+                        {
+                            "Memory": "12 GB GDDR6X"
+                        },
+                        {
+                            "Minimum power requirement": "750 W"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177871-704",
+            "category": "Graphics cards",
+            "mainImg": "https://media.currys.biz/i/currysprod/10260834?$l-large$&fmt=auto",
+            "name": "PALIT GeForce RTX 4070 SUPER 12 GB Dual OC Graphics Card",
+            "price": "£599.00",
+            "description": [
+                "12 GB GDDR6X",
+                "CUDA cores: 7168",
+                "Clock speed: 1980 / 2550 MHz",
+                "HDMI / DisplayPort",
+                "VR Ready",
+                "Bandwidth: 192-bit",
+                "2 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "GENERAL": [
+                        {
+                            "Software included": "Thunder Master"
+                        },
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Dimensions": "40.1 x 269.1 x 127.5 mm (H x W x D)"
+                        },
+                        {
+                            "Box contents": "- Palit GeForce RTX 4070 SUPER 12 GB Dual OC Graphics Card\n- Power cable"
+                        },
+                        {
+                            "Weight": "750 g"
+                        }
+                    ]
+                },
+                {
+                    "PERFORMANCE": [
+                        {
+                            "CUDA cores / Stream processors": "CUDA cores: 7168"
+                        },
+                        {
+                            "Clock speed": "1980 / 2550 MHz"
+                        },
+                        {
+                            "Maximum resolution": "7680 x 4320"
+                        },
+                        {
+                            "Number of displays": "Supports up to 4 displays"
+                        },
+                        {
+                            "Cooling included": "Dual fan"
+                        },
+                        {
+                            "VR Ready": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Bandwidth": "Up to 504 GB/sec"
+                        },
+                        {
+                            "Minimum power requirement": "750 W"
+                        },
+                        {
+                            "Type": "NVIDIA GeForce RTX 4070 SUPER"
+                        },
+                        {
+                            "PC connection": "PCIe 4.0"
+                        },
+                        {
+                            "Video outputs": "- HDMI 2.1a x 1\n- DisplayPort 1.4a x 3"
+                        },
+                        {
+                            "Memory": "12 GB GDDR6X"
+                        },
+                        {
+                            "Slots used": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Processors": [
+        {
+            "id": "1714177316-1",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10247082?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 9 7900 Processor",
+            "price": "£369.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 3.7 GHz overclockable",
+                "Turbo Boost: 5.4 GHz",
+                "12-core",
+                "Cache: 64 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X670\n- B650"
+                        },
+                        {
+                            "Cache": "64 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.7 GHz (5.4 GHz with Turbo)"
+                        },
+                        {
+                            "Socket": "AM5"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 24
+                        },
+                        {
+                            "Architecture": "Zen 4"
+                        },
+                        {
+                            "Number of cores": "12-core"
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon Graphics"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "71 x 131 x 134 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "960 g"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 9 7900 Processor\n- Wraith Prism cooler"
+                        },
+                        {
+                            "Colour": "Black"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177319-43",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10227696?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 5 5600G Processor",
+            "price": "£134.00",
+            "description": [
+                "Includes CPU cooler",
+                "Socket: AM4",
+                "Frequency: 3.9 GHz",
+                "Turbo Core: 4.4 GHz",
+                "Hexa-core",
+                "Cache: 16 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 12
+                        },
+                        {
+                            "Architecture": "Zen 3"
+                        },
+                        {
+                            "Number of cores": "Hexa-core"
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Integrated graphics": "Radeon graphics"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "230 x 235 x 405 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "5.27 kg"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 5 5600G Processor\n- Wraith Stealth cooler\n- Instruction manual"
+                        },
+                        {
+                            "Colour": "Black"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177322-80",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10247066?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 3 4100 Processor",
+            "price": "£62.00",
+            "description": [
+                "Includes CPU cooler",
+                "Socket: AM4",
+                "Frequency: 3.8 GHz overclockable",
+                "Turbo Core: 4.0 GHz",
+                "Quad-core",
+                "Cache: 4 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "Quad-core"
+                        },
+                        {
+                            "Architecture": "Zen 2"
+                        },
+                        {
+                            "Number of threads": 8
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- B450\n- B460\n- B550\n- B560\n- X470\n- X570"
+                        },
+                        {
+                            "Socket": "AM4"
+                        },
+                        {
+                            "Cache": "4 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.8 GHz (4.0 GHz with Turbo)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 3 4100 Processor\n- Wraith Stealth cooler"
+                        },
+                        {
+                            "Dimensions": "70 x 125 x 130 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "440 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177325-118",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10243339?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 5 7600X Processor",
+            "price": "£209.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 4.7 GHz overclockable",
+                "Turbo Boost: 5.3 GHz",
+                "Hexa-core",
+                "Cache: 32 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X670\n- B650"
+                        },
+                        {
+                            "Cache": "32 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "4.7 GHz (5.3 GHz with Turbo)"
+                        },
+                        {
+                            "Socket": "AM5"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 12
+                        },
+                        {
+                            "Architecture": "Zen 4"
+                        },
+                        {
+                            "Number of cores": "Hexa-core"
+                        },
+                        {
+                            "Thermal design power": "105 W"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon Graphics"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177327-153",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10250093?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 9 7900X3D Processor",
+            "price": "£439.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 4.4 GHz",
+                "Turbo Boost: 5.6 GHz",
+                "12-core",
+                "Cache: 128 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "12-core"
+                        },
+                        {
+                            "Architecture": "Zen 4"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon Graphics"
+                        },
+                        {
+                            "Number of threads": 24
+                        },
+                        {
+                            "Thermal design power": "120 W"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X670\n- B650"
+                        },
+                        {
+                            "Socket": "AM5"
+                        },
+                        {
+                            "Cache": "128 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "4.4 GHz (5.6 GHz with Turbo)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Silver"
+                        },
+                        {
+                            "Box contents": "AMD Ryzen 9 7900X3D Processor"
+                        },
+                        {
+                            "Dimensions": "130 x 91 x 129 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "330 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177330-193",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10216688?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 9 5950X Processor",
+            "price": "£379.00",
+            "description": [
+                "Socket: AM4",
+                "Frequency: 3.4 GHz",
+                "Turbo Boost: 4.9 GHz",
+                "16-core",
+                "Cache: 64 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "16-core"
+                        },
+                        {
+                            "Number of threads": 32
+                        },
+                        {
+                            "Thermal design power": "105 W"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- B550\n- X570\n- A520"
+                        },
+                        {
+                            "Socket": "AM4"
+                        },
+                        {
+                            "Cache": "64 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.4 GHz (4.9 GHz with Turbo)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Silver"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 9 5950X Processor\n- Bezel sticker\n- BIOS insert\n- Instruction manual"
+                        },
+                        {
+                            "Dimensions": "134 x 70 x 134 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "150 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177333-226",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10216689?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 9 5900X Processor",
+            "price": "£269.00",
+            "description": [
+                "Socket: AM4",
+                "Frequency: 3.7 GHz",
+                "Turbo Boost: 4.8 GHz",
+                "12-core",
+                "Cache: 64 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "12-core"
+                        },
+                        {
+                            "Number of threads": 24
+                        },
+                        {
+                            "Thermal design power": "105 W"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- B550\n- X570\n- A520"
+                        },
+                        {
+                            "Socket": "AM4"
+                        },
+                        {
+                            "Cache": "64 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.7 GHz (4.8 GHz with Turbo)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Silver"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 9 5900X Processor\n- Bezel sticker\n- BIOS insert\n- Instruction manual"
+                        },
+                        {
+                            "Dimensions": "134 x 70 x 134 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "150 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177335-259",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10250102?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 9 7950X3D Processor",
+            "price": "£589.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 4.2 GHz",
+                "Turbo Boost: 5.7 GHz",
+                "16-core",
+                "Cache: 128 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "16-core"
+                        },
+                        {
+                            "Architecture": "Zen 4"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon Graphics"
+                        },
+                        {
+                            "Number of threads": 32
+                        },
+                        {
+                            "Thermal design power": "120 W"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X670\n- B650"
+                        },
+                        {
+                            "Socket": "AM5"
+                        },
+                        {
+                            "Cache": "128 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "4.2 GHz (5.7 GHz with Turbo)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Silver"
+                        },
+                        {
+                            "Box contents": "AMD Ryzen 9 7950X3D Processor"
+                        },
+                        {
+                            "Dimensions": "130 x 91 x 129 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "330 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177338-299",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10237839?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 5 5600 Processor",
+            "price": "£124.00",
+            "description": [
+                "Includes CPU cooler",
+                "Socket: AM4",
+                "Frequency: 3.5 GHz",
+                "Turbo Core: 4.4 GHz",
+                "Hexa-core",
+                "Cache: 32 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 12
+                        },
+                        {
+                            "Number of cores": "Hexa-core"
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "70 x 130 x 135 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "0.94 kg"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 5 5600 Processor\n- Wraith Stealth cooler\n- Instruction manual"
+                        },
+                        {
+                            "Colour": "Grey"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177340-332",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10247091?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 5 7600 Processor",
+            "price": "£189.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 3.8 GHz overclockable",
+                "Turbo Boost: 5.1 GHz",
+                "Hexa-core",
+                "Cache: 32 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X670\n- B650"
+                        },
+                        {
+                            "Cache": "32 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.8 GHz (5.1 GHz with Turbo)"
+                        },
+                        {
+                            "Socket": "AM5"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 12
+                        },
+                        {
+                            "Architecture": "Zen 4"
+                        },
+                        {
+                            "Number of cores": "Hexa-core"
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon Graphics"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "70 x 130 x 135 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "1060 g"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 5 7600 Processor\n- Wraith Stealth cooler"
+                        },
+                        {
+                            "Colour": "Black"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177343-374",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10246108?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 7 5800X3D Processor",
+            "price": "£319.00",
+            "description": [
+                "Socket: AM4",
+                "Frequency: 3.4 GHz",
+                "Turbo Boost: 4.5 GHz",
+                "Octa-core",
+                "Cache: 96 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X570\n- X470\n- X370\n- B550\n- B450\n- B350\n- A520"
+                        },
+                        {
+                            "Cache": "96 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.4 GHz (4.5 GHz with Turbo)"
+                        },
+                        {
+                            "Socket": "AM4"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 16
+                        },
+                        {
+                            "Architecture": "Zen 3"
+                        },
+                        {
+                            "Number of cores": "Octa-core"
+                        },
+                        {
+                            "Thermal design power": "105 W"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "70 x 125 x 125 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "120 g"
+                        },
+                        {
+                            "Box contents": "AMD Ryzen 7 5800X3D Processor"
+                        },
+                        {
+                            "Colour": "Grey"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177345-411",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10237840?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 7 5700X Processor",
+            "price": "£179.00",
+            "description": [
+                "Socket: AM4",
+                "Frequency: 3.4 GHz",
+                "Turbo Boost: 4.6 GHz",
+                "Octa-core",
+                "Cache: 32 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "Octa-core"
+                        },
+                        {
+                            "Number of threads": 16
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X570\n- X470\n- X370\n- B550\n- B450\n- B350\n- A520"
+                        },
+                        {
+                            "Socket": "AMD AM4"
+                        },
+                        {
+                            "Cache": "32 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.4 GHz (4.6 GHz with Turbo)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Grey"
+                        },
+                        {
+                            "Box contents": "AMD Ryzen 7 5700X Processor"
+                        },
+                        {
+                            "Dimensions": "720 x 130 x 135 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "119 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177348-446",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10249579?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 7 7800X3D Processor",
+            "price": "£359.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 4.2 GHz",
+                "Turbo Boost: 5.0 GHz",
+                "Octa-core",
+                "Cache: 96 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- B650\n- X670"
+                        },
+                        {
+                            "Cache": "96 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "4.2 GHz (5.0 GHz with Turbo)"
+                        },
+                        {
+                            "Socket": "AM5"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 16
+                        },
+                        {
+                            "Architecture": "Zen 4"
+                        },
+                        {
+                            "Number of cores": "Octa-core"
+                        },
+                        {
+                            "Thermal design power": "120 W"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon Graphics"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "130 x 91 x 129 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "330 g"
+                        },
+                        {
+                            "Box contents": "AMD Ryzen 7 7800X3D Processor"
+                        },
+                        {
+                            "Colour": "Silver"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177351-486",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10259375?$l-large$&fmt=auto",
+            "name": "INTEL Core™ i5-14600K Unlocked Processor",
+            "price": "£319.00",
+            "description": [
+                "Socket: LGA 1700",
+                "Frequency: 3.5 GHz overclockable",
+                "Turbo Boost: 5.3 GHz",
+                "14-core",
+                "Cache: 24 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "Intel® 700 series"
+                        },
+                        {
+                            "Cache": "24 MB Intel® Smart Cache"
+                        },
+                        {
+                            "Processor speed": "- Performance cores: 3.5 GHz (5.3 GHz with Max TurboBoost)\n- Efficient cores: 2.6 GHz (4.0 GHz with Max TurboBoost)"
+                        },
+                        {
+                            "Socket": "LGA 1700"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 20
+                        },
+                        {
+                            "Architecture": "Raptor Lake Refresh"
+                        },
+                        {
+                            "Number of cores": "- Performance cores x 6\n- Efficient cores x 8"
+                        },
+                        {
+                            "Thermal design power": "125 W (181 W Maximum Turbo power)"
+                        },
+                        {
+                            "Integrated graphics": "Intel® UHD Graphics 770"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "5 x 40 x 40 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "25 g"
+                        },
+                        {
+                            "System requirements": "- LGA 1700 socket\n- Intel® 600/700 series chipset"
+                        },
+                        {
+                            "Box contents": "Intel® Core™ i5-14600K Unlocked Processor"
+                        },
+                        {
+                            "Colour": "Silver"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177354-527",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10259534?$l-large$&fmt=auto",
+            "name": "INTEL Core™ i5-14600KF Unlocked Processor",
+            "price": "£299.00",
+            "description": [
+                "Socket: LGA 1700",
+                "Frequency: 3.5 GHz overclockable",
+                "Turbo Boost: 5.3 GHz",
+                "14-core",
+                "Cache: 24 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "Intel® 700 series"
+                        },
+                        {
+                            "Cache": "24 MB Intel® Smart Cache"
+                        },
+                        {
+                            "Processor speed": "- Performance cores: 3.5 GHz (5.3 GHz with Max TurboBoost)\n- Efficient cores: 2.6 GHz (4.0 GHz with Max TurboBoost)"
+                        },
+                        {
+                            "Socket": "LGA 1700"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 20
+                        },
+                        {
+                            "Architecture": "Raptor Lake Refresh"
+                        },
+                        {
+                            "Number of cores": "- Performance cores x 6\n- Efficient cores x 8"
+                        },
+                        {
+                            "Thermal design power": "125 W (181 W Maximum Turbo power)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "5 x 40 x 40 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "25 g"
+                        },
+                        {
+                            "System requirements": "- LGA 1700 socket\n- Intel® 600/700 series chipset"
+                        },
+                        {
+                            "Box contents": "Intel® Core™ i5-14600KF Unlocked Processor"
+                        },
+                        {
+                            "Colour": "Silver"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177356-566",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10260713?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 5 8600G Processor",
+            "price": "£219.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 4.3 GHz overclockable",
+                "Turbo Boost: 5.0 GHz",
+                "Hexa-core",
+                "Cache: 16 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "Hexa-core"
+                        },
+                        {
+                            "Architecture": "Zen 4 / RDNA 3"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon 760M"
+                        },
+                        {
+                            "Number of threads": 12
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- A620\n- B650\n- X670"
+                        },
+                        {
+                            "Socket": "AM5"
+                        },
+                        {
+                            "Cache": "16 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "4.3 GHz (5.0 GHz with Max. Boost)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Grey"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 5 8600G Processor\n- Wraith Stealth cooler"
+                        },
+                        {
+                            "Dimensions": "125 x 125 x 85 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "440 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177359-608",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10259390?$l-large$&fmt=auto",
+            "name": "INTEL Core™ i7-14700KF Unlocked Processor",
+            "price": "£399.00",
+            "description": [
+                "Socket: LGA 1700",
+                "Frequency: 3.4 GHz overclockable",
+                "Turbo Boost: 5.5 GHz",
+                "20-core",
+                "Cache: 33 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "- Performance cores x 8\n- Efficient cores x 12"
+                        },
+                        {
+                            "Architecture": "Raptor-Lake Refresh"
+                        },
+                        {
+                            "Number of threads": 28
+                        },
+                        {
+                            "Thermal design power": "125 W (253 W Maximum Turbo power)"
+                        },
+                        {
+                            "Cooling included": "No"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "Intel® 700 series"
+                        },
+                        {
+                            "Socket": "LGA 1700"
+                        },
+                        {
+                            "Cache": "33 MB Intel® Smart Cache"
+                        },
+                        {
+                            "Processor speed": "- Performance cores: 3.4 GHz (5.5 GHz with Max TurboBoost)\n- Efficient cores: 2.5 GHz (4.3 GHz with Max TurboBoost)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Silver"
+                        },
+                        {
+                            "System requirements": "- LGA 1700 socket\n- Intel® 600/700 series chipset"
+                        },
+                        {
+                            "Box contents": "Intel® Core™ i7-14700KF Unlocked Processor"
+                        },
+                        {
+                            "Dimensions": "5 x 40 x 40 (H x W x D)"
+                        },
+                        {
+                            "Weight": "25 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177362-649",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10259384?$l-large$&fmt=auto",
+            "name": "INTEL Core™ i9-14900KF Unlocked Processor",
+            "price": "£579.00",
+            "description": [
+                "Socket: LGA 1700",
+                "Frequency: 3.2 GHz overclockable",
+                "Turbo Boost: 5.6 GHz",
+                "24-core",
+                "Cache: 36 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "Intel® 700 series"
+                        },
+                        {
+                            "Cache": "36 MB Intel® Smart Cache"
+                        },
+                        {
+                            "Processor speed": "- Performance cores: 3.2 GHz (5.6 GHz with Max TurboBoost)\n- Efficient cores: 2.4 GHz (4.4 GHz with Max TurboBoost)"
+                        },
+                        {
+                            "Socket": "LGA 1700"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 32
+                        },
+                        {
+                            "Architecture": "Raptor-Lake Refresh"
+                        },
+                        {
+                            "Number of cores": "- Performance cores x 8\n- Efficient cores x 16"
+                        },
+                        {
+                            "Thermal design power": "125 W (253 W Maximum Turbo power)"
+                        },
+                        {
+                            "Integrated graphics": "Intel® UHD Graphics 770"
+                        },
+                        {
+                            "Cooling included": "No"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "5 x 40 x 40 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "25 g"
+                        },
+                        {
+                            "System requirements": "- LGA 1700 socket\n- Intel® 600/700 series chipset"
+                        },
+                        {
+                            "Box contents": "Intel® Core™ i9-14900KF Unlocked Processor"
+                        },
+                        {
+                            "Colour": "Silver"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177365-692",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10259372?$l-large$&fmt=auto",
+            "name": "INTEL Core™ i9-14900K Unlocked Processor",
+            "price": "£589.00",
+            "description": [
+                "Socket: LGA 1700",
+                "Frequency: 3.2 GHz overclockable",
+                "Turbo Boost: 5.6 GHz",
+                "24-core",
+                "Cache: 36 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "- Performance cores x 8\n- Efficient cores x 16"
+                        },
+                        {
+                            "Architecture": "Raptor-Lake Refresh"
+                        },
+                        {
+                            "Integrated graphics": "Intel® UHD Graphics 770"
+                        },
+                        {
+                            "Number of threads": 32
+                        },
+                        {
+                            "Thermal design power": "125 W (253 W Maximum Turbo power)"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "Intel® 700 series"
+                        },
+                        {
+                            "Socket": "LGA 1700"
+                        },
+                        {
+                            "Cache": "36 MB Intel® Smart Cache"
+                        },
+                        {
+                            "Processor speed": "- Performance cores: 3.2 GHz (5.6 GHz with Max TurboBoost)\n- Efficient cores: 2.4 GHz (4.4 GHz with Max TurboBoost)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Silver"
+                        },
+                        {
+                            "System requirements": "- LGA 1700 socket\n- Intel® 600/700 series chipset"
+                        },
+                        {
+                            "Box contents": "Intel® Core™ i9-14900K Unlocked Processor"
+                        },
+                        {
+                            "Dimensions": "5 x 40 x 40 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "25 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714177368-733",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10259377?$l-large$&fmt=auto",
+            "name": "INTEL Core™ i7-14700K Unlocked Processor",
+            "price": "£419.00",
+            "description": [
+                "Socket: LGA 1700",
+                "Frequency: 3.4 GHz overclockable",
+                "Turbo Boost: 5.5 GHz",
+                "20-core",
+                "Cache: 33 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "- Performance cores x 8\n- Efficient cores x 12"
+                        },
+                        {
+                            "Architecture": "Raptor-Lake Refresh"
+                        },
+                        {
+                            "Integrated graphics": "Intel® UHD Graphics 770"
+                        },
+                        {
+                            "Number of threads": 28
+                        },
+                        {
+                            "Thermal design power": "125 W (253 W Maximum Turbo power)"
+                        },
+                        {
+                            "Cooling included": "No"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "Intel® 700 series"
+                        },
+                        {
+                            "Socket": "LGA 1700"
+                        },
+                        {
+                            "Cache": "33 MB Intel® Smart Cache"
+                        },
+                        {
+                            "Processor speed": "- Performance cores: 3.4 GHz (5.5 GHz with Max TurboBoost\n- Efficient cores: 2.5 GHz (4.3 GHz with Max TurboBoost)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Silver"
+                        },
+                        {
+                            "System requirements": "- LGA 1700 socket\n- Intel® 600/700 series chipset"
+                        },
+                        {
+                            "Box contents": "Intel® Core™ i7-14700K Unlocked Processor"
+                        },
+                        {
+                            "Dimensions": "5 x 40 x 40 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "25 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173722-1",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10227697?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 7 5700G Processor",
+            "price": "£181.00",
+            "description": [
+                "Includes CPU cooler",
+                "Socket: AM4",
+                "Frequency: 3.8 GHz",
+                "Turbo Boost: 4.6 GHz",
+                "Octa-core",
+                "Cache: 16 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [
+                "https://media.currys.biz/i/currysprod/10227697_001?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10227697_002?$t-thumbnail$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 16
+                        },
+                        {
+                            "Architecture": "Zen 3"
+                        },
+                        {
+                            "Number of cores": "Octa-core"
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Integrated graphics": "Radeon graphics"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "230 x 235 x 405 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "5.27 kg"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 7 5700G Processor\n- Wraith Spire cooler\n- Instruction manual"
+                        },
+                        {
+                            "Colour": "Black"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173724-40",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10237838?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 5 5500 Processor",
+            "price": "£79.00",
+            "description": [
+                "Includes CPU cooler",
+                "Socket: AM4",
+                "Frequency: 3.6 GHz",
+                "Turbo Core: 4.2 GHz",
+                "Hexa-core",
+                "Cache: 16 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [
+                "https://media.currys.biz/i/currysprod/10237838_001?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10237838_002?$t-thumbnail$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "Hexa-core"
+                        },
+                        {
+                            "Number of threads": 12
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Grey"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 5 5500 Processor\n- Wraith Stealth cooler\n- Instruction manual"
+                        },
+                        {
+                            "Dimensions": "70 x 130 x 135 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "0.94 kg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173727-75",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10216691?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 5 5600X Processor",
+            "price": "£144.00",
+            "description": [
+                "Includes CPU cooler",
+                "Socket: AM4",
+                "Frequency: 3.7 GHz",
+                "Turbo Boost: 4.6 GHz",
+                "Hexa-core",
+                "Cache: 32 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [
+                "https://media.currys.biz/i/currysprod/10216691_001?$t-thumbnail$&fmt=auto",
+                "//flv.isitetv.com/media/video/2503/ol_video_img_url__236576_2503.jpg?m=2503&r=1048&t=1",
+                "https://media.currys.biz/i/currysprod/10216691_002?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10216691_003?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10216691_004?$t-thumbnail$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- B550\n- X570\n- A520"
+                        },
+                        {
+                            "Cache": "32 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.7 GHz (4.6 GHz with Turbo)"
+                        },
+                        {
+                            "Socket": "AM4"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 12
+                        },
+                        {
+                            "Number of cores": "Hexa-core"
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Cooling included": "Yes - Wraith Stealth Cooler"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "134 x 70 x 134 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "410 g"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 5 5600X Processor\n- AMD Wraith Stealth Cooler\n- Bezel sticker\n- BIOS insert\n- Thermal solution\n- Instruction manual"
+                        },
+                        {
+                            "Colour": "Silver"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173729-116",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10243355?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 7 7700X Processor",
+            "price": "£359.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 4.5 GHz overclockable",
+                "Turbo Boost: 5.4 GHz",
+                "Octa-core",
+                "Cache: 32 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [
+                "https://media.currys.biz/i/currysprod/10243355_001?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10243355_002?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10243355_003?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10243355_004?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10243355_005?$t-thumbnail$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "Octa-core"
+                        },
+                        {
+                            "Architecture": "Zen 4"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon Graphics"
+                        },
+                        {
+                            "Number of threads": 16
+                        },
+                        {
+                            "Thermal design power": "105 W"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X670\n- B650"
+                        },
+                        {
+                            "Socket": "AM5"
+                        },
+                        {
+                            "Cache": "32 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "4.5 GHz (5.4 GHz with Turbo)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Box contents": "AMD Ryzen 7 7700X Processor"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173732-157",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10247159?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 5 4600G Processor",
+            "price": "£89.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM4",
+                "Frequency: 3.7 GHz overclockable",
+                "Turbo Core: 4.2 GHz",
+                "Hexa-core",
+                "Cache: 8 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [
+                "https://media.currys.biz/i/currysprod/10247159_001?$t-thumbnail$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- B450\n- B460\n- B550\n- B560\n- X470\n- X570"
+                        },
+                        {
+                            "Cache": "8 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.7 GHz (4.2 GHz with Turbo)"
+                        },
+                        {
+                            "Socket": "AM4"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 12
+                        },
+                        {
+                            "Architecture": "Zen 2"
+                        },
+                        {
+                            "Number of cores": "Hexa-core"
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Integrated graphics": "Radeon graphics"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "70 x 125 x 130 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "440 g"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 5 4600G Processor\n- Wraith Stealth cooler"
+                        },
+                        {
+                            "Colour": "Black"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173735-198",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10216690?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 7 5800X Processor",
+            "price": "£239.00",
+            "description": [
+                "Socket: AM4",
+                "Frequency: 3.8 GHz",
+                "Turbo Boost: 4.7 GHz",
+                "Octa-core",
+                "Cache: 32 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [
+                "https://media.currys.biz/i/currysprod/10216690_001?$t-thumbnail$&fmt=auto",
+                "//flv.isitetv.com/media/video/2503/ol_video_img_url__236576_2503.jpg?m=2503&r=1048&t=1",
+                "https://media.currys.biz/i/currysprod/10216690_002?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10216690_003?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10216690_004?$t-thumbnail$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "Octa-core"
+                        },
+                        {
+                            "Number of threads": 16
+                        },
+                        {
+                            "Thermal design power": "105 W"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- B550\n- X570\n- A520"
+                        },
+                        {
+                            "Socket": "AM4"
+                        },
+                        {
+                            "Cache": "32 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.8 GHz (4.7 GHz with Turbo)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Silver"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 7 5800X Processor\n- Bezel sticker\n- BIOS insert\n- Instruction manual"
+                        },
+                        {
+                            "Dimensions": "134 x 70 x 134 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "150 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173737-236",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10247079?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 5 4500 Processor",
+            "price": "£66.00",
+            "description": [
+                "Includes CPU cooler",
+                "Socket: AM4",
+                "Frequency: 3.6 GHz overclockable",
+                "Turbo Core: 4.1 GHz",
+                "Hexa-core",
+                "Cache: 8 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- B450\n- B460\n- B550\n- B560\n- X470\n- X570"
+                        },
+                        {
+                            "Cache": "8 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.6 GHz (4.1 GHz with Turbo)"
+                        },
+                        {
+                            "Socket": "AM4"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 12
+                        },
+                        {
+                            "Architecture": "Zen 2"
+                        },
+                        {
+                            "Number of cores": "Hexa-core"
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "72 x 130 x 135 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "450 g"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 5 4500 Processor\n- Wraith Stealth cooler"
+                        },
+                        {
+                            "Colour": "Black"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173740-274",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10260715?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 7 5700X3D Processor",
+            "price": "£239.00",
+            "description": [
+                "Socket: AM4",
+                "Frequency: 3.0 GHz",
+                "Turbo Boost: 4.1 GHz",
+                "Octa-core",
+                "Cache: 96 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X570\n- X470\n- B550\n- B450\n- A520"
+                        },
+                        {
+                            "Cache": "96 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.0 GHz (4.1 GHz with Turbo)"
+                        },
+                        {
+                            "Socket": "AM4"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 16
+                        },
+                        {
+                            "Architecture": "Zen 3"
+                        },
+                        {
+                            "Number of cores": "Octa-core"
+                        },
+                        {
+                            "Thermal design power": "105 W"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "75 x 130 x 140 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "120 g"
+                        },
+                        {
+                            "Box contents": "AMD Ryzen 7 5700X3D Processor"
+                        },
+                        {
+                            "Colour": "Grey"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173748-311",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10260718?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 7 8700G Processor",
+            "price": "£329.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 4.2 GHz overclockable",
+                "Turbo Boost: 5.1 GHz",
+                "Octa-core",
+                "Cache: 16 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- A620\n- B650\n- X670"
+                        },
+                        {
+                            "Cache": "16 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "4.2 GHz (5.1 GHz with Max. Boost)"
+                        },
+                        {
+                            "Socket": "AM5"
+                        }
+                    ]
+                },
+                {
+                    "FEATURES": [
+                        {
+                            "Number of threads": 16
+                        },
+                        {
+                            "Architecture": "Zen 4 / RDNA 3"
+                        },
+                        {
+                            "Number of cores": "Octa-core"
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon 780M"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Dimensions": "135 x 135 x 135 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "620 g"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 7 8700G Processor\n- Wraith Stealth cooler"
+                        },
+                        {
+                            "Colour": "Grey"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173750-353",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10247102?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 7 7700 Processor",
+            "price": "£299.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 3.8 GHz overclockable",
+                "Turbo Boost: 5.3 GHz",
+                "Octa-core",
+                "Cache: 32 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "Octa-core"
+                        },
+                        {
+                            "Architecture": "Zen 4"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon Graphics"
+                        },
+                        {
+                            "Number of threads": 16
+                        },
+                        {
+                            "Thermal design power": "65 W"
+                        },
+                        {
+                            "Cooling included": "Yes - fan"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X670\n- B650"
+                        },
+                        {
+                            "Socket": "AM5"
+                        },
+                        {
+                            "Cache": "32 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "3.8 GHz (5.3 GHz with Turbo)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Box contents": "- AMD Ryzen 7 7700 Processor\n- Wraith Prism cooler"
+                        },
+                        {
+                            "Dimensions": "75 x 131 x 135 mm (H x W x D)"
+                        },
+                        {
+                            "Weight": "960 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1714173753-395",
+            "category": "Processors",
+            "mainImg": "https://media.currys.biz/i/currysprod/10243347?$l-large$&fmt=auto",
+            "name": "AMD Ryzen 9 7900X Processor",
+            "price": "£382.00",
+            "description": [
+                "With Radeon graphics",
+                "Socket: AM5",
+                "Frequency: 4.7 GHz overclockable",
+                "Turbo Boost: 5.6 GHz",
+                "12-core",
+                "Cache: 64 MB L3",
+                "3 year guarantee"
+            ],
+            "imgs_src": [
+                "https://media.currys.biz/i/currysprod/10243347_001?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10243347_002?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10243347_003?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10243347_004?$t-thumbnail$&fmt=auto",
+                "https://media.currys.biz/i/currysprod/10243347_005?$t-thumbnail$&fmt=auto"
+            ],
+            "specifications": [
+                {
+                    "FEATURES": [
+                        {
+                            "Number of cores": "12-core"
+                        },
+                        {
+                            "Architecture": "Zen 4"
+                        },
+                        {
+                            "Integrated graphics": "AMD Radeon Graphics"
+                        },
+                        {
+                            "Number of threads": 24
+                        },
+                        {
+                            "Thermal design power": "170 W"
+                        }
+                    ]
+                },
+                {
+                    "OVERVIEW": [
+                        {
+                            "Recommended chipsets": "- X670\n- B650"
+                        },
+                        {
+                            "Socket": "AM5"
+                        },
+                        {
+                            "Cache": "64 MB L3 cache"
+                        },
+                        {
+                            "Processor speed": "4.7 GHz (5.6 GHz with Turbo)"
+                        }
+                    ]
+                },
+                {
+                    "GENERAL": [
+                        {
+                            "Colour": "Black"
+                        },
+                        {
+                            "Box contents": "AMD Ryzen 9 7900X Processor"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
     "Phones": [
         {
             "id": "1713132746-1",

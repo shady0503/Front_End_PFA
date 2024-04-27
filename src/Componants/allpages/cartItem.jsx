@@ -1,23 +1,28 @@
-import React, { useEffect, useState } from "react";
-import logo from '../../assets/logo.webp';
+import React, { useContext, useEffect, useState } from "react";
 import './cartItem.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrash } from '@fortawesome/free-solid-svg-icons';
 
+import { DataContext } from "../dataContext";
+
 export default function CartItem({ item, onDeleteItem, updateQuantity }) {
     const [quantity, setQuantity] = useState(item.quantity);
+    const {addToCart}= useContext(DataContext)
 
 
 
     const handleDecreaseQuantity = () => {
         setQuantity(prevQuantity => {
             const newQuantity = Math.max(prevQuantity - 1, 1);
+            addToCart(item, -1)
             return newQuantity;
         });
     };
 
     const handleIncreaseQuantity = () => {
         setQuantity(prevQuantity => prevQuantity + 1);
+        addToCart(item, 1)
+        
     };
 
     useEffect(() => {

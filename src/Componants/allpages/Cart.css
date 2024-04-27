@@ -39,12 +39,16 @@
 
 @media (max-width : 786px) {
     .cart-container{
-        width: 80vh;
+        width: 600px;
     }
 }
 
-@media (max-width : 400px) {
+@media (max-width : 490px) {
     .cart-container{
-        width: 50vh;
+        width: 380px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
 }

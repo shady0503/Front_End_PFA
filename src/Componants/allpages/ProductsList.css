@@ -11,9 +11,11 @@
 
 
 .article-list{
-    display: grid;
+    display: flex;
+    flex-direction: column;
     justify-content: space-evenly !important;
     align-items: center;
+    justify-content: center;
     grid-template-columns: repeat(1, 1fr);
     margin-top: 50px;
     margin-bottom: 20px;
@@ -49,14 +51,34 @@
     .container-fluid-Articles{
         width: 100%;
         margin: 0 !important;
-        margin-top: -200px;
+        display: flex;
+        flex-direction: column;
         justify-content: center !important;
         align-items: center !important;
-
-        grid-template-columns: 100% ;
     }
 
     .laptops-page{
         flex-direction: column;
     }
+}
+
+.pagination-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav .pagination{
+    display: flex;
+    align-self: center;
+    gap: 20px;
+
+    li a{
+        color: black;
+    }
+}
+
+.page-link-active{
+    background-color: black;
+    color: white !important;
+    transition: all 0.3s ease;
 }

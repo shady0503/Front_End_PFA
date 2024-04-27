@@ -87,7 +87,7 @@
 
 
 
-@media (max-width : 400px) {
+@media (max-width : 490px) {
     .item-container{
         flex-direction: column;
         height: 25vh;

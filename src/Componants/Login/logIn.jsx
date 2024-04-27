@@ -6,7 +6,7 @@ import { faGoogle, faFacebook } from '@fortawesome/free-brands-svg-icons';
 import { useState } from 'react';
 
 function LogIn() {
-    const [isNew, setIsNew] = useState(true)
+    const [isNew, setIsNew] = useState(false)
     return (
         <div className="Login-Container">
             <div>

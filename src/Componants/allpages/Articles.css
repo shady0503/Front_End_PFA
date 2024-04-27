@@ -1,7 +1,7 @@
 .article {
     display: flex;
     border: 2px solid transparent;
-    width: 99%;
+    width: 1000px;
     height: 450px;
     box-sizing: border-box;
     justify-content: space-evenly;
@@ -135,11 +135,17 @@
 @media (max-width : 900px) {
     .img-container {
         padding-top: 10px;
+        img{
+            width: 300px !important;
+            height: 300px !important;
+        }
     }
 
     .article {
+        padding: 10px;
         flex-direction: column;
         height: auto;
+        width: 350px;
     }
 
     .actions {

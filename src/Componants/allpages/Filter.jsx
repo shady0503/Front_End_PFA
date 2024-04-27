@@ -14,7 +14,6 @@ export default function Filter() {
         gpuTypes: ["NVIDIA GeForce", "AMD Radeon", "Integrated"],
     };
 
-    // Initialize openSection with all section keys
     const initialOpenSections = new Set(Object.keys(filters));
     const [openSections, setOpenSections] = useState(initialOpenSections);
     const filterRef = useRef(null);

@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css';
 export const DataContext = createContext();
 
 export const DataProvider = ({ children }) => {
-    const [data, setData] = useState({ Gaming_Laptops: [], Phones: [], Gaming_Desktop: [], promotionItems: [], cartItems: [] });
+    const [data, setData] = useState({ Gaming_Laptops: [], Graphic_Cards: [] ,Processors:[], Phones: [], Gaming_Desktop: [], promotionItems: [], cartItems: [] });
     const [isLoading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
@@ -16,6 +16,8 @@ export const DataProvider = ({ children }) => {
             try {
                 setData({
                     Gaming_Laptops: loadedData.Gaming_Laptops,
+                    Processors: loadedData.Processors,
+                    Graphic_Cards: loadedData.Graphic_Cards,
                     Phones: loadedData.Phones,
                     Gaming_Desktop: loadedData.Gaming_Desktop,
                     promotionItems: loadedData.promotion_items,
@@ -51,46 +53,67 @@ export const DataProvider = ({ children }) => {
         setData((prevData) => {
             const existingItemIndex = prevData.cartItems.findIndex(item => item.id === newItem.id);
             if (existingItemIndex >= 0) {
-                // Update quantity
-                const updatedCartItems = prevData.cartItems.map((item, index) =>
-                    index === existingItemIndex ? { ...item, quantity: item.quantity + q } : item
-                );
-                toast.success(`${newItem.name.split('-')[0]} Quantity updated!`, {
-                    position: "top-right",
-                    autoClose: 2000,
-                    hideProgressBar: true,
-                    closeOnClick: true,
-                    pauseOnHover: true,
-                    draggable: true,
-                    progress: undefined,
-                    theme: "dark",
-                    transition: Bounce,
-                });
-                return {
-                    ...prevData,
-                    cartItems: updatedCartItems,
-                };
+                return updateExistingItem(prevData, existingItemIndex, newItem, q);
             } else {
-                // Add new item with quantity
-                const newItemWithQuantity = { ...newItem, quantity: q };
-                toast.success(`${newItem.name.split('-')[0]} Added to cart!`, {
-                    position: "top-right",
-                    autoClose: 2000,
-                    hideProgressBar: true,
-                    closeOnClick: true,
-                    pauseOnHover: true,
-                    draggable: true,
-                    progress: undefined,
-                    theme: "dark",
-                    transition: Bounce,
-                }); 
-                return {
-                    ...prevData,
-                    cartItems: [newItemWithQuantity, ...prevData.cartItems],
-                };
+                return addNewItem(prevData, newItem, q);
             }
         });
     };
+    
+    const updateExistingItem = (prevData, index, newItem, q) => {
+        const currentItem = prevData.cartItems[index];
+        const newQuantity = currentItem.quantity + q;
+        if (newQuantity >= 1) {
+            const updatedCartItems = prevData.cartItems.map((item, idx) =>
+                idx === index ? { ...item, quantity: newQuantity } : item
+            );
+            showSuccessToast(`${newItem.name.split('-')[0]} Quantity updated!`);
+            return { ...prevData, cartItems: updatedCartItems };
+        } else {
+            showToastError("Cannot reduce item quantity below 1.");
+            return { ...prevData };  // Maintain previous state if the update is invalid
+        }
+    };
+    
+    const addNewItem = (prevData, newItem, q) => {
+        if (q >= 1) {
+            const newItemWithQuantity = { ...newItem, quantity: q };
+            showSuccessToast(`${newItem.name.split('-')[0]} Added to cart!`);
+            return { ...prevData, cartItems: [newItemWithQuantity, ...prevData.cartItems] };
+        } else {
+            showToastError("Quantity must be at least 1 to add to cart.");
+            return { ...prevData };  // Maintain previous state if the quantity is invalid
+        }
+    };
+    
+    const showSuccessToast = (message) => {
+        toast.success(message, {
+            position: "top-right",
+            autoClose: 2000,
+            hideProgressBar: true,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "dark",
+            transition: Bounce,
+        });
+    };
+    
+    const showToastError = (message) => {
+        toast.error(message, {
+            position: "top-right",
+            autoClose: 2000,
+            hideProgressBar: true,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "dark",
+            transition: Bounce,
+        });
+    };
+    
 
     const deleteFromCart = (id) => {
         setData((prevData) => ({

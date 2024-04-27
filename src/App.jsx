@@ -43,6 +43,8 @@ function App() {
     return () => window.removeEventListener('resize', handleResize);
   }, []);
   useScrollToTop()
+
+  
   return (
     <DataProvider>
       <div className='App-Container d-flex flex-column'>
@@ -68,11 +70,11 @@ function App() {
           <Route path="/Front_End_PFA/" element={<HomePage />} />
           <Route path="/Front_End_PFA/home" element={<HomePage />} />
           <Route path="/Front_End_PFA/Login" element={<LogIn />} />
-          <Route path="/Front_End_PFA/Gaming_Laptops" element={<Laptops slug="Gaming_Laptops" filter="True" />} />
-          <Route path="/Front_End_PFA/Gaming_Desktop" element={<Laptops slug="Gaming_Desktop" filter="True" />} />
-          <Route path="/Front_End_PFA/Phones" element={<Laptops slug="Phones" filter="True" />} />
-          <Route path="/Front_End_PFA/Accessories" element={<Laptops slug="Phones" filter="True" />} />
-          <Route path="/Front_End_PFA/Deals" element={<Laptops slug="Gaming_Laptops" filter="false" />} />
+          <Route path="/Front_End_PFA/Gaming_Laptops" element={<Laptops slug={["Gaming_Laptops"]} filter="True" />} />
+          <Route path="/Front_End_PFA/Gaming_Desktop" element={<Laptops slug={["Gaming_Desktop"]} filter="True" />} />
+          <Route path="/Front_End_PFA/Phones" element={<Laptops slug={["Phones"]} filter="True" />} />
+          <Route path="/Front_End_PFA/Accessories" element={<Laptops slug={["Accessories","Processors", "Graphic_Cards"]} filter="True" />} />
+          <Route path="/Front_End_PFA/Deals" element={<Laptops slug={["Gaming_Laptops"]} filter="false" />} />
           <Route path="/Front_End_PFA/Support" element={<Support />} />
           <Route path="/Front_End_PFA/Dashboard/*" element={<DashBoard />}></Route>
         </Routes>

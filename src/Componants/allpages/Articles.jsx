@@ -71,7 +71,7 @@ export default function Articles(props) {
             <div className="actions">
                 <div className="paiement-info">
                     <h3 className="price">{item.price}</h3>
-                    <span>or pay {((price / 36) * 1.1).toFixed(2) } over 36 months </span>
+                    <span>or pay £{((price / 36) * 1.1).toFixed(2) } (110%) over 36 months </span>
                 </div>
                 <div className="quantity">
                     Amount:
@@ -81,7 +81,7 @@ export default function Articles(props) {
                 </div>
                 <div className="controls">
                     <button className="btn addToCart" onClick={() => handleClick(item, quantity)}>Add to cart</button>
-                    <Link to={`/Front_End_PFA/${slug}/${item.id}`}><button className="btn">View Product</button>
+                    <Link to={`/Front_End_PFA/${slug[0]}/${item.id}`}><button className="btn">View Product</button>
                     </Link>
                 </div>
             </div>
