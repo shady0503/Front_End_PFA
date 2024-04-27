@@ -15,6 +15,7 @@ import { useEffect, useState } from 'react';
 import MainNavbar from './Componants/allpages/MainNavbar';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { CSSTransition } from 'react-transition-group';
 
 
 
@@ -44,22 +45,34 @@ function App() {
   }, []);
   useScrollToTop()
 
-  
+
   return (
     <DataProvider>
       <div className='App-Container d-flex flex-column'>
         {showHeaderAndFooter && (
           <div className='header-container' style={{ width: "100%" }}>
-            {(!open && (
+            <CSSTransition
+              in={!open}
+              timeout={300}
+              classNames="menu"
+              unmountOnExit
+            >
               <div className='hamberger-container' onClick={() => setOpen(!open)}>
                 <div className='hamberger first'></div>
                 <div className='hamberger second'></div>
                 <div className='hamberger third'></div>
               </div>
-            ))}
-            {open && <MainNavbar setOpen={setOpen} />}
-          </div>
-        )}
+            </CSSTransition>
+
+            <CSSTransition
+              in={open}
+              timeout={300}
+              classNames="navbar"
+              unmountOnExit
+            >
+              <MainNavbar setOpen={setOpen} />
+            </CSSTransition>
+          </div>)}
         <Routes>
           <Route path="/Front_End_PFA/cart" element={<Cart />} />
           <Route path="/Front_End_PFA/Gaming_Laptops/:id" element={<LandingPage />} />
@@ -73,7 +86,7 @@ function App() {
           <Route path="/Front_End_PFA/Gaming_Laptops" element={<Laptops slug={["Gaming_Laptops"]} filter="True" />} />
           <Route path="/Front_End_PFA/Gaming_Desktop" element={<Laptops slug={["Gaming_Desktop"]} filter="True" />} />
           <Route path="/Front_End_PFA/Phones" element={<Laptops slug={["Phones"]} filter="True" />} />
-          <Route path="/Front_End_PFA/Accessories" element={<Laptops slug={["Accessories","Processors", "Graphic_Cards"]} filter="True" />} />
+          <Route path="/Front_End_PFA/Accessories" element={<Laptops slug={["Accessories", "Processors", "Graphic_Cards"]} filter="True" />} />
           <Route path="/Front_End_PFA/Deals" element={<Laptops slug={["Gaming_Laptops"]} filter="false" />} />
           <Route path="/Front_End_PFA/Support" element={<Support />} />
           <Route path="/Front_End_PFA/Dashboard/*" element={<DashBoard />}></Route>
@@ -91,7 +104,7 @@ function App() {
           pauseOnHover
           theme="dark"
           transition:Slide
-          style={{ zIndex: 999999 }}  />
+          style={{ zIndex: 999999 }} />
       </div>
 
     </DataProvider>

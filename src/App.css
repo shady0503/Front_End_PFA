@@ -1,50 +1,82 @@
-*{
+* {
     padding: 0;
     margin: 0;
-    font-family: 'Arial', sans-serif; /* Clean, simple font */
+    font-family: 'Arial', sans-serif;
+    /* Clean, simple font */
 
+}
+
+.menu-enter,
+.navbar-enter {
+    opacity: 0;
+    transform: translateX(-20%);
+}
+
+.menu-enter-active,
+.navbar-enter-active {
+    opacity: 1;
+    transform: translateX(0);
+    transition: opacity 300ms, transform 300ms;
+}
+
+.menu-exit,
+.navbar-exit {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.menu-exit-active,
+.navbar-exit-active {
+    opacity: 0;
+    transform: translateX(-20%);
+    transition: opacity 300ms, transform 300ms;
 }
 
 
 
 .btn {
-    color: black ;
+    color: black;
     border-color: black;
     transition: all 0.3s ease;
     border: solid 1px black !important;
 }
 
-.btn:hover{
+.btn:hover {
     color: #fff !important;
     background-color: black !important;
 }
-button{
+
+button {
     transition: transform 0.3s ease;
 }
 
-button:active{
+button:active {
     transform: scale(0.95);
 }
 
-.heading-title{
+.heading-title {
     margin-top: 20px;
 }
 
-html, body {
+html,
+body {
     margin: 0;
-    width: 100%; 
+    width: 100%;
 }
 
-html, body{
+html,
+body {
     overflow-x: clip;
 }
+
 .content {
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 0 ;
+    padding-top: 0;
 }
+
 .App-Container {
     justify-content: center;
     display: flex;
@@ -56,7 +88,8 @@ html, body{
 
 
 .main-content {
-    flex-grow: 2; /* Allows the content to grow and fill available space, pushing the footer down */
+    flex-grow: 2;
+    /* Allows the content to grow and fill available space, pushing the footer down */
 }
 
 
@@ -82,5 +115,3 @@ html, body{
     scrollbar-color: black rgba(0, 0, 0, 0.1);
     scrollbar-width: thin;
 }
-
-

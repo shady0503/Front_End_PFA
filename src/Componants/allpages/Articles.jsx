@@ -3,6 +3,7 @@ import pc from "../../assets/pc.webp"
 import logo from "../../assets/logo.webp"
 import { Link } from 'react-router-dom';
 import { DataContext } from "../dataContext";
+import { Rating } from "@mui/material";
 
 export default function Articles(props) {
     if (!props.item) {
@@ -44,7 +45,7 @@ export default function Articles(props) {
     const slug = props.slug
 
     const handleClick = (item, quantity) => {
-            addToCart(item, quantity)
+        addToCart(item, quantity)
     }
 
     const normalizedPrice = item.price.replace(/[^0-9.-]+/g, '');
@@ -61,18 +62,24 @@ export default function Articles(props) {
 
             <div className="product-info" style={{ display: (!open ? "" : "none") }}>
                 <h6>{item.name}</h6>
-                {item.description.map((d,index)=>((<div key={index}>
+                {item.description.map((d, index) => ((<div key={index}>
                     <span>{d}</span>
-                <br />
+                    <br />
                 </div>)
-))}
+                ))}
             </div>
 
             <div className="actions">
                 <div className="paiement-info">
                     <h3 className="price">{item.price}</h3>
-                    <span>or pay £{((price / 36) * 1.1).toFixed(2) } (110%) over 36 months </span>
-                </div>
+                    <span>or pay £{((price / 36) * 1.1).toFixed(2)} (110%) over 36 months </span>
+                    <Rating
+                        name="half-rating-read"
+                        defaultValue={ Math.floor(Math.random() * 5) / 2 +3}
+                        precision={0.5}
+                        readOnly
+                        size="large"
+                    />                </div>
                 <div className="quantity">
                     Amount:
                     <button className="btn quantity-btn" onClick={() => { setQuantity(prev => prev === 1 ? 1 : prev - 1) }}>-</button>
