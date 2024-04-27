@@ -23,9 +23,9 @@ export default function HomePage() {
             <Promotion />
             <h1 className='heading-title'>Featured Articles: </h1>
             <div className='article-list'>
-                <Articles slug="Gaming_Laptops" key={1} item={item1}></Articles>
-                <Articles slug="Gaming_Laptops" key={2} item={item2}></Articles>
-                <Articles slug="Phones" key={3} item={item3}></Articles>
+                <Articles slug={["Gaming_Laptops"]} key={1} item={item1}></Articles>
+                <Articles slug={["Gaming_Laptops"]} key={2} item={item2}></Articles>
+                <Articles slug={["Phones"]} key={3} item={item3}></Articles>
 
             </div>
             <div className="d-flex justify-content-center align-items-center">
@@ -33,9 +33,9 @@ export default function HomePage() {
             </div>
             <h1 className='heading-title'>Popular Articles: </h1>
             <div className='article-list'>
-                <Articles slug="Gaming_Laptops" key={5} item={Gaming_Laptops[5]}></Articles>
-                <Articles slug="Phones" key={6} item={Phones[6]}></Articles>
-                <Articles slug="Gaming_Laptops" key={7} item={Gaming_Laptops[7]}></Articles>
+                <Articles slug={["Gaming_Laptops"]} key={5} item={Gaming_Laptops[5]}></Articles>
+                <Articles slug={["Phones"]} key={6} item={Phones[6]}></Articles>
+                <Articles slug={["Gaming_Laptops"]} key={7} item={Gaming_Laptops[7]}></Articles>
 
             </div>
             <div className="d-flex justify-content-center align-items-center">
