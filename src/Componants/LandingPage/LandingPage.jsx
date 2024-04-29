@@ -15,7 +15,7 @@ export default function LandingPage() {
 
     useEffect(() => {
         const fetchItem = async () => {
-            const allProducts = [...data.Gaming_Laptops, ...data.Processors, ...data.Phones, ...data.Gaming_Desktop, ...data.Graphic_Cards];
+            const allProducts = [...data.Gaming_Laptops,...data.Mouses,...data.Keyboards, ...data.Processors, ...data.Phones, ...data.Gaming_Desktop, ...data.Graphic_Cards];
         
             const filteredItems = allProducts.filter(product => product.id === id);
         

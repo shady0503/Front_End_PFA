@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css';
 export const DataContext = createContext();
 
 export const DataProvider = ({ children }) => {
-    const [data, setData] = useState({ Gaming_Laptops: [], Graphic_Cards: [] ,Processors:[], Phones: [], Gaming_Desktop: [], promotionItems: [], cartItems: [] });
+    const [data, setData] = useState({ Gaming_Laptops: [],Mouses : [], Keyboards: [], Graphic_Cards: [] ,Processors:[], Phones: [], Gaming_Desktop: [], promotionItems: [], cartItems: [] });
     const [isLoading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
@@ -15,6 +15,8 @@ export const DataProvider = ({ children }) => {
             setLoading(true);
             try {
                 setData({
+                    Keyboards : loadedData.Keyboards,
+                    Mouses : loadedData.Mouses,
                     Gaming_Laptops: loadedData.Gaming_Laptops,
                     Processors: loadedData.Processors,
                     Graphic_Cards: loadedData.Graphic_Cards,

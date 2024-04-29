@@ -73,13 +73,7 @@ export default function Articles(props) {
                 <div className="paiement-info">
                     <h3 className="price">{item.price}</h3>
                     <span>or pay £{((price / 36) * 1.1).toFixed(2)} (110%) over 36 months </span>
-                    <Rating
-                        name="half-rating-read"
-                        defaultValue={ Math.floor(Math.random() * 5) / 2 +3}
-                        precision={0.5}
-                        readOnly
-                        size="large"
-                    />                </div>
+                </div>
                 <div className="quantity">
                     Amount:
                     <button className="btn quantity-btn" onClick={() => { setQuantity(prev => prev === 1 ? 1 : prev - 1) }}>-</button>
@@ -87,7 +81,10 @@ export default function Articles(props) {
                     <button className="btn quantity-btn" onClick={() => { setQuantity(prev => prev + 1) }}>+</button>
                 </div>
                 <div className="controls">
-                    <button className="btn addToCart" onClick={() => handleClick(item, quantity)}>Add to cart</button>
+                    <button className="btn addToCart" onClick={() => {
+                    handleClick(item, quantity)
+                    props.resetFilters()
+                    }}>Add to cart</button>
                     <Link to={`/Front_End_PFA/${slug[0]}/${item.id}`}><button className="btn">View Product</button>
                     </Link>
                 </div>

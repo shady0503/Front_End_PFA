@@ -3,20 +3,22 @@ import Articles from './Articles';
 import { DataContext } from '../dataContext';
 import { Link } from 'react-router-dom';
 
-function ProductsList({ slug }) {
-    const { data } = useContext(DataContext);
+function ProductsList({ slug, productsList, resetFilters}) {
     const [currentPage, setCurrentPage] = useState(1);
-    const itemsPerPage = 10;  // Set number of items per page
 
-    // Early return if no data is available
-    if (!data) return null;
+    const itemsPerPage = 15;
 
-    // Compute filtered products list
-    const productsList = useMemo(() => {
-        return slug.reduce((acc, currentSlug) => {
-            return data[currentSlug] ? [...acc, ...data[currentSlug]] : acc;
-        }, []);
-    }, [data, slug]);
+    if (productsList.length===0) return <div style={{display:"flex",
+    alignItems: "center",
+    justifyContent:"center",
+    flexDirection:"column",
+    padding: 200,
+    border:"solid 1px Black",
+    borderRadius:"20px",
+    background: 'rgb(255,255,255)',
+    }}><h1>No Products matches your Filters
+        </h1>
+        <button className='btn' onClick={()=>{resetFilters()}}>Reset Filters</button></div>;
 
     const indexOfLastItem = currentPage * itemsPerPage;
     const indexOfFirstItem = indexOfLastItem - itemsPerPage;
@@ -53,7 +55,7 @@ function ProductsList({ slug }) {
     return (
         <div className='container-fluid-Articles'>
             {currentItems.map((item, index) => (
-                <Articles key={item.id} slug={slug} item={item} />
+                <Articles key={item.id} slug={slug} item={item} resetFilters={resetFilters} />
             ))}
             <Pagination itemsPerPage={itemsPerPage} totalItems={productsList.length} paginate={paginate} />
         </div>

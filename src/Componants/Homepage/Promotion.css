@@ -11,6 +11,8 @@
 
 
 
+
+
 .promotion-container .image-container:hover {
   box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
 }
@@ -80,6 +82,8 @@
   color: black !important;
   background-color: white;
 }
+
+
 
 @media (max-width: 786px) {
   .promotion-container{
